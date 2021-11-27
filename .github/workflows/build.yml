@@ -3,8 +3,8 @@ name: Build SNSZ
 on:
   workflow_dispatch:
   schedule:
-  # runs 08:15, 14:15, 18:15 (CET)  # FIXME: when CEST starts
-  - cron:  '15 7,13,18 * * *'
+    # runs 08:15, 14:15, 18:15 (CET)  # FIXME: when CEST starts
+    - cron:  '15 7,13,18 * * *'
 
 jobs:
   build:
