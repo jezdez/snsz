@@ -1,8 +1,8 @@
-# SNSZ
+# SNSZ Karte
 
-## Karte der Allgemeinverfügungen zu Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen
+Datenquelle: Allgemeinverfügungen zu Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen
 
-Quelle: Sächsisches Staatsministerium für Kultus, https://www.coronavirus.sachsen.de/amtliche-bekanntmachungen.html
+Sächsisches Staatsministerium für Kultus, https://www.coronavirus.sachsen.de/amtliche-bekanntmachungen.html
 
 Rechtliche Hinweise: https://www.smk.sachsen.de/rechtliche-hinweise.html
 
