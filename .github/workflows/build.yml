@@ -1,0 +1,49 @@
+name: Build SNSZ
+
+on:
+  workflow_dispatch:
+  schedule:
+  # runs 08:15, 14:15, 18:15 (CET)  # FIXME: when CEST starts
+  - cron:  '15 7,13,18 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: make install
+
+    - name: Extract raw data
+      run: make extract
+
+    - name: Transform data and write files
+      run: make transform
+
+    - name: Cleanup raw data
+      run: make clean
+
+    - name: Commit and push, if changed
+      run: |-
+        git config user.name "GitHub Actions"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@4.1.7
+      with:
+        branch: gh-pages  # The branch the action should deploy to.
+        folder: website  # The folder the action should deploy.
