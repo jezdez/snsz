@@ -19,7 +19,6 @@ map.on('load', () => {
             mapboxgl: mapboxgl,
             clearAndBlurOnEsc: true,
             collapsed: true,
-            flyTo: false,
             enableEventLogging: false,
             countries: "de",
             language: "de",
