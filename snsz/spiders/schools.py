@@ -1,10 +1,15 @@
 import dateparser
+import pytz
 import scrapy
 
 NAME_SPLIT_STR = " vom "
 VALIDITY_SPLIT_STR = "bis"
 AMBIGUITY_SPLIT_STR = "bzw. "
 NEW_SPLIT_STR = "NEU: "
+
+
+def parse_german_datetime(datetime, *args, **kwargs):
+    return dateparser.parse(datetime, languages=["de"], *args, **kwargs)
 
 
 class SchoolsSpider(scrapy.Spider):
@@ -43,28 +48,27 @@ class SchoolsSpider(scrapy.Spider):
             name = name.rstrip(" -")
 
             # record if the school is new
-            new = name.lower().startswith(NEW_SPLIT_STR.lower())
-            if new:
+            recently_added = name.lower().startswith(NEW_SPLIT_STR.lower())
+            if recently_added:
                 _, name = name.split(NEW_SPLIT_STR, 1)
 
             # also parse the date as German text
-            parsed_published_at = dateparser.parse(published_at, languages=["de"])
+            parsed_published_at = parse_german_datetime(published_at)
 
             # get the link to the ruling
             url = row.xpath("td[1]//a//@href").extract_first()
 
             # next extract the validity of the bulletin
             # which may or may not be multiple dates, because you know, whatever
+            # we ignore the earlier date
             validity = row.xpath("td[3]//text()").extract_first()
             if VALIDITY_SPLIT_STR in validity:
                 valid_from, valid_to = validity.split(VALIDITY_SPLIT_STR)
                 if AMBIGUITY_SPLIT_STR in valid_to:
-                    valid_to = valid_to.split(AMBIGUITY_SPLIT_STR)
-                else:
-                    valid_to = [valid_to]
+                    _, valid_to = valid_to.split(AMBIGUITY_SPLIT_STR)
                 try:
-                    parsed_valid_from = dateparser.parse(valid_from)
-                    parsed_valid_to = [dateparser.parse(val) for val in valid_to]
+                    parsed_valid_from = parse_german_datetime(valid_from)
+                    parsed_valid_to = parse_german_datetime(valid_to)
                 except ValueError:
                     # here be dragons
                     continue
@@ -72,9 +76,22 @@ class SchoolsSpider(scrapy.Spider):
                 # in case the validity is just one item or something
                 # just treat it as one (?)
                 try:
-                    parsed_valid_from = parsed_valid_to = dateparser.parse(validity)
+                    parsed_valid_from = parsed_valid_to = parse_german_datetime(validity)
                 except ValueError:
                     continue
+
+            if parsed_valid_to:
+                epoch_valid_to = int(
+                    pytz.utc.localize(parsed_valid_to).timestamp()
+                )
+            else:
+                epoch_valid_from = None
+            if parsed_valid_from:
+                epoch_valid_from = int(
+                    pytz.utc.localize(parsed_valid_from).timestamp()
+                )
+            else:
+                epoch_valid_to = None
 
             # finally, the "status" of the current bulletin
             status = row.xpath("td[2]//text()").extract_first()
@@ -87,5 +104,7 @@ class SchoolsSpider(scrapy.Spider):
                 "validity": validity,
                 "valid_from": parsed_valid_from,
                 "valid_to": parsed_valid_to,
-                "new": new,
+                "epoch_valid_from": epoch_valid_from,
+                "epoch_valid_to": epoch_valid_to,
+                "recently_added": recently_added,
             }

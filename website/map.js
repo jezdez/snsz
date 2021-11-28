@@ -40,6 +40,8 @@ map.on('load', () => {
             },
         }), "bottom-left"
     );
+    // Get the current date as UTC to compare it to the validity upper bound
+    var now = new Date(new Date().toUTCString().substr(0, 25));
     map.addLayer(
         {
             'id': 'schools',
@@ -50,9 +52,12 @@ map.on('load', () => {
                 'circle-stroke-width': 1,
                 'circle-color': [
                     'case',
-                    ['boolean', ['get', 'new'], false],
-                    '#c42d3f',
-                    '#0D3A35'
+                        ['boolean', ['get', 'recently_added'], false], '#c42d3f',
+                        ['>',
+                            now.setUTCHours(0,0,0,0) / 1000,
+                            ["get", "epoch_valid_to"]
+                        ], 'grey',
+                        '#0D3A35'
                 ]
             }
         }
@@ -75,7 +80,7 @@ map.on('load', () => {
         const status = e.features[0].properties.status;
         const validity = e.features[0].properties.validity;
         const url = e.features[0].properties.url;
-        const new_ = e.features[0].properties.new;
+        const recently_added = e.features[0].properties.recently_added;
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
         // over the copy being pointed to.
@@ -84,9 +89,9 @@ map.on('load', () => {
         }
         // Populate the popup and set its coordinates based on the feature found.
         var popup_html;
-        if (new_) {
+        if (recently_added) {
             popup_html = `
-                <h2><span class="red">NEU: </span>${name}</h2>
+                <h3><span class="red">NEU: </span>${name}</h3>
             `;
         } else {
             popup_html = `
