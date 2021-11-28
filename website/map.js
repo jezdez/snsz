@@ -18,6 +18,9 @@ map.on('load', () => {
             accessToken: mapboxgl.accessToken,
             mapboxgl: mapboxgl,
             clearAndBlurOnEsc: true,
+            collapsed: true,
+            flyTo: false,
+            enableEventLogging: false,
             countries: "de",
             language: "de",
             bbox: [11.8723081683, 50.1715419914, 15.0377433357, 51.6831408995],
@@ -35,8 +38,7 @@ map.on('load', () => {
                     );
                 });
             },
-
-        })
+        }), "bottom-left"
     );
     map.addLayer(
         {
