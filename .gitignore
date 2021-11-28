@@ -138,3 +138,6 @@ dmypy.json
 cython_debug/
 
 raw.json
+
+# pyCharm IDE project files
+/.idea
