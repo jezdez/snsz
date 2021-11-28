@@ -1,61 +1,139 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #0d3a35;
-  hyphens: auto;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  -webkit-hyphens: auto;
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #0d3a35;
+    hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
 }
 
 #map {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 h1,
 .label-toggle {
-  font-size: 18px;
-  line-height: 30px;
-  margin: 0;
-  font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0;
+    font-weight: bold;
 }
 
 h2 {
-  font-size: 14px;
-  line-height: 20px;
-  margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 10px;
 }
 
 a {
-  text-decoration: none;
-  color: #2dc4b2;
+    text-decoration: none;
+    color: #2dc4b2;
 }
 
 p {
-  margin: 5px 0;
+    margin: 5px 0;
 }
 
 #console {
-  position: absolute;
-  width: 300px;
-  margin: 10px;
-  padding: 5px 10px;
-  background-color: white;
-  border-radius: 4px;
+    position: absolute;
+    width: 300px;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: white;
+    border-radius: 4px;
 }
 
 .circle {
-  height: 9px;
-  width: 9px;
-  border-radius: 50%;
-  display: inline-block;
-  background-color: #000000;
+    height: 9px;
+    width: 9px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #000000;
 }
 
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin: 0;
+    padding: 0;
+}
+
+.mapboxgl-popup-content {
+    padding: 0 10px;
+}
+
+.mapboxgl-popup-content h3,
+.mapboxgl-popup-content dl,
+.mapboxgl-popup-content p {
+    margin: 0;
+}
+
+/* Collapsed */
+.geocoder-collapsed {
+    width: 30px;
+    min-width: 30px;
+    transition: width 0.25s, min-width 0.25s;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+.wrap-collabsible {
+}
+
+.label-toggle {
+    display: inline;
+    cursor: pointer;
+    transition: all 0.25s ease-out;
+}
+
+.label-toggle::before {
+    content: " ";
+    display: inline-block;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 7px solid currentColor;
+    vertical-align: middle;
+    margin-right: 0.7rem;
+    transform: translateY(-2px);
+    transition: transform 0.2s ease-out;
+}
+
+.toggle:checked + .label-toggle::before {
+    transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.25s ease-in-out;
+}
+
+.toggle:checked + .label-toggle + .collapsible-content {
+    max-height: 350px;
+}
+
+.toggle:checked + .label-toggle {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+}
+
+.collapsible-content p {
+    margin-bottom: 0;
+}
+
+/*
 .background-red {
   background-color: #c42d3f;
 }
@@ -67,71 +145,50 @@ p {
 .red {
   color: #c42d3f;
 }
+*/
 
-dt {
-  font-weight: bold;
-}
-
-dd {
-  margin: 0;
-  padding: 0;
-}
-
-.mapboxgl-popup-content {
-  padding: 0 10px;
-}
-.mapboxgl-popup-content h3,
-.mapboxgl-popup-content dl,
-.mapboxgl-popup-content p {
-  margin: 0;
+.filter-group {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1;
 }
 
-/* Collapsed */
-.geocoder-collapsed {
-  width: 30px;
-  min-width: 30px;
-  transition: width 0.25s, min-width 0.25s;
+.filter-group input[type='checkbox']:first-child + label {
+    border-radius: 3px 3px 0 0;
 }
 
-input[type="checkbox"] {
-  display: none;
-}
-.wrap-collabsible {
-}
-.label-toggle {
-  display: inline;
-  cursor: pointer;
-  transition: all 0.25s ease-out;
+.filter-group label:last-child {
+    border-radius: 0 0 3px 3px;
+    border: none;
 }
 
-.label-toggle::before {
-  content: " ";
-  display: inline-block;
-  border-top: 7px solid transparent;
-  border-bottom: 7px solid transparent;
-  border-left: 7px solid currentColor;
-  vertical-align: middle;
-  margin-right: 0.7rem;
-  transform: translateY(-2px);
-  transition: transform 0.2s ease-out;
+.filter-group input[type='checkbox'] {
+    display: none;
 }
-.toggle:checked + .label-toggle::before {
-  transform: rotate(90deg) translateX(-3px);
+
+.filter-group input[type='checkbox'] + label {
+    background-color: #fff;
+    display: block;
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
 }
-.collapsible-content {
-  max-height: 0px;
-  overflow: hidden;
-  transition: max-height 0.25s ease-in-out;
+
+.filter-group input[type='checkbox'] + label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-.toggle:checked + .label-toggle + .collapsible-content {
-  max-height: 350px;
+
+.filter-group input[type='checkbox'] + label:hover,
+.filter-group input[type='checkbox']:checked + label {
+    background-color: #fff;
 }
-.toggle:checked + .label-toggle {
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
+
+.filter-group input[type='checkbox']:checked + label:before {
+    content: "☑";
 }
-.collapsible-content .content-inner {
+
+.filter-group input[type='checkbox'] + label:before {
+    content: "☐";
 }
-.collapsible-content p {
-  margin-bottom: 0;
-}
+
