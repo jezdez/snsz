@@ -29,6 +29,8 @@ jobs:
 
     - name: Transform data and write files
       run: make transform
+      env:
+        GOOGLE_GEOCODE_API_KEY: ${{ secrets.GOOGLE_GEOCODE_API_KEY }}
 
     - name: Cleanup raw data
       run: make clean
