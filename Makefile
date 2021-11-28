@@ -6,18 +6,18 @@ install: venv
 	.venv/bin/pip install -r requirements.txt
 
 extract:
-	scrapy crawl --overwrite-output=raw.json schools
+	.venv/bin/scrapy crawl --overwrite-output=raw.json schools
 
 transform:
-	python transform.py
+	.venv/bin/python transform.py
 
 clean:
 	rm raw.json
 
 serve:
-	python -m http.server --directory=website
+	.venv/bin/python -m http.server --directory=website
 
 pip-compile:
-	pip-compile --upgrade
+	.venv/bin/pip-compile --upgrade
 
 .PHONY: $(MAKECMDGOALS)
