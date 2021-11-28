@@ -17,7 +17,7 @@ clean:
 serve:
 	.venv/bin/python -m http.server --directory=website
 
-pip-compile:
+pip-compile: venv
 	.venv/bin/pip-compile --upgrade
 
 .PHONY: $(MAKECMDGOALS)
