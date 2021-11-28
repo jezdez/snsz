@@ -41,85 +41,110 @@ map.on('load', () => {
     );
     // Get the current date as UTC to compare it to the validity upper bound
     var now = new Date(new Date().toUTCString().substr(0, 25));
-    map.addLayer(
+
+    const layers = [
         {
-            'id': 'schools',
+            id: "expired",
+            name: "abgelaufen",
+            filter: ["all",
+                ['==', 'recently_added', false],
+                ['<', 'epoch_valid_to', now.setUTCHours(0, 0, 0, 0) / 1000],
+            ],
+            color: 'grey'
+        },
+        {
+            id: "recent",
+            name: "aktuell",
+            filter: ["all",
+                ['==', 'recently_added', false],
+                ['>=', 'epoch_valid_to', now.setUTCHours(0, 0, 0, 0) / 1000],
+            ],
+            color: '#0D3A35'
+        },
+        {
+            id: "new",
+            name: "new",
+            filter: ['==', 'recently_added', true],
+            color: '#c42d3f'
+        },
+    ]
+
+    for (var layer of layers) {
+        const layerId = `schools-${layer.id}`;
+
+        map.addLayer({
+            'id': layerId,
             'type': 'circle',
             'source': 'schools',
             'paint': {
                 'circle-stroke-color': 'white',
                 'circle-stroke-width': 1,
-                'circle-color': [
-                    'case',
-                        ['boolean', ['get', 'recently_added'], false], '#c42d3f',
-                        ['>',
-                            now.setUTCHours(0,0,0,0) / 1000,
-                            ["get", "epoch_valid_to"]
-                        ], 'grey',
-                        '#0D3A35'
-                ]
+                'circle-color': layer.color
+            },
+            'filter': layer.filter
+        });
+
+        // Create a popup, but don't add it to the map yet.
+        const popup = new mapboxgl.Popup({
+            closeButton: true,
+            closeOnClick: true
+        });
+
+        map.on('click', layerId, (e) => {
+            // Change the cursor style as a UI indicator.
+            map.getCanvas().style.cursor = 'pointer';
+
+            // Copy coordinates array.
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const name = e.features[0].properties.name;
+            const address = e.features[0].properties.address;
+            const status = e.features[0].properties.status;
+            const validity = e.features[0].properties.validity;
+            const url = e.features[0].properties.url;
+            const recently_added = e.features[0].properties.recently_added;
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
             }
-        }
-    );
-
-    // Create a popup, but don't add it to the map yet.
-    const popup = new mapboxgl.Popup({
-        closeButton: true,
-        closeOnClick: true
-    });
-
-    map.on('click', 'schools', (e) => {
-        // Change the cursor style as a UI indicator.
-        map.getCanvas().style.cursor = 'pointer';
-
-        // Copy coordinates array.
-        const coordinates = e.features[0].geometry.coordinates.slice();
-        const name = e.features[0].properties.name;
-        const address = e.features[0].properties.address;
-        const status = e.features[0].properties.status;
-        const validity = e.features[0].properties.validity;
-        const url = e.features[0].properties.url;
-        const recently_added = e.features[0].properties.recently_added;
-        // Ensure that if the map is zoomed out such that multiple
-        // copies of the feature are visible, the popup appears
-        // over the copy being pointed to.
-        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-        }
-        // Populate the popup and set its coordinates based on the feature found.
-        var popup_html;
-        if (recently_added) {
-            popup_html = `
+            // Populate the popup and set its coordinates based on the feature found.
+            var popup_html;
+            if (recently_added) {
+                popup_html = `
                 <h3><span class="red">NEU: </span>${name}</h3>
             `;
-        } else {
-            popup_html = `
+            } else {
+                popup_html = `
                 <h3>${name}</h3>
             `;
-        }
-        popup_html = `${popup_html}
+            }
+            popup_html = `${popup_html}
             <p>${address}</p>
             <dl>
                 <dt>Status</dt><dd>${status}</dd>
                 <dt>Gültig</dt><dd>${validity}</dd>
         `;
-        if (typeof url !== "undefined") {
-            popup_html = `${popup_html}
+            if (typeof url !== "undefined") {
+                popup_html = `${popup_html}
                 <dt>Download</dt>
                 <dd><a href="${url}" rel="noopener noreferrer" target="_blank">Bekanntmachung</a> (PDF, Link zum Sächsischen Staatsministerium für Kultus)</dd>
             `;
-        }
-        popup_html = `${popup_html}</dl>`;
-        popup.setLngLat(coordinates).setHTML(popup_html).addTo(map);
-    });
+            }
+            popup_html = `${popup_html}</dl>`;
+            popup.setLngLat(coordinates).setHTML(popup_html).addTo(map);
+        });
 
-    // Change the cursor to a pointer when the mouse is over the places layer.
-    map.on('mouseenter', 'schools', () => {
-        map.getCanvas().style.cursor = 'pointer';
-    });
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', layerId, () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
 
-    // Change it back to a pointer when it leaves.
-    map.on('mouseleave', 'schools', () => {
-        map.getCanvas().style.cursor = '';
-    });
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', layerId, () => {
+            map.getCanvas().style.cursor = '';
+        });
+    }
+
+
 });
