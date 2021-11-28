@@ -1,42 +1,85 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
   <head>
-    <title>Karte mit Allgemeinverfügungen zu Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
+    <title>
+      Karte mit Allgemeinverfügungen zu Schulschließungen oder eingeschränktem
+      Regelbetrieb in Sachsen
+    </title>
     <meta charset="utf-8" />
-    <meta name='viewport' content='width=device-width, initial-scale=1' />
-    <script src='https://api.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.js'></script>
-    <link href='https://api.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.css' rel='stylesheet' />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
     <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.min.js"></script>
-    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.css" type="text/css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="data/schools.rss" />
-    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="data/schools.atom" />
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
+    <link
+      rel="stylesheet"
+      href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.css"
+      type="text/css"
+    />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="RSS Feed"
+      href="data/schools.rss"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="Atom Feed"
+      href="data/schools.atom"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="manifest" href="site.webmanifest" />
   </head>
 
   <body>
-    <div id='map'></div>
-    <div id='console'>
-        <h1>SNSZ</h1>
-        <p>
-          Allgemeinverfügungen zu Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen
-        </p>
-        <p>
-          Quelle: <a href='https://www.coronavirus.sachsen.de/amtliche-bekanntmachungen.html' rel="noopener noreferrer" target="_blank">Sächsisches Staatsministerium für Kultus
-          </a>
-        </p>
-        <small>All Angaben ohne Gewähr. <span class="red">Rot</span> = neu.</small>
-        <p>
-            <a href="https://github.com/jezdez/snsz">Code</a>,
-            <a href="data/schools.csv">CSV</a>,
-            <a href="data/schools.json">JSON</a>,
-            <a href="data/schools.geojson">GeoJSON</a>,
-            <a href="data/schools.atom">Atom</a>,
-            <a href="data/schools.rss">RSS</a>
-        </p>
+    <div id="map"></div>
+    <div id="console">
+      <input id="collapsible" class="toggle" type="checkbox" checked />
+      <label for="collapsible" class="label-toggle">SNSZ</label>
+      <div class="collapsible-content">
+        <div class="content-inner">
+          <p>
+            Allgemeinverfügungen zu Schulschließungen
+            <b>oder</b> eingeschränktem Regelbetrieb in Sachsen
+          </p>
+          <span class="circle background-grey"></span> = abgelaufen.
+          <span class="circle background-black"></span> = aktuell.
+          <span class="circle background-red"></span> = neu.
+          <p>
+            <small>
+              Quelle:
+              <a
+                href="https://www.coronavirus.sachsen.de/amtliche-bekanntmachungen.html"
+                rel="noopener noreferrer"
+                target="_blank"
+                >Sächsisches Staatsministerium für Kultus
+              </a>
+            </small>
+          </p>
+          <p>
+            <small>
+              All Angaben ohne Gewähr. Automatisch aktualisiert cirka 08:15,
+              14:15 und 18:15 Uhr.
+            </small>
+          </p>
+          <p>
+            <small>
+              <a href="https://github.com/jezdez/snsz">Code</a>,
+              <a href="data/schools.csv">CSV</a>,
+              <a href="data/schools.json">JSON</a>,
+              <a href="data/schools.geojson">GeoJSON</a>,
+              <a href="data/schools.atom">Atom</a>,
+              <a href="data/schools.rss">RSS</a>
+            </small>
+          </p>
+        </div>
+      </div>
     </div>
     <script src="map.js"></script>
   </body>
