@@ -16,8 +16,7 @@ body {
   width: 100%;
 }
 
-h1,
-.label-toggle {
+h1 {
   font-size: 18px;
   line-height: 30px;
   margin: 0;
@@ -56,18 +55,6 @@ p {
   background-color: #000000;
 }
 
-.background-red {
-  background-color: #c42d3f;
-}
-
-.background-grey {
-  background-color: grey;
-}
-
-.red {
-  color: #c42d3f;
-}
-
 dt {
   font-weight: bold;
 }
@@ -80,6 +67,7 @@ dd {
 .mapboxgl-popup-content {
   padding: 0 10px;
 }
+
 .mapboxgl-popup-content h3,
 .mapboxgl-popup-content dl,
 .mapboxgl-popup-content p {
@@ -96,8 +84,10 @@ dd {
 input[type="checkbox"] {
   display: none;
 }
+
 .wrap-collabsible {
 }
+
 .label-toggle {
   display: inline;
   cursor: pointer;
@@ -115,23 +105,78 @@ input[type="checkbox"] {
   transform: translateY(-2px);
   transition: transform 0.2s ease-out;
 }
+
 .toggle:checked + .label-toggle::before {
   transform: rotate(90deg) translateX(-3px);
 }
+
 .collapsible-content {
   max-height: 0px;
   overflow: hidden;
   transition: max-height 0.25s ease-in-out;
 }
+
 .toggle:checked + .label-toggle + .collapsible-content {
   max-height: 350px;
 }
+
 .toggle:checked + .label-toggle {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
+
 .collapsible-content .content-inner {
 }
+
 .collapsible-content p {
   margin-bottom: 0;
+}
+
+/* .background-red {
+  background-color: #c42d3f;
+}
+
+.background-grey {
+  background-color: grey;
+}
+
+.background-black {
+  background-color: #0d3a35;
+} */
+
+.red {
+  color: #c42d3f;
+}
+
+.filter-group {
+  z-index: 1;
+  margin: 15px 0 10px;
+}
+
+.filter-group input[type="checkbox"] {
+  display: none;
+}
+
+.filter-group input[type="checkbox"] + label {
+  display: inline;
+  cursor: pointer;
+  padding: 4px 7px;
+  margin: 0 7px 0 0;
+  border: 2px solid #eee;
+  background-color: #eee;
+}
+
+.filter-group input[type="checkbox"] + label:hover,
+.filter-group input[type="checkbox"]:checked + label {
+  cursor: pointer;
+  border: 2px solid grey;
+  background-color: #eee;
+}
+
+.filter-group input[type="checkbox"]:checked + label {
+  background-color: #ccc;
+  border: 2px solid #2dc4b2;
+}
+.filter-group input[type="checkbox"]:checked + label:hover {
+  border: 2px solid grey;
 }
