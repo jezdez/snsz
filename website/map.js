@@ -12,6 +12,7 @@ map.on('load', () => {
         type: 'geojson',
         data: 'data/schools.geojson'
     });
+    map.addControl(new mapboxgl.NavigationControl(), "bottom-right");
     map.addControl(
         new MapboxGeocoder({
             accessToken: mapboxgl.accessToken,
@@ -37,7 +38,6 @@ map.on('load', () => {
 
         })
     );
-    map.addControl(new mapboxgl.NavigationControl());
     map.addLayer(
         {
             'id': 'schools',
