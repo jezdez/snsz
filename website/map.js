@@ -47,7 +47,13 @@ map.on('load', () => {
 
     const layers = [
         {
-            id: "recent",
+            id: "schools-new",
+            name: "neu",
+            filter: ['==', 'recently_added', true],
+            color: '#c42d3f',
+        },
+        {
+            id: "schools-recent",
             name: "aktuell",
             filter: ["all",
                 ['==', 'recently_added', false],
@@ -56,13 +62,7 @@ map.on('load', () => {
             color: '#0D3A35'
         },
         {
-            id: "new",
-            name: "neu",
-            filter: ['==', 'recently_added', true],
-            color: '#c42d3f',
-        },
-        {
-            id: "expired",
+            id: "schools-expired",
             name: "abgelaufen",
             filter: ["all",
                 ['==', 'recently_added', false],
@@ -73,11 +73,10 @@ map.on('load', () => {
         },
     ]
 
-    for (var layer of layers) {
-        const layerId = `schools-${layer.id}`;
-
+    // add layers in reverse order, (for z index of dots)
+    layers.reverse().forEach(function (layer) {
         map.addLayer({
-            'id': layerId,
+            'id': layer.id,
             'type': 'circle',
             'source': 'schools',
             'paint': {
@@ -88,7 +87,7 @@ map.on('load', () => {
             'filter': layer.filter
         });
 
-        map.setLayoutProperty(layerId, 'visibility', layer.visible === false ? 'none' : 'visible');
+        map.setLayoutProperty(layer.id, 'visibility', layer.visible === false ? 'none' : 'visible');
 
         // Create a popup, but don't add it to the map yet.
         const popup = new mapboxgl.Popup({
@@ -96,7 +95,7 @@ map.on('load', () => {
             closeOnClick: true
         });
 
-        map.on('click', layerId, (e) => {
+        map.on('click', layer.id, (e) => {
             // Change the cursor style as a UI indicator.
             map.getCanvas().style.cursor = 'pointer';
 
@@ -142,25 +141,26 @@ map.on('load', () => {
         });
 
         // Change the cursor to a pointer when the mouse is over the places layer.
-        map.on('mouseenter', layerId, () => {
+        map.on('mouseenter', layer.id, () => {
             map.getCanvas().style.cursor = 'pointer';
         });
 
         // Change it back to a pointer when it leaves.
-        map.on('mouseleave', layerId, () => {
+        map.on('mouseleave', layer.id, () => {
             map.getCanvas().style.cursor = '';
         });
+    });
 
-
+    layers.forEach(function (layer) {
         // Add checkbox and label elements for the layer.
         const input = document.createElement('input');
         input.type = 'checkbox';
-        input.id = layerId;
+        input.id = layer.id;
         input.checked = !(layer.visible === false);
         filterGroup.appendChild(input);
 
         const label = document.createElement('label');
-        label.setAttribute('for', layerId);
+        label.setAttribute('for', layer.id);
         filterGroup.appendChild(label);
 
         const span = document.createElement('span');
@@ -175,13 +175,12 @@ map.on('load', () => {
         // When the checkbox changes, update the visibility of the layer.
         input.addEventListener('change', (e) => {
             map.setLayoutProperty(
-                layerId,
+                layer.id,
                 'visibility',
                 e.target.checked ? 'visible' : 'none'
             );
         });
-
-    }
+    });
 
 
 });
