@@ -12,6 +12,9 @@ map.on('load', () => {
         type: 'geojson',
         data: 'data/schools.geojson'
     });
+
+    const filterGroup = document.getElementById('filter-group');
+
     map.addControl(new mapboxgl.NavigationControl(), "bottom-right");
     map.addControl(
         new MapboxGeocoder({
@@ -44,15 +47,6 @@ map.on('load', () => {
 
     const layers = [
         {
-            id: "expired",
-            name: "abgelaufen",
-            filter: ["all",
-                ['==', 'recently_added', false],
-                ['<', 'epoch_valid_to', now.setUTCHours(0, 0, 0, 0) / 1000],
-            ],
-            color: 'grey'
-        },
-        {
             id: "recent",
             name: "aktuell",
             filter: ["all",
@@ -63,9 +57,19 @@ map.on('load', () => {
         },
         {
             id: "new",
-            name: "new",
+            name: "neu",
             filter: ['==', 'recently_added', true],
-            color: '#c42d3f'
+            color: '#c42d3f',
+        },
+        {
+            id: "expired",
+            name: "abgelaufen",
+            filter: ["all",
+                ['==', 'recently_added', false],
+                ['<', 'epoch_valid_to', now.setUTCHours(0, 0, 0, 0) / 1000],
+            ],
+            color: 'grey',
+            visible: false,
         },
     ]
 
@@ -83,6 +87,8 @@ map.on('load', () => {
             },
             'filter': layer.filter
         });
+
+        map.setLayoutProperty(layerId, 'visibility', layer.visible === false ? 'none' : 'visible');
 
         // Create a popup, but don't add it to the map yet.
         const popup = new mapboxgl.Popup({
@@ -144,6 +150,37 @@ map.on('load', () => {
         map.on('mouseleave', layerId, () => {
             map.getCanvas().style.cursor = '';
         });
+
+
+        // Add checkbox and label elements for the layer.
+        const input = document.createElement('input');
+        input.type = 'checkbox';
+        input.id = layerId;
+        input.checked = !(layer.visible === false);
+        filterGroup.appendChild(input);
+
+        const label = document.createElement('label');
+        label.setAttribute('for', layerId);
+        filterGroup.appendChild(label);
+
+        const span = document.createElement('span');
+        span.setAttribute('class', "circle");
+        // ugh... what a mess!
+        span.setAttribute("style", `background-color:${layer.color};`)
+        label.appendChild(document.createTextNode(" "))
+        label.appendChild(span);
+        label.appendChild(document.createTextNode(" "))
+        label.appendChild(document.createTextNode(layer.name))
+
+        // When the checkbox changes, update the visibility of the layer.
+        input.addEventListener('change', (e) => {
+            map.setLayoutProperty(
+                layerId,
+                'visibility',
+                e.target.checked ? 'visible' : 'none'
+            );
+        });
+
     }
 
 
