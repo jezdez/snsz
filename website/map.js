@@ -42,14 +42,16 @@ map.on("load", () => {
     "bottom-left"
   );
   // Get the current date as UTC to compare it to the validity upper bound
-  var now = new Date(new Date().toUTCString().substr(0, 25));
-  var epoch_today = now.setUTCHours(0, 0, 0, 0) / 1000;
+  const now = new Date(new Date().toUTCString().substr(0, 25));
+  const epoch_today = now.setUTCHours(0, 0, 0, 0) / 1000;
+
   const layers = [
     {
       id: "schools-new",
       name: "neu",
       filter: ["==", "recently_added", true],
       color: "#c42d3f",
+      featureCount: undefined,
     },
     {
       id: "schools-recent",
@@ -60,6 +62,7 @@ map.on("load", () => {
         [">=", "epoch_valid_to", epoch_today],
       ],
       color: "#0d3a35",
+      featureCount: undefined,
     },
     {
       id: "schools-expired",
@@ -71,6 +74,7 @@ map.on("load", () => {
       ],
       color: "grey",
       visible: false,
+      featureCount: undefined,
     },
   ];
 
@@ -156,34 +160,50 @@ map.on("load", () => {
     });
   });
 
-  layers.forEach(function (layer) {
-    // Add checkbox and label elements for the layer.
-    const input = document.createElement("input");
-    input.type = "checkbox";
-    input.id = layer.id;
-    input.checked = !(layer.visible === false);
-    filterGroup.appendChild(input);
+  map.once('idle', () => {
+    // map.querySourceFeatures(...) returns values only after the map is loaded
+    // and layers have been loaded by the map obj.
+    layers.forEach(function (layer) {
+      const features = map.querySourceFeatures("schools", {
+        validate: true,
+        filter: layer.filter
+      });
 
-    const label = document.createElement("label");
-    label.setAttribute("for", layer.id);
-    filterGroup.appendChild(label);
+      // Somehow, querySourceFeatures returns many duplicates. Hence,
+      // count them only once using a set.
+      const addresses = new Set(features.map(f => f.properties.address))
+      layer.featureCount = addresses.size
 
-    const span = document.createElement("span");
-    span.setAttribute("class", "circle");
-    // ugh... what a mess!
-    span.setAttribute("style", `background-color:${layer.color};`);
-    label.appendChild(document.createTextNode(" "));
-    label.appendChild(span);
-    label.appendChild(document.createTextNode(" "));
-    label.appendChild(document.createTextNode(layer.name));
+      // Add checkbox and label elements for the layer.
+      const input = document.createElement("input");
+      input.type = "checkbox";
+      input.id = layer.id;
+      input.checked = !(layer.visible === false);
+      filterGroup.appendChild(input);
 
-    // When the checkbox changes, update the visibility of the layer.
-    input.addEventListener("change", (e) => {
-      map.setLayoutProperty(
-        layer.id,
-        "visibility",
-        e.target.checked ? "visible" : "none"
-      );
+      const label = document.createElement("label");
+      label.setAttribute("for", layer.id);
+      filterGroup.appendChild(label);
+
+      const span = document.createElement("span");
+      span.setAttribute("class", "circle");
+      // ugh... what a mess!
+      span.setAttribute("style", `background-color:${layer.color};`);
+      label.appendChild(document.createTextNode(" "));
+      label.appendChild(span);
+      label.appendChild(document.createTextNode(" "));
+      label.appendChild(document.createTextNode(`${layer.name} (${layer.featureCount})`));
+
+      // When the checkbox changes, update the visibility of the layer.
+      input.addEventListener("change", (e) => {
+        map.setLayoutProperty(
+          layer.id,
+          "visibility",
+          e.target.checked ? "visible" : "none"
+        );
+      });
     });
   });
+
 });
+
