@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Nov 2021 10:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 14:24:32 +0000</lastBuildDate>
     <item>
       <title>25. Grundschule "Am Pohlandplatz" in Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/21_11_29_25_GS_Dresden.pdf</link>
@@ -2486,6 +2486,17 @@ Gültig: 29.11.2021 bis 10.12.2021
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Grundschule Nünchritz in Nünchritz</title>
+      <link>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Nuenchritz.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 27.11.2021 bis 03.12.2021
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_11_25_GS_Nuenchritz.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/21_11_25_GS_Nuenchritz.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pestalozzi-Grundschule Nossen in Nossen</title>
       <link>https://www.smk.sachsen.de/ppdf/21_11_24_Pestalozzi_GS_Nossen.pdf</link>
       <description>
@@ -3630,17 +3641,6 @@ Gültig: 25.11.2021 bis 03.12.2021
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Berggießhübel in Bad Gottleuba-Berggießhübel</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Berggiesshuebel.pdf</link>
-      <description>
-Status: befristet vollständig geschlossen
-Gültig: 25.11.2021 bis 09.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Berggiesshuebel.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Berggiesshuebel.pdf" length="0" type="application/pdf"/>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pestalozzi-Oberschule in Pirna</title>
       <link>https://www.smk.sachsen.de/ppdf/21_11_24_Pestalozzi_OS_Pirna.pdf</link>
       <description>
@@ -3759,17 +3759,6 @@ Gültig: 23.11.2021 bis 03.12.2021
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_11_22_Astrid_Lingren_Grundschule.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_11_22_Astrid_Lingren_Grundschule.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grundschule Berggießhübel in Bad Gottleuba-Berggießhübel</title>
-      <link>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Berggiesshuebel.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 23.11.2021 bis 01.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_11_22_GS_Berggiesshuebel.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/21_11_22_GS_Berggiesshuebel.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
