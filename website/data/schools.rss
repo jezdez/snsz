@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 30 Nov 2021 05:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 10:21:40 +0000</lastBuildDate>
     <item>
       <title>25. Grundschule "Am Pohlandplatz" in Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/21_11_29_25_GS_Dresden.pdf</link>
@@ -2912,6 +2912,17 @@ Gültig: 26.11.2021 bis 03.12.2021
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_11_25_GS_Grossschirma.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/21_11_25_GS_Grossschirma.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oberschule "An der Mulde" Rochlitz in Rochlitz</title>
+      <link>https://www.smk.sachsen.de/ppdf/2021_11_25_OS_An_der_Mulde_Rochlitz.pdf</link>
+      <description>
+Status: befristet vollständig geschlossen
+Gültig: 26.11.2021 bis 10.12.2021
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_11_25_OS_An_der_Mulde_Rochlitz.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_11_25_OS_An_der_Mulde_Rochlitz.pdf" length="0" type="application/pdf"/>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
