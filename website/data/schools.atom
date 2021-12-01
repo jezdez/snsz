@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2021-11-30T22:22:06.295267+00:00</updated>
+  <updated>2021-12-01T05:21:38.061621+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_74_Grundschule_Dresden.pdf</id>
     <title>74. Grundschule Dresden-Gompitz in Dresden</title>
-    <updated>2021-11-30T22:22:06.297392+00:00</updated>
+    <updated>2021-12-01T05:21:38.063912+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -23,7 +23,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_101_Oberschule_Dresden.pdf</id>
     <title>101. Oberschule Dresden "Johannes Gutenberg" in Dresden</title>
-    <updated>2021-11-30T22:22:06.297637+00:00</updated>
+    <updated>2021-12-01T05:21:38.064166+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -36,7 +36,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Foerderschule_Erich_Kaestner.pdf</id>
     <title>„Erich Kästner“ Schule Dresden mit dem Förderschwerpunkt emotionale und soziale Entwicklung in Dresden</title>
-    <updated>2021-11-30T22:22:06.297819+00:00</updated>
+    <updated>2021-12-01T05:21:38.064376+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -49,7 +49,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_32_OS_Dresden.pdf</id>
     <title>32. Oberschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.297992+00:00</updated>
+    <updated>2021-12-01T05:21:38.064581+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 08.12.2021
@@ -62,7 +62,7 @@ Gültig: 01.12.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_33_GS_Dresden.pdf</id>
     <title>33. Grundschule in Dresden</title>
-    <updated>2021-11-30T22:22:06.298157+00:00</updated>
+    <updated>2021-12-01T05:21:38.064787+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 07.12.2021
@@ -75,7 +75,7 @@ Gültig: 01.12.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GY_Dresden_Cotta.pdf</id>
     <title>Gymnasium Dresden-Cotta in Dresden</title>
-    <updated>2021-11-30T22:22:06.298320+00:00</updated>
+    <updated>2021-12-01T05:21:38.064989+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 08.12.2021
@@ -88,7 +88,7 @@ Gültig: 01.12.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GY_Dresden_Klotzsche.pdf</id>
     <title>Gymnasium Dresden-Klotzsche in Dresden</title>
-    <updated>2021-11-30T22:22:06.298482+00:00</updated>
+    <updated>2021-12-01T05:21:38.065235+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -101,7 +101,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_Gymnasium_Dresden_Johannstadt.pdf</id>
     <title>Gymnasium Dresden-Johannstadt in Dresden</title>
-    <updated>2021-11-30T22:22:06.298650+00:00</updated>
+    <updated>2021-12-01T05:21:38.065451+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -114,7 +114,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_25_GS_Dresden.pdf</id>
     <title>25. Grundschule "Am Pohlandplatz" in Dresden</title>
-    <updated>2021-11-30T22:22:06.298815+00:00</updated>
+    <updated>2021-12-01T05:21:38.065669+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 05.12.2021
@@ -127,7 +127,7 @@ Gültig: 30.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_32_GS_Dresden.pdf</id>
     <title>32. Grundschule „Sieben Schwaben“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.298976+00:00</updated>
+    <updated>2021-12-01T05:21:38.065870+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 05.12.2021
@@ -140,7 +140,7 @@ Gültig: 30.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_41_GS_Dresden.pdf</id>
     <title>41. Grundschule Dresden „Elbtalkinder“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.299135+00:00</updated>
+    <updated>2021-12-01T05:21:38.066070+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -153,7 +153,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_56_OS_Dresden.pdf</id>
     <title>56. Oberschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.299294+00:00</updated>
+    <updated>2021-12-01T05:21:38.066269+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -166,7 +166,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Gymnasium_Dreikoenigschule.pdf</id>
     <title>Gymnasium Dreikönigschule in Dresden</title>
-    <updated>2021-11-30T22:22:06.299454+00:00</updated>
+    <updated>2021-12-01T05:21:38.066469+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -179,7 +179,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Gymnasium_Dresden_Johannstadt.pdf</id>
     <title>Gymnasium Dresden-Johannstadt in Dresden</title>
-    <updated>2021-11-30T22:22:06.299612+00:00</updated>
+    <updated>2021-12-01T05:21:38.066669+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -192,7 +192,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_50GS_DD.pdf</id>
     <title>50. Grundschule Dresden "Gertrud Caspari" in Dresden</title>
-    <updated>2021-11-30T22:22:06.299769+00:00</updated>
+    <updated>2021-12-01T05:21:38.066867+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -205,7 +205,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Schule_am_Leubnitzbach.pdf</id>
     <title>Schule "Am Leubnitzbach", Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung, in Dresden</title>
-    <updated>2021-11-30T22:22:06.299933+00:00</updated>
+    <updated>2021-12-01T05:21:38.067065+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -218,7 +218,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_49_Grundschule_DD.pdf</id>
     <title>49. Grundschule in Dresden</title>
-    <updated>2021-11-30T22:22:06.300097+00:00</updated>
+    <updated>2021-12-01T05:21:38.067272+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -231,7 +231,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Grundschule_Schoenfeld.pdf</id>
     <title>Grundschule Schönfeld in Dresden OT Schönfeld</title>
-    <updated>2021-11-30T22:22:06.300257+00:00</updated>
+    <updated>2021-12-01T05:21:38.067476+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -244,7 +244,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_62_GS_Dresden.pdf</id>
     <title>62. Grundschule „Friedrich Schiller“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.300417+00:00</updated>
+    <updated>2021-12-01T05:21:38.067675+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -257,7 +257,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_80_GS_DD.pdf</id>
     <title>80. Grundschule „An der Windbergbahn“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.300575+00:00</updated>
+    <updated>2021-12-01T05:21:38.067874+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 08.12.2021
@@ -270,7 +270,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_91_GS_Dresden.pdf</id>
     <title>91. Grundschule Dresden „Am Sand“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.300734+00:00</updated>
+    <updated>2021-12-01T05:21:38.068074+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -283,7 +283,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_92_GS_Dresden.pdf</id>
     <title>92. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.300893+00:00</updated>
+    <updated>2021-12-01T05:21:38.068272+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -296,7 +296,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_95_GS.pdf</id>
     <title>95. Grundschule „Caroline Neuber“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.301048+00:00</updated>
+    <updated>2021-12-01T05:21:38.068475+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -309,7 +309,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_108GS_DD.pdf</id>
     <title>108. Grundschule Dresden "Sonnenblumenschule" in Dresden</title>
-    <updated>2021-11-30T22:22:06.301204+00:00</updated>
+    <updated>2021-12-01T05:21:38.068674+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -322,7 +322,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GY_Dresden_Plauen.pdf</id>
     <title>Gymnasium Dresden-Plauen in Dresden</title>
-    <updated>2021-11-30T22:22:06.301387+00:00</updated>
+    <updated>2021-12-01T05:21:38.068921+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -335,7 +335,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Gym_Hans_Erlwein_Gymnasium_Dresden.pdf</id>
     <title>Hans-Erlwein-Gymnasium Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.301614+00:00</updated>
+    <updated>2021-12-01T05:21:38.069131+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 08.12.2021
@@ -348,7 +348,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Martin_Andersen_Nexoe_Gymnasiums.pdf</id>
     <title>Martin-Andersen-Nexö-Gymnasium in Dresden</title>
-    <updated>2021-11-30T22:22:06.301781+00:00</updated>
+    <updated>2021-12-01T05:21:38.069356+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -361,7 +361,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_148_GS_Dresden.pdf</id>
     <title>148. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.301939+00:00</updated>
+    <updated>2021-12-01T05:21:38.069554+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -374,7 +374,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_108_GS_Dresden.pdf</id>
     <title>108. Grundschule Dresden „Sonnenblumenschule“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.302095+00:00</updated>
+    <updated>2021-12-01T05:21:38.069752+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -387,7 +387,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_102_GS_Dresden.pdf</id>
     <title>102. Grundschule „Johanna“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.302251+00:00</updated>
+    <updated>2021-12-01T05:21:38.069954+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -400,7 +400,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_63_GS_Dresden.pdf</id>
     <title>63. Grundschule Dresden "Johann Gottlieb Naumann" in Dresden</title>
-    <updated>2021-11-30T22:22:06.302406+00:00</updated>
+    <updated>2021-12-01T05:21:38.070150+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 30.11.2021
@@ -413,7 +413,7 @@ Gültig: 27.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GY_DD_Cotta.pdf</id>
     <title>Gymnasium Dresden-Cotta in Dresden</title>
-    <updated>2021-11-30T22:22:06.302560+00:00</updated>
+    <updated>2021-12-01T05:21:38.070345+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -426,7 +426,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Pestalozzi_Gymnasium_Dresden.pdf</id>
     <title>Pestalozzi-Gymnasium Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.302714+00:00</updated>
+    <updated>2021-12-01T05:21:38.070541+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -439,7 +439,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_101_OS_Dresden.pdf</id>
     <title>101. Oberschule Dresden Johannstadt „Johannes Gutenberg“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.302867+00:00</updated>
+    <updated>2021-12-01T05:21:38.070745+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -452,7 +452,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_59_GS_Dresden.pdf</id>
     <title>59. Grundschule „Jürgen Reichen“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.303021+00:00</updated>
+    <updated>2021-12-01T05:21:38.070942+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 07.12.2021
@@ -465,7 +465,7 @@ Gültig: 26.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_59_GS_Dresden_Widerruf.pdf</id>
     <title>59. Grundschule „Jürgen Reichen“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.303176+00:00</updated>
+    <updated>2021-12-01T05:21:38.071138+00:00</updated>
     <content>
 Status: Widerruf
 Gültig: 26.11.2021
@@ -478,7 +478,7 @@ Gültig: 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_8_GS_Dresden.pdf</id>
     <title>8. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.303330+00:00</updated>
+    <updated>2021-12-01T05:21:38.071334+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -491,7 +491,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_36_OS_Dresden.pdf</id>
     <title>36. Oberschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.303481+00:00</updated>
+    <updated>2021-12-01T05:21:38.071557+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 30.11.2021
@@ -504,7 +504,7 @@ Gültig: 26.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_4_GS_Rosengarten_Dresden.pdf</id>
     <title>4. Grundschule Dresden "Am Rosengarten" in Dresden</title>
-    <updated>2021-11-30T22:22:06.303634+00:00</updated>
+    <updated>2021-12-01T05:21:38.071760+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 10.12.2021
@@ -517,7 +517,7 @@ Gültig: 27.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_70_Grundschule_Dresden.pdf</id>
     <title>70. Grundschule Dresden "An der Südhöhe" in Dresden</title>
-    <updated>2021-11-30T22:22:06.303795+00:00</updated>
+    <updated>2021-12-01T05:21:38.071976+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -530,7 +530,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_OS_Weissig_DD.pdf</id>
     <title>Oberschule Weißig in Dresden</title>
-    <updated>2021-11-30T22:22:06.303954+00:00</updated>
+    <updated>2021-12-01T05:21:38.072348+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -543,7 +543,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_121_OS_Dresden.pdf</id>
     <title>121. Oberschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.304108+00:00</updated>
+    <updated>2021-12-01T05:21:38.072619+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 29.11.2021
@@ -556,7 +556,7 @@ Gültig: 25.11.2021 bis 29.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Gymnasium_Dresden_Tolkewitz.pdf</id>
     <title>Gymnasium Tolkewitz in Dresden</title>
-    <updated>2021-11-30T22:22:06.304268+00:00</updated>
+    <updated>2021-12-01T05:21:38.072833+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -569,7 +569,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_FS_Robinsonschule_Dresden.pdf</id>
     <title>Schule mit dem Förderschwerpunkt geistige Entwicklung „Robinsonschule“ Dresden - Schulteil Marienberger Straße in Dresden</title>
-    <updated>2021-11-30T22:22:06.304427+00:00</updated>
+    <updated>2021-12-01T05:21:38.073030+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -582,7 +582,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_81_GS_Dresden.pdf</id>
     <title>81. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.304583+00:00</updated>
+    <updated>2021-12-01T05:21:38.073264+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -595,7 +595,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS35_DD.pdf</id>
     <title>35. Grundschule Dresden "Heinrich Graf von Bünau" in Dresden</title>
-    <updated>2021-11-30T22:22:06.304736+00:00</updated>
+    <updated>2021-12-01T05:21:38.073468+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -608,7 +608,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_47_Grundschule_Dresden.pdf</id>
     <title>47. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.304888+00:00</updated>
+    <updated>2021-12-01T05:21:38.073683+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -621,7 +621,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Cossebaude.pdf</id>
     <title>Grundschule Cossebaude in Dresden</title>
-    <updated>2021-11-30T22:22:06.305039+00:00</updated>
+    <updated>2021-12-01T05:21:38.073878+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: gestaffelt 24.11.2021 bis 03.12.2021
@@ -634,7 +634,7 @@ Gültig: gestaffelt 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_FZ_Makarenko_Dresden.pdf</id>
     <title>Schule zur Lernförderung – „A. S. Makarenko“ Förderzentrum in Dresden</title>
-    <updated>2021-11-30T22:22:06.305191+00:00</updated>
+    <updated>2021-12-01T05:21:38.074072+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -647,7 +647,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_FZ_Makarenko_Dresden_Widerruf.pdf</id>
     <title>Schule zur Lernförderung – „A. S. Makarenko“ Förderzentrum in Dresden</title>
-    <updated>2021-11-30T22:22:06.305368+00:00</updated>
+    <updated>2021-12-01T05:21:38.074267+00:00</updated>
     <content>
 Status: Widerruf zur befristeten teilweisen Schließung
 Gültig: 24.11.2021
@@ -660,7 +660,7 @@ Gültig: 24.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_OS_Weissig.pdf</id>
     <title>Oberschule Weißig in Dresden</title>
-    <updated>2021-11-30T22:22:06.305533+00:00</updated>
+    <updated>2021-12-01T05:21:38.074461+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -673,7 +673,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_71GS_DD.pdf</id>
     <title>71. Grundschule Dresden „Am Kaitzbach“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.305693+00:00</updated>
+    <updated>2021-12-01T05:21:38.074720+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -686,7 +686,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_89_Grundschule_Dresden.pdf</id>
     <title>89. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.305859+00:00</updated>
+    <updated>2021-12-01T05:21:38.074970+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -699,7 +699,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_62_OS_Dresden.pdf</id>
     <title>62. Oberschule „Friedrich Schiller“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.306015+00:00</updated>
+    <updated>2021-12-01T05:21:38.075166+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -712,7 +712,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_43_Grundschule.pdf</id>
     <title>43. Grundschule Dresden "Thomas Müntzer" in Dresden</title>
-    <updated>2021-11-30T22:22:06.306168+00:00</updated>
+    <updated>2021-12-01T05:21:38.075360+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -725,7 +725,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_26_GS_Dresden.pdf</id>
     <title>26. Grundschule Dresden „Am Markusplatz“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.306321+00:00</updated>
+    <updated>2021-12-01T05:21:38.075554+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -738,7 +738,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_122_GS_Dresden.pdf</id>
     <title>122. Grundschule Dresden „Am Palitzschhof“ in Dresden</title>
-    <updated>2021-11-30T22:22:06.306473+00:00</updated>
+    <updated>2021-12-01T05:21:38.075746+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -751,7 +751,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_70_GS_An_der_Suedhoehe.pdf</id>
     <title>70. Grundschule Dresden "An der Südhöhe" in Dresden</title>
-    <updated>2021-11-30T22:22:06.306628+00:00</updated>
+    <updated>2021-12-01T05:21:38.075941+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -764,7 +764,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_96GS_DD.pdf</id>
     <title>96. Grundschule „Am Froschtunnel“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.306782+00:00</updated>
+    <updated>2021-12-01T05:21:38.076134+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 01.12.2021
@@ -777,7 +777,7 @@ Gültig: 23.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_Albert-Schweitzer-Schule_Dresden.pdf</id>
     <title>Albert-Schweitzer-Schule, Förderzentrum mit dem Förderschwerpunkt Lernen, in Dresden</title>
-    <updated>2021-11-30T22:22:06.306936+00:00</updated>
+    <updated>2021-12-01T05:21:38.076328+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 30.11.2021
@@ -790,7 +790,7 @@ Gültig: 20.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_Dinglingerschule.pdf</id>
     <title>Förderzentrum "Dinglingerschule" Dresden mit dem Förderschwerpunkt Lernen in Dresden</title>
-    <updated>2021-11-30T22:22:06.307095+00:00</updated>
+    <updated>2021-12-01T05:21:38.076524+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 20.11.2021 bis 25.11.2021 bzw. 29.11.2021
@@ -803,7 +803,7 @@ Gültig: 20.11.2021 bis 25.11.2021 bzw. 29.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_GS93_Dresden.pdf</id>
     <title>93. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.307251+00:00</updated>
+    <updated>2021-12-01T05:21:38.076722+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 29.11.2021
@@ -816,7 +816,7 @@ Gültig: 20.11.2021 bis 29.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_59_Grundschule_Reichen.pdf</id>
     <title>59. Grundschule „Jürgen Reichen“ Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.307406+00:00</updated>
+    <updated>2021-12-01T05:21:38.076920+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 20.11.2021 bis 01.12.2021
@@ -829,7 +829,7 @@ Gültig: 20.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_47_Grundschule_Dresden.pdf</id>
     <title>47. Grundschule Dresden in Dresden</title>
-    <updated>2021-11-30T22:22:06.307566+00:00</updated>
+    <updated>2021-12-01T05:21:38.077116+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.11.2021 bis 01.12.2021
@@ -842,7 +842,7 @@ Gültig: 22.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Obere_Luisenschule.pdf</id>
     <title>Obere Luisenschule - Grundschule in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.307723+00:00</updated>
+    <updated>2021-12-01T05:21:38.077336+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -855,7 +855,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_FZ_Hoeren_Georg_Goetz_Chemnitz.pdf</id>
     <title>Förderzentrum "Georg Götz", Schule mit dem Förderschwerpunkt Hören in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.307876+00:00</updated>
+    <updated>2021-12-01T05:21:38.077534+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -868,7 +868,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Baumgarten_Chemnitz.pdf</id>
     <title>Baumgartengrundschule Grüna in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308029+00:00</updated>
+    <updated>2021-12-01T05:21:38.077770+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 07.12.2021
@@ -881,7 +881,7 @@ Gültig: 01.12.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_Ludwig_Richter_GS.pdf</id>
     <title>Ludwig-Richter-Grundschule Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308182+00:00</updated>
+    <updated>2021-12-01T05:21:38.077975+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -894,7 +894,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Janusz_Korczak_Schule.pdf</id>
     <title>Janusz-Korczak-Schule, Schule mit dem Förderschwerpunkt geistige Entwicklung, in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308336+00:00</updated>
+    <updated>2021-12-01T05:21:38.078187+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -907,7 +907,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Grundschule_Ebersdorf.pdf</id>
     <title>Grundschule Ebersdorf in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308489+00:00</updated>
+    <updated>2021-12-01T05:21:38.078383+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 09.12.2021
@@ -920,7 +920,7 @@ Gültig: 30.11.2021 bis 09.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_FZ_Georg_Goetz.pdf</id>
     <title>Förderzentrum "Georg Götz", Schule mit dem Förderschwerpunkt Hören, in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308642+00:00</updated>
+    <updated>2021-12-01T05:21:38.078578+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -933,7 +933,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Gebrueder_Grimm_Grundschule.pdf</id>
     <title>Gebrüder-Grimm-Grundschule in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308795+00:00</updated>
+    <updated>2021-12-01T05:21:38.078775+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -946,7 +946,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Schule_Altchemnitz.pdf</id>
     <title>Schule Altchemnitz, Förderzentrum mit dem Förderschwerpunkt Lernen, in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.308948+00:00</updated>
+    <updated>2021-12-01T05:21:38.078971+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -959,7 +959,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_FS_L_J_H_Pestalozzi_Chemntz.pdf</id>
     <title>Förderzentrum mit dem Förderschwerpunkt Lernen "Johann Heinrich Pestalozzi" in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.309104+00:00</updated>
+    <updated>2021-12-01T05:21:38.079166+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 05.12.2021
@@ -972,7 +972,7 @@ Gültig: 30.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Kirchner_Grundschule.pdf</id>
     <title>Kirchner-Grundschule in Chemnitz-Wittgensdorf</title>
-    <updated>2021-11-30T22:22:06.309260+00:00</updated>
+    <updated>2021-12-01T05:21:38.079361+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -985,7 +985,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Roehrsdorf.pdf</id>
     <title>Grundschule Röhrsdorf in Röhrsdorf</title>
-    <updated>2021-11-30T22:22:06.309451+00:00</updated>
+    <updated>2021-12-01T05:21:38.079556+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -998,7 +998,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Foerderzentrum_Johannes_Trueper.pdf</id>
     <title>Sonderpädagogisches Förderzentrum "Johannes Trüper", Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.309611+00:00</updated>
+    <updated>2021-12-01T05:21:38.079759+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -1011,7 +1011,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Grundschule_Klaffenbach.pdf</id>
     <title>Grundschule Klaffenbach in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.309769+00:00</updated>
+    <updated>2021-12-01T05:21:38.079960+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 08.12.2021
@@ -1024,7 +1024,7 @@ Gültig: 26.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Kleinolbersdorf.pdf</id>
     <title>Grundschule Kleinolbersdorf in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.309925+00:00</updated>
+    <updated>2021-12-01T05:21:38.080156+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1037,7 +1037,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Grundschule_Ebersdorf.pdf</id>
     <title>Grundschule Ebersdorf in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.310082+00:00</updated>
+    <updated>2021-12-01T05:21:38.080351+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1050,7 +1050,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_Schlossschule_Chemnitz.pdf</id>
     <title>Schlossgrundschule Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.310235+00:00</updated>
+    <updated>2021-12-01T05:21:38.080545+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 01.12.2021
@@ -1063,7 +1063,7 @@ Gültig: 27.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Goethe_Gymnasium_Chemnitz.pdf</id>
     <title>Johann-Wolfgang-von-Goethe-Gymnasium Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.310389+00:00</updated>
+    <updated>2021-12-01T05:21:38.080739+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1076,7 +1076,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Ev_Schulzentrum_Chemnitz.pdf</id>
     <title>Evangelisches Schulzentrum Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.310542+00:00</updated>
+    <updated>2021-12-01T05:21:38.080934+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -1089,7 +1089,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_OS_Schweitzer_Chemnitz.pdf</id>
     <title>Albert-Schweitzer-Oberschule Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.310696+00:00</updated>
+    <updated>2021-12-01T05:21:38.081129+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 02.12.2021
@@ -1102,7 +1102,7 @@ Gültig: 25.11.2021 bis 02.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Charles_Darwin_Chemnitz.pdf</id>
     <title>Charles-Darwin-Grundschule in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.310848+00:00</updated>
+    <updated>2021-12-01T05:21:38.081346+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1115,7 +1115,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Evangelisches_Schulzentrum_Chemnitz.pdf.pdf</id>
     <title>Evangelisches Schulzentrum Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.311000+00:00</updated>
+    <updated>2021-12-01T05:21:38.081552+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 26.11.2021
@@ -1128,7 +1128,7 @@ Gültig: 24.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Altendorf.pdf</id>
     <title>Grundschule Altendorf in Chemnitz OT Altendorf</title>
-    <updated>2021-11-30T22:22:06.311152+00:00</updated>
+    <updated>2021-12-01T05:21:38.082087+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 26.11.2021
@@ -1141,7 +1141,7 @@ Gültig: 23.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Kirchner_GS_Chemnitz.pdf</id>
     <title>Kirchner-Grundschule Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.311715+00:00</updated>
+    <updated>2021-12-01T05:21:38.082403+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -1154,7 +1154,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_Schloss_GS_Chemnitz.pdf</id>
     <title>Schlossgrundschule Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.311922+00:00</updated>
+    <updated>2021-12-01T05:21:38.082690+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 26.11.2021
@@ -1167,7 +1167,7 @@ Gültig: 23.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_BSZ_Wirtschaft_II_Chemnitz.pdf</id>
     <title>Berufliches Schulzentrum für Wirtschaft II Chemnitz in Chemnitz</title>
-    <updated>2021-11-30T22:22:06.312093+00:00</updated>
+    <updated>2021-12-01T05:21:38.082896+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -1180,7 +1180,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_16_GS_Reichenbrand.pdf</id>
     <title>Grundschule Reichenbrand in Chemnitz OT Reichenbrand</title>
-    <updated>2021-11-30T22:22:06.312256+00:00</updated>
+    <updated>2021-12-01T05:21:38.083097+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 18.11.2021 bis 24.11.2021
@@ -1193,7 +1193,7 @@ Gültig: 18.11.2021 bis 24.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_Schule_Wiederitzsch_Leipzig.pdf</id>
     <title>Schule Wiederitzsch, Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.312417+00:00</updated>
+    <updated>2021-12-01T05:21:38.083316+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1206,7 +1206,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_78_GS_Leipzig.pdf</id>
     <title>78. Schule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.312578+00:00</updated>
+    <updated>2021-12-01T05:21:38.083521+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1219,7 +1219,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Leibnizschule_Gymnasium_Leipzig.pdf</id>
     <title>Leibnizschule – Gymnasium der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.312741+00:00</updated>
+    <updated>2021-12-01T05:21:38.083728+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 08.12.2021
@@ -1232,7 +1232,7 @@ Gültig: 01.12.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Friedrich_Froebel_Schule.pdf</id>
     <title>Friedrich-Fröbel-Schule, Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.312901+00:00</updated>
+    <updated>2021-12-01T05:21:38.083933+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -1245,7 +1245,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_FZ_Kaethe_Kollwitz.pdf</id>
     <title>Förderzentrum mit dem Förderschwerpunkt Sprache "Käthe Kollwitz" in Leipzig</title>
-    <updated>2021-11-30T22:22:06.313061+00:00</updated>
+    <updated>2021-12-01T05:21:38.084134+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1258,7 +1258,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Schule_Ratzelstra%C3%9Fe.pdf</id>
     <title>Schule Ratzelstraße - Oberschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.313251+00:00</updated>
+    <updated>2021-12-01T05:21:38.084379+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -1271,7 +1271,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_8_GS_Leipzig.pdf</id>
     <title>8. Schule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.313462+00:00</updated>
+    <updated>2021-12-01T05:21:38.084595+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -1284,7 +1284,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Schule_am_Rabet_Leipzig.pdf</id>
     <title>Schule am Rabet – Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.313629+00:00</updated>
+    <updated>2021-12-01T05:21:38.084815+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -1297,7 +1297,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_AHFGrundschule%20Leipzig.pdf</id>
     <title>AHF Grundschule Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.313802+00:00</updated>
+    <updated>2021-12-01T05:21:38.085026+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -1310,7 +1310,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GY_Humboldt_Leipzig.pdf</id>
     <title>Humboldt-Schule - Gymnasium der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.313964+00:00</updated>
+    <updated>2021-12-01T05:21:38.085264+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -1323,7 +1323,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Schule_Thonberg_Leipzig.pdf</id>
     <title>Schule Thonberg - Schule mit dem Förderschwerpunkt geistige Entwicklung der Stadt Leipzig, in Leipzig</title>
-    <updated>2021-11-30T22:22:06.314121+00:00</updated>
+    <updated>2021-12-01T05:21:38.085470+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -1336,7 +1336,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_FS_Pestalozzi_Leipzig.pdf</id>
     <title>Johann- Heinrich- Pestalozzi- Schule - Förderzentrum mit dem Förderschwerpunkt Lernen der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.314284+00:00</updated>
+    <updated>2021-12-01T05:21:38.085686+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 06.12.2021
@@ -1349,7 +1349,7 @@ Gültig: 29.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Wilhelm_Busch_Schule_Grundschule_Leipzig.pdf</id>
     <title>Wilhelm-Busch-Schule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.314443+00:00</updated>
+    <updated>2021-12-01T05:21:38.085881+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -1362,7 +1362,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_Leibnizgymnasium_Leipzig.pdf</id>
     <title>Leibnizschule, Gymnasium der Stadt Leipzig, in Leipzig</title>
-    <updated>2021-11-30T22:22:06.314596+00:00</updated>
+    <updated>2021-12-01T05:21:38.086081+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1375,7 +1375,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GY_Engelsdorf.pdf</id>
     <title>Gymnasium Engelsdorf in Leipzig</title>
-    <updated>2021-11-30T22:22:06.314752+00:00</updated>
+    <updated>2021-12-01T05:21:38.086293+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 07.12.2021
@@ -1388,7 +1388,7 @@ Gültig: 29.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_FZ_Lernen_Gruenau_Leipzig.pdf</id>
     <title>Schule Grünau - Förderzentrum mit dem Förderschwerpunkt Lernen der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.314912+00:00</updated>
+    <updated>2021-12-01T05:21:38.086504+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 10.12.2021
@@ -1401,7 +1401,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_90_Grundschule_der_Stadt_Leipzig.pdf</id>
     <title>90. Schule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.315070+00:00</updated>
+    <updated>2021-12-01T05:21:38.086715+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1414,7 +1414,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_FZ_Samuel_Heinicke_Leipzig.pdf</id>
     <title>Förderzentrum Samuel Heinicke Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.315228+00:00</updated>
+    <updated>2021-12-01T05:21:38.086925+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1427,7 +1427,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Theodor_Koerner_Schule_Leipzig.pdf</id>
     <title>Theodor-Körner-Schule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.315387+00:00</updated>
+    <updated>2021-12-01T05:21:38.087138+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 09.12.2021
@@ -1440,7 +1440,7 @@ Gültig: 26.11.2021 bis 09.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_8_GS_Leipzig.pdf</id>
     <title>8. Schule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.315541+00:00</updated>
+    <updated>2021-12-01T05:21:38.087349+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1453,7 +1453,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Adolph_Diesterweg_Schule.pdf</id>
     <title>Adolph-Diesterweg-Schule, Förderzentrum mit dem Förderschwerpunkt Lernen der Stadt Leipzig, in Leipzig</title>
-    <updated>2021-11-30T22:22:06.315697+00:00</updated>
+    <updated>2021-12-01T05:21:38.087562+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 10.12.2021
@@ -1466,7 +1466,7 @@ Gültig: 26.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_am_Gruenen_Gleis_Leipzig.pdf</id>
     <title>Schule am Grünen Gleis - Grundschule der Stadt Leipzig in Leipzig OT Kleinzschocher</title>
-    <updated>2021-11-30T22:22:06.315861+00:00</updated>
+    <updated>2021-12-01T05:21:38.087773+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 10.12.2021
@@ -1479,7 +1479,7 @@ Gültig: 27.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Erich_Zeigner_GS_Leipzig.pdf</id>
     <title>Erich-Zeigner-Schule – Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.316021+00:00</updated>
+    <updated>2021-12-01T05:21:38.087985+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1492,7 +1492,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_18_Lessing_GS_Leipzig.pdf</id>
     <title>Lessingschule - Grundschule der Stadt Leipzig in Leipzig</title>
-    <updated>2021-11-30T22:22:06.316176+00:00</updated>
+    <updated>2021-12-01T05:21:38.088215+00:00</updated>
     <content>
 Status: eingeschränkter Regelbetrieb
 Gültig: 19.11.2021 bis 03.12.2021
@@ -1505,7 +1505,7 @@ Gültig: 19.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Dr_Alwin_Schade_Schule.pdf</id>
     <title>Dr.-Alwin-Schade-Schule, Grundschule Putzkau in Schmölln-Putzkau</title>
-    <updated>2021-11-30T22:22:06.316332+00:00</updated>
+    <updated>2021-12-01T05:21:38.088421+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1518,7 +1518,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_GS_Elstra.pdf</id>
     <title>Grundschule "Otto Garten" Elstra in Elstra</title>
-    <updated>2021-11-30T22:22:06.316487+00:00</updated>
+    <updated>2021-12-01T05:21:38.088625+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1531,7 +1531,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Max_Militzer_GS_Bautzen.pdf</id>
     <title>Max-Militzer-Grundschule Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.316641+00:00</updated>
+    <updated>2021-12-01T05:21:38.088826+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1544,7 +1544,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Ottendorf_Okrilla.pdf</id>
     <title>Grundschule Ottendorf-Okrilla in Ottendorf-Okrilla</title>
-    <updated>2021-11-30T22:22:06.316795+00:00</updated>
+    <updated>2021-12-01T05:21:38.089033+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 08.12.2021
@@ -1557,7 +1557,7 @@ Gültig: 01.12.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_LiegauAug.pdf</id>
     <title>Grundschule Liegau-Augustusbad in Radeberg</title>
-    <updated>2021-11-30T22:22:06.316950+00:00</updated>
+    <updated>2021-12-01T05:21:38.089260+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1570,7 +1570,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Lessing_Gymnasium_Kamenz.pdf</id>
     <title>Gotthold-Ephraim-Lessing-Gymnasiums Kamenz in Kamenz</title>
-    <updated>2021-11-30T22:22:06.317106+00:00</updated>
+    <updated>2021-12-01T05:21:38.089495+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -1583,7 +1583,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Dr_Salvador_Allende_Oberschule_Bautzen.pdf</id>
     <title>Dr.-Salvador-Allende-Oberschule Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.317261+00:00</updated>
+    <updated>2021-12-01T05:21:38.089699+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -1596,7 +1596,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Leon_Foucault_Gymnasium_Hoyerswerda.pdf</id>
     <title>Léon-Foucault-Gymnasium in Hoyerswerda</title>
-    <updated>2021-11-30T22:22:06.317448+00:00</updated>
+    <updated>2021-12-01T05:21:38.089901+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -1609,7 +1609,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_Freie_Schule_Weissenberg.pdf</id>
     <title>Freie Schule Weißenberg - Oberschule in Weißenberg</title>
-    <updated>2021-11-30T22:22:06.317609+00:00</updated>
+    <updated>2021-12-01T05:21:38.090115+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 05.12.2021
@@ -1622,7 +1622,7 @@ Gültig: 29.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_ABC_GS_Neschwitz.pdf</id>
     <title>ABC Grundschule Neschwitz in Neschwitz</title>
-    <updated>2021-11-30T22:22:06.317766+00:00</updated>
+    <updated>2021-12-01T05:21:38.090367+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -1635,7 +1635,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_Dr_Salvador_Allende_OS.pdf</id>
     <title>Dr.-Salvador-Allende-Oberschule Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.317921+00:00</updated>
+    <updated>2021-12-01T05:21:38.090647+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -1648,7 +1648,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_OS_Malschwitz.pdf</id>
     <title>Oberschule Malschwitz in Malschwitz</title>
-    <updated>2021-11-30T22:22:06.318087+00:00</updated>
+    <updated>2021-12-01T05:21:38.090888+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1661,7 +1661,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Grundschule_Friedrich_Schiller.pdf</id>
     <title>Grundschule "Friedrich Schiller" in Cunewalde</title>
-    <updated>2021-11-30T22:22:06.318243+00:00</updated>
+    <updated>2021-12-01T05:21:38.091138+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1674,7 +1674,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GS_Koenigswartha.pdf</id>
     <title>Grundschule Königswartha in Königswartha</title>
-    <updated>2021-11-30T22:22:06.318398+00:00</updated>
+    <updated>2021-12-01T05:21:38.091341+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1687,7 +1687,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Humboldt_Gymnasium_Radeberg.pdf</id>
     <title>Humboldt-Gymnasium Radeberg in Radeberg</title>
-    <updated>2021-11-30T22:22:06.318553+00:00</updated>
+    <updated>2021-12-01T05:21:38.091540+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -1700,7 +1700,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Ferdinand_Sauerbruch_Gymnasium_Gro%C3%9Froehrsdorf.pdf</id>
     <title>Ferdinand-Sauerbruch-Gymnasium Großröhrsdorf in Großröhrsdorf</title>
-    <updated>2021-11-30T22:22:06.318720+00:00</updated>
+    <updated>2021-12-01T05:21:38.091748+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1713,7 +1713,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Ottendorf_Okrilla.pdf</id>
     <title>Grundschule Ottendorf-Okrilla in Ottendorf-Okrilla</title>
-    <updated>2021-11-30T22:22:06.318877+00:00</updated>
+    <updated>2021-12-01T05:21:38.091950+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -1726,7 +1726,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Freie_Schule_Weissenberg.pdf</id>
     <title>Freie Schule Weißenberg, Oberschule in Weißenberg</title>
-    <updated>2021-11-30T22:22:06.319032+00:00</updated>
+    <updated>2021-12-01T05:21:38.092161+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1739,7 +1739,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Schoenteichen_Kamenz.pdf</id>
     <title>Grundschule Schönteichen in Kamenz</title>
-    <updated>2021-11-30T22:22:06.319186+00:00</updated>
+    <updated>2021-12-01T05:21:38.092508+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -1752,7 +1752,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_G_Daimler_Oberschule_Bautzen.pdf</id>
     <title>Gottlieb-Daimler-Oberschule Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.319340+00:00</updated>
+    <updated>2021-12-01T05:21:38.092818+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 10.12.2021
@@ -1765,7 +1765,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Grossroehrsdorf.pdf</id>
     <title>Grundschule Großröhrsdorf – Praßlerschule in Großröhrsdorf</title>
-    <updated>2021-11-30T22:22:06.319495+00:00</updated>
+    <updated>2021-12-01T05:21:38.093094+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 07.12.2021
@@ -1778,7 +1778,7 @@ Gültig: 27.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Malschwitz.pdf</id>
     <title>Grundschule Malschwitz in Malschwitz OT Baruth</title>
-    <updated>2021-11-30T22:22:06.319648+00:00</updated>
+    <updated>2021-12-01T05:21:38.093386+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 02.12.2021
@@ -1791,7 +1791,7 @@ Gültig: 29.11.2021 bis 02.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Medingen_Sonnenblumenschule.pdf</id>
     <title>Grundschule Medingen „Sonnenblumenschule“ in Ottendorf-Okrilla OT Medingen</title>
-    <updated>2021-11-30T22:22:06.319800+00:00</updated>
+    <updated>2021-12-01T05:21:38.093612+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -1804,7 +1804,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Ernst_Rietschel_OS_Pulsnitz.pdf</id>
     <title>Ernst-Rietschel-Oberschule Pulsnitz in Pulsnitz</title>
-    <updated>2021-11-30T22:22:06.319954+00:00</updated>
+    <updated>2021-12-01T05:21:38.093823+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -1817,7 +1817,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Frederic_Juliot_Curie_GS_Bautzen.pdf</id>
     <title>Frédéric-Joliot-Curie-Grundschule Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.320106+00:00</updated>
+    <updated>2021-12-01T05:21:38.094014+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -1830,7 +1830,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Steinigtwolmsdorf.pdf</id>
     <title>Grundschule Steinigtwolmsdorf in Steinigtwolmsdorf</title>
-    <updated>2021-11-30T22:22:06.320258+00:00</updated>
+    <updated>2021-12-01T05:21:38.094215+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -1843,7 +1843,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Haselbachtal.pdf</id>
     <title>Grundschule Haselbachtal in Haselbachtal</title>
-    <updated>2021-11-30T22:22:06.320411+00:00</updated>
+    <updated>2021-12-01T05:21:38.094421+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -1856,7 +1856,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_Pesta_Radeberg.pdf</id>
     <title>Pestalozzioberschule Radeberg Oberschule in Radeberg</title>
-    <updated>2021-11-30T22:22:06.320565+00:00</updated>
+    <updated>2021-12-01T05:21:38.094625+00:00</updated>
     <content>
 Status: befristet vollständig
 Gültig: 23.11.2021 bis 03.12.2021
@@ -1869,7 +1869,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_GS_Leppersdorf.pdf</id>
     <title>Grundschule Leppersdorf in Wachau OT Leppersdorf</title>
-    <updated>2021-11-30T22:22:06.320721+00:00</updated>
+    <updated>2021-12-01T05:21:38.094866+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -1882,7 +1882,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Oberlichtenau.pdf</id>
     <title>Grundschule Oberlichtenau in Pulsnitz</title>
-    <updated>2021-11-30T22:22:06.320914+00:00</updated>
+    <updated>2021-12-01T05:21:38.095072+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.11.2021
@@ -1895,7 +1895,7 @@ Gültig: 23.11.2021 bis 03.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Grosspostwitz.pdf</id>
     <title>Lessing-Grundschule Großpostwitz in Großpostwitz</title>
-    <updated>2021-11-30T22:22:06.321080+00:00</updated>
+    <updated>2021-12-01T05:21:38.095278+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 02.12.2021
@@ -1908,7 +1908,7 @@ Gültig: 23.11.2021 bis 02.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_PhilippMelanchthon_Gym_Bautzen.pdf</id>
     <title>Philipp-Melanchthon-Gymnasium Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.321239+00:00</updated>
+    <updated>2021-12-01T05:21:38.095482+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -1921,7 +1921,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Schiller_Gym_Bautzen.pdf</id>
     <title>Schiller-Gymnasium Bautzen in Bautzen</title>
-    <updated>2021-11-30T22:22:06.321424+00:00</updated>
+    <updated>2021-12-01T05:21:38.095685+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -1934,7 +1934,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_19_OS_Bernsdorf.pdf</id>
     <title>WIR - Freie Oberschule Bernsdorf in Bernsdorf</title>
-    <updated>2021-11-30T22:22:06.321586+00:00</updated>
+    <updated>2021-12-01T05:21:38.095890+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 30.11.2021
@@ -1947,7 +1947,7 @@ Gültig: 20.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_19_GS_Sued_Bischofswerda.pdf</id>
     <title>Grundschule Süd Bischofswerda in Bischofswerda</title>
-    <updated>2021-11-30T22:22:06.321746+00:00</updated>
+    <updated>2021-12-01T05:21:38.096094+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 22.11.2021 bis 30.11.2021
@@ -1960,7 +1960,7 @@ Gültig: 22.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_OS_Aue_Zelle.pdf</id>
     <title>Oberschule Aue-Zelle in Aue-Bad Schlema</title>
-    <updated>2021-11-30T22:22:06.321901+00:00</updated>
+    <updated>2021-12-01T05:21:38.096299+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -1973,7 +1973,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Goethe_GS_Zwoenitz.pdf</id>
     <title>Grundschule „Johann Wolfgang von Goethe“ Zwönitz in Zwönitz</title>
-    <updated>2021-11-30T22:22:06.322057+00:00</updated>
+    <updated>2021-12-01T05:21:38.096501+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1986,7 +1986,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_K_Peters_OS_Zwoenitz.pdf</id>
     <title>Oberschule „Katharina Peters“ Zwönitz in Zwönitz</title>
-    <updated>2021-11-30T22:22:06.322212+00:00</updated>
+    <updated>2021-12-01T05:21:38.096705+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -1999,7 +1999,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Geschwister_Scholl_OS_Schoenheide.pdf</id>
     <title>Geschwister-Scholl-Oberschule Schönheide in Schönheide</title>
-    <updated>2021-11-30T22:22:06.322365+00:00</updated>
+    <updated>2021-12-01T05:21:38.096911+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -2012,7 +2012,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Wildrosen_GS.pdf</id>
     <title>Wildrosen-Grundschule Dörnthal in Olbernhau</title>
-    <updated>2021-11-30T22:22:06.322518+00:00</updated>
+    <updated>2021-12-01T05:21:38.097115+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 09.12.2021
@@ -2025,7 +2025,7 @@ Gültig: 30.11.2021 bis 09.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Grundschule_Erla_Crandorf.pdf</id>
     <title>Grundschule Erla-Crandorf in Schwarzenberg/Erzgeb.</title>
-    <updated>2021-11-30T22:22:06.322671+00:00</updated>
+    <updated>2021-12-01T05:21:38.097368+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -2038,7 +2038,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Grundschule_Gornau.pdf</id>
     <title>Grundschule Gornau in Gornau/Erzgeb.</title>
-    <updated>2021-11-30T22:22:06.322823+00:00</updated>
+    <updated>2021-12-01T05:21:38.097588+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2051,7 +2051,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Buergerschule_Wolkenstein.pdf</id>
     <title>Bürgerschule Wolkenstein - Grundschule in Wolkenstein</title>
-    <updated>2021-11-30T22:22:06.322976+00:00</updated>
+    <updated>2021-12-01T05:21:38.097781+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -2064,7 +2064,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Johann_Wolfgang_von_Goethe_Olbernhau.pdf</id>
     <title>Grundschule „Johann Wolfgang von Goethe“ Olbernhau in Olbernhau</title>
-    <updated>2021-11-30T22:22:06.323130+00:00</updated>
+    <updated>2021-12-01T05:21:38.097974+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -2077,7 +2077,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Samuel_von_Pufendorf_Zwoenitz.pdf</id>
     <title>Grundschule „Samuel von Pufendorf“ Zwönitz in Zwönitz</title>
-    <updated>2021-11-30T22:22:06.323283+00:00</updated>
+    <updated>2021-12-01T05:21:38.098165+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -2090,7 +2090,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Waldkirchen.pdf</id>
     <title>Grundschule Waldkirchen in Grünhainichen/ OT Waldkirchen</title>
-    <updated>2021-11-30T22:22:06.323436+00:00</updated>
+    <updated>2021-12-01T05:21:38.098355+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -2103,7 +2103,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Gymnasium_Olbernhau.pdf</id>
     <title>Gymnasium Olbernhau in Olbernhau</title>
-    <updated>2021-11-30T22:22:06.323589+00:00</updated>
+    <updated>2021-12-01T05:21:38.098544+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -2116,7 +2116,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_OS_Zschopau.pdf</id>
     <title>Oberschule „August Bebel“ in Zschopau</title>
-    <updated>2021-11-30T22:22:06.323742+00:00</updated>
+    <updated>2021-12-01T05:21:38.098733+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2129,7 +2129,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Turley_OS_Oelsnitz.pdf</id>
     <title>Turley-Oberschule Oelsnitz in Oelsnitz/Erzgeb.</title>
-    <updated>2021-11-30T22:22:06.323896+00:00</updated>
+    <updated>2021-12-01T05:21:38.098923+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2142,7 +2142,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GS_Sehmatal.pdf</id>
     <title>Grundschule Sehmatal in Sehmatal-Neudorf</title>
-    <updated>2021-11-30T22:22:06.324049+00:00</updated>
+    <updated>2021-12-01T05:21:38.099112+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 05.12.2021
@@ -2155,7 +2155,7 @@ Gültig: 29.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Grundschule_Crottendorf.pdf</id>
     <title>Grundschule Crottendorf in Crottendorf</title>
-    <updated>2021-11-30T22:22:06.324201+00:00</updated>
+    <updated>2021-12-01T05:21:38.099302+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 08.12.2021
@@ -2168,7 +2168,7 @@ Gültig: 27.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_OS_Adam_Ries_AnnabergB.pdf</id>
     <title>Bildungszentrum Adam Ries, Oberschule in Annaberg-Buchholz</title>
-    <updated>2021-11-30T22:22:06.324352+00:00</updated>
+    <updated>2021-12-01T05:21:38.099493+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -2181,7 +2181,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GS_Antonsthal.pdf</id>
     <title>Grundschule Antonsthal in Breitenbrunn OT Antonsthal</title>
-    <updated>2021-11-30T22:22:06.324506+00:00</updated>
+    <updated>2021-12-01T05:21:38.099692+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2194,7 +2194,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_OS_Aue_Zelle.pdf</id>
     <title>Oberschule Aue Zelle in Aue</title>
-    <updated>2021-11-30T22:22:06.324661+00:00</updated>
+    <updated>2021-12-01T05:21:38.099881+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2207,7 +2207,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Grundschule_Schlettau.pdf</id>
     <title>Grundschule Schlettau in Schlettau</title>
-    <updated>2021-11-30T22:22:06.324815+00:00</updated>
+    <updated>2021-12-01T05:21:38.100069+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2220,7 +2220,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Stuetzengruen.pdf</id>
     <title>Grundschule Stützengrün in Stützengrün</title>
-    <updated>2021-11-30T22:22:06.324970+00:00</updated>
+    <updated>2021-12-01T05:21:38.100257+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -2233,7 +2233,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GS_Pufendorf_Zwoenitz.pdf</id>
     <title>Grundschule "Samuel von Pufendorf" Zwönitz in Zwönitz OT Dorfchemnitz</title>
-    <updated>2021-11-30T22:22:06.325129+00:00</updated>
+    <updated>2021-12-01T05:21:38.100460+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2246,7 +2246,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Grundschule_Lauterbach.pdf</id>
     <title>Grundschule Lauterbach in Marienberg OT Lauterbach</title>
-    <updated>2021-11-30T22:22:06.325283+00:00</updated>
+    <updated>2021-12-01T05:21:38.100648+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2259,7 +2259,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Geschwister_Scholl_OS_Schoenheide.pdf</id>
     <title>Geschwister-Scholl-Oberschule Schönheide in Schönheide</title>
-    <updated>2021-11-30T22:22:06.325469+00:00</updated>
+    <updated>2021-12-01T05:21:38.100839+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 26.11.2021
@@ -2272,7 +2272,7 @@ Gültig: 25.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_OS_Pesta_Annaberg.pdf</id>
     <title>Oberschule "Johann Heinrich Pestalozzi" in Annaberg-Buchholz</title>
-    <updated>2021-11-30T22:22:06.325625+00:00</updated>
+    <updated>2021-12-01T05:21:38.101026+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2285,7 +2285,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_FZ_Annaberg.pdf</id>
     <title>Förderzentrum Annaberg mit den Förderschwerpunkten Lernen und Sprache in Annaberg-Buchholz</title>
-    <updated>2021-11-30T22:22:06.325779+00:00</updated>
+    <updated>2021-12-01T05:21:38.101260+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2298,7 +2298,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Mildenau.pdf</id>
     <title>Grundschule Mildenau in Mildenau</title>
-    <updated>2021-11-30T22:22:06.325941+00:00</updated>
+    <updated>2021-12-01T05:21:38.101464+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2311,7 +2311,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Goethe_GS_Olbernhau.pdf</id>
     <title>Grundschule „Johann Wolfgang von Goethe“ in Olbernhau</title>
-    <updated>2021-11-30T22:22:06.326095+00:00</updated>
+    <updated>2021-12-01T05:21:38.101680+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2324,7 +2324,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_BSZ_ETW_Erzgebirge.pdf</id>
     <title>Berufliches Schulzentrum für Ernährung, Technik und Wirtschaft des Erzgebirgskreises in Annaberg-Buchholz</title>
-    <updated>2021-11-30T22:22:06.326258+00:00</updated>
+    <updated>2021-12-01T05:21:38.101871+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2337,7 +2337,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_OS_Adam_Ries_Annaberg.pdf</id>
     <title>Bildungszentrum Adam Ries, Oberschule in Annaberg-Buchholz</title>
-    <updated>2021-11-30T22:22:06.326417+00:00</updated>
+    <updated>2021-12-01T05:21:38.102063+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2350,7 +2350,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Turley_Oberschule_Oelsnitz.pdf</id>
     <title>Turley-Oberschule Oelsnitz in Oelsnitz/Erzgeb.</title>
-    <updated>2021-11-30T22:22:06.326570+00:00</updated>
+    <updated>2021-12-01T05:21:38.102265+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2363,7 +2363,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Berufsfachschule_und_Fachschule_fuer_Sozialwesen_Aue.pdf</id>
     <title>Berufsfachschule und Fachschule für Sozialwesen in Aue-Bad Schlema</title>
-    <updated>2021-11-30T22:22:06.326722+00:00</updated>
+    <updated>2021-12-01T05:21:38.102582+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2376,7 +2376,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_OS_Schwarzenberg.pdf</id>
     <title>Stadtschule Schwarzenberg, Oberschule in Schwarzenberg/Erzgebirge</title>
-    <updated>2021-11-30T22:22:06.326874+00:00</updated>
+    <updated>2021-12-01T05:21:38.102855+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -2389,7 +2389,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Grundschule_Baerenstein.pdf</id>
     <title>Grundschule Bärenstein in Bärenstein</title>
-    <updated>2021-11-30T22:22:06.327026+00:00</updated>
+    <updated>2021-12-01T05:21:38.103068+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -2402,7 +2402,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Matthes_Enderlein_Gymnasium.pdf</id>
     <title>Matthes-Enderlein-Gymnasium Zwönitz in Zwönitz</title>
-    <updated>2021-11-30T22:22:06.327180+00:00</updated>
+    <updated>2021-12-01T05:21:38.103264+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 01.12.2021
@@ -2415,7 +2415,7 @@ Gültig: 24.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Burkhardtsdorf_Widerruf.pdf</id>
     <title>Grundschule Burkhardtsdorf in Burkhardtsdorf</title>
-    <updated>2021-11-30T22:22:06.327340+00:00</updated>
+    <updated>2021-12-01T05:21:38.103461+00:00</updated>
     <content>
 Status: Widerruf zur befristeten teilweisen Schließung
 Gültig: 24.11.2021
@@ -2428,7 +2428,7 @@ Gültig: 24.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Burkhardtsdorf.pdf</id>
     <title>Grundschule Burkhardtsdorf in Burkhardtsdorf</title>
-    <updated>2021-11-30T22:22:06.327496+00:00</updated>
+    <updated>2021-12-01T05:21:38.103665+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -2441,7 +2441,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_FZ_Pestalozzi_Marienberg.pdf</id>
     <title>Förderzentrum „Johann Heinrich Pestalozzi“ Marienberg, Schule mit dem Förderschwerpunkt Lernen, in Marienberg</title>
-    <updated>2021-11-30T22:22:06.327649+00:00</updated>
+    <updated>2021-12-01T05:21:38.103868+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -2454,7 +2454,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Schule_des_Friedens_Oelsnitz.pdf</id>
     <title>Schule des Friedens Grundschule in Oelsnitz/Erzgebirge</title>
-    <updated>2021-11-30T22:22:06.327801+00:00</updated>
+    <updated>2021-12-01T05:21:38.104071+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -2467,7 +2467,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_OS_Burkhardtsdorf.pdf</id>
     <title>Evangelischen Oberschule Burkhardtsdorf in Burkhardtsdorf</title>
-    <updated>2021-11-30T22:22:06.327954+00:00</updated>
+    <updated>2021-12-01T05:21:38.104272+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -2480,7 +2480,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Grundschule_Auerbach_Erzgebirgs.pdf</id>
     <title>Grundschule Auerbach in Auerbach</title>
-    <updated>2021-11-30T22:22:06.328105+00:00</updated>
+    <updated>2021-12-01T05:21:38.104477+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -2493,7 +2493,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_Heinrich_Heine_OS_Lauter_Bernsbach.pdf</id>
     <title>Heinrich-Heine-Oberschule in Lauter-Bernsbach</title>
-    <updated>2021-11-30T22:22:06.328257+00:00</updated>
+    <updated>2021-12-01T05:21:38.104679+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -2506,7 +2506,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_Johann_Wolfgang_von_Goethe.pdf</id>
     <title>Grundschule „Johann Wolfgang von Goethe“ Zwönitz in Zwönitz</title>
-    <updated>2021-11-30T22:22:06.328423+00:00</updated>
+    <updated>2021-12-01T05:21:38.104881+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -2519,7 +2519,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Crottendorf.pdf</id>
     <title>Grundschule Crottendorf in Crottendorf</title>
-    <updated>2021-11-30T22:22:06.328578+00:00</updated>
+    <updated>2021-12-01T05:21:38.105089+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: gestaffelt 23.11.2021 bis 03.12.2021
@@ -2532,7 +2532,7 @@ Gültig: gestaffelt 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_Eibenstock.pdf</id>
     <title>„Glück auf“ – Oberschule Eibenstock in Eibenstock</title>
-    <updated>2021-11-30T22:22:06.328732+00:00</updated>
+    <updated>2021-12-01T05:21:38.105310+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -2545,7 +2545,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_A_Bebel_Zschopau.pdf</id>
     <title>Oberschule „August Bebel“ in Zschopau</title>
-    <updated>2021-11-30T22:22:06.328892+00:00</updated>
+    <updated>2021-12-01T05:21:38.105516+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -2558,7 +2558,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Lengefeld.pdf</id>
     <title>Grundschule Lengefeld in Pockau-Lengefeld</title>
-    <updated>2021-11-30T22:22:06.329046+00:00</updated>
+    <updated>2021-12-01T05:21:38.105742+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -2571,7 +2571,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_OS_Oderwitz.pdf</id>
     <title>Pestalozzi-Oberschule Oderwitz in Oderwitz</title>
-    <updated>2021-11-30T22:22:06.329205+00:00</updated>
+    <updated>2021-12-01T05:21:38.106020+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 02.12.2021
@@ -2584,7 +2584,7 @@ Gültig: 30.11.2021 bis 02.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Koenigshufen.pdf</id>
     <title>Grundschule Königshufen in Görlitz</title>
-    <updated>2021-11-30T22:22:06.329384+00:00</updated>
+    <updated>2021-12-01T05:21:38.106300+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 01.12.2021 bis 15.12.2021
@@ -2597,7 +2597,7 @@ Gültig: 01.12.2021 bis 15.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Landau_Gymnasium_Weisswasser.pdf</id>
     <title>Landau-Gymnasium Weißwasser in Weißwasser</title>
-    <updated>2021-11-30T22:22:06.329546+00:00</updated>
+    <updated>2021-12-01T05:21:38.106494+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -2610,7 +2610,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_OS_Geschwister_Scholl_Krauschwitz.pdf</id>
     <title>Oberschule „Geschwister Scholl“ Krauschwitz in Krauschwitz</title>
-    <updated>2021-11-30T22:22:06.329702+00:00</updated>
+    <updated>2021-12-01T05:21:38.106684+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -2623,7 +2623,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Christian_Weise_Gym_Zittau.pdf</id>
     <title>Christian-Weise-Gymnasium Zittau in Zittau</title>
-    <updated>2021-11-30T22:22:06.329856+00:00</updated>
+    <updated>2021-12-01T05:21:38.106900+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -2636,7 +2636,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Seifhennersdorf.pdf</id>
     <title>Grundschule Seifhennersdorf</title>
-    <updated>2021-11-30T22:22:06.330045+00:00</updated>
+    <updated>2021-12-01T05:21:38.107105+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -2649,7 +2649,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Borna_West.pdf</id>
     <title>Grundschule „Kinder dieser Welt“ ehem. Borna-West in Borna</title>
-    <updated>2021-11-30T22:22:06.330211+00:00</updated>
+    <updated>2021-12-01T05:21:38.107294+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -2662,7 +2662,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Wilhelm_Ostwald_Grimma.pdf</id>
     <title>Grundschule "Wilhelm - Ostwald" Grimma in Grimma</title>
-    <updated>2021-11-30T22:22:06.330367+00:00</updated>
+    <updated>2021-12-01T05:21:38.107481+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -2675,7 +2675,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_GS_Hans_Coppi_Frankenhain.pdf</id>
     <title>Grundschule "Hans Coppi" Frankenhain in Frohburg</title>
-    <updated>2021-11-30T22:22:06.330520+00:00</updated>
+    <updated>2021-12-01T05:21:38.107677+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2688,7 +2688,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_FZ_Burkardtshain.pdf</id>
     <title>Förderzentrum Burkartshain mit dem Förderschwerpunkt Lernen in Wurzen</title>
-    <updated>2021-11-30T22:22:06.330672+00:00</updated>
+    <updated>2021-12-01T05:21:38.107865+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 12.12.2021
@@ -2701,7 +2701,7 @@ Gültig: 30.11.2021 bis 12.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Schule_FSP_Lernen_Borna.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen Borna in Borna</title>
-    <updated>2021-11-30T22:22:06.330823+00:00</updated>
+    <updated>2021-12-01T05:21:38.108051+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2714,7 +2714,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Brandis.pdf</id>
     <title>"Schule der kleinen Weltentdecker", Grundschule Brandis in Brandis</title>
-    <updated>2021-11-30T22:22:06.330975+00:00</updated>
+    <updated>2021-12-01T05:21:38.108248+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2727,7 +2727,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Nerchau.pdf</id>
     <title>Grundschule Nerchau in Grimma</title>
-    <updated>2021-11-30T22:22:06.331131+00:00</updated>
+    <updated>2021-12-01T05:21:38.108444+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2740,7 +2740,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Zwenkau.pdf</id>
     <title>Grundschule Zwenkau in Zwenkau</title>
-    <updated>2021-11-30T22:22:06.331286+00:00</updated>
+    <updated>2021-12-01T05:21:38.108631+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -2753,7 +2753,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Markkleeberg_Grossstaedteln.pdf</id>
     <title>Grundschule Markkleeberg-Großstädteln in Markkleeberg</title>
-    <updated>2021-11-30T22:22:06.331439+00:00</updated>
+    <updated>2021-12-01T05:21:38.108817+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 01.12.2021
@@ -2766,7 +2766,7 @@ Gültig: 27.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Kinder_dieser_Welt.pdf</id>
     <title>Grundschule „Kinder dieser Welt“ in Borna</title>
-    <updated>2021-11-30T22:22:06.331594+00:00</updated>
+    <updated>2021-12-01T05:21:38.109054+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -2779,7 +2779,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_Schule_Foerderschwerpunkt_Lernen_Borna.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen Borna in Borna</title>
-    <updated>2021-11-30T22:22:06.331746+00:00</updated>
+    <updated>2021-12-01T05:21:38.109313+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 06.12.2021
@@ -2792,7 +2792,7 @@ Gültig: 29.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_OS_Werner_Seelenbinder.pdf</id>
     <title>Oberschule "Werner Seelenbinder" Bad Lausick in Bad Lausick</title>
-    <updated>2021-11-30T22:22:06.331898+00:00</updated>
+    <updated>2021-12-01T05:21:38.109504+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -2805,7 +2805,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Grundschule_Borsdorf.pdf</id>
     <title>Dr.-Margarete-Blank-Grundschule Borsdorf in Borsdorf</title>
-    <updated>2021-11-30T22:22:06.332068+00:00</updated>
+    <updated>2021-12-01T05:21:38.109704+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 10.12.2021
@@ -2818,7 +2818,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Grundschule_Zum_Elefanten_Kuehren.pdf</id>
     <title>Grundschule "Zum Elefanten" Kühren in Wurzen</title>
-    <updated>2021-11-30T22:22:06.332229+00:00</updated>
+    <updated>2021-12-01T05:21:38.109908+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -2831,7 +2831,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GS_Buecherwurm_Grimma.pdf</id>
     <title>Grundschule Bücherwurm in Grimma</title>
-    <updated>2021-11-30T22:22:06.332386+00:00</updated>
+    <updated>2021-12-01T05:21:38.110116+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 08.12.2021
@@ -2844,7 +2844,7 @@ Gültig: 29.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GS_Markranstaedt.pdf</id>
     <title>Grundschule Markranstädt in Markranstädt</title>
-    <updated>2021-11-30T22:22:06.332541+00:00</updated>
+    <updated>2021-12-01T05:21:38.110310+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -2857,7 +2857,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_FS_Lernen_Borna.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen Borna in Borna</title>
-    <updated>2021-11-30T22:22:06.332699+00:00</updated>
+    <updated>2021-12-01T05:21:38.110509+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2870,7 +2870,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Kinder_dieser_Welt.pdf</id>
     <title>Grundschule „Kinder dieser Welt“ ehem. Borna-West in Borna</title>
-    <updated>2021-11-30T22:22:06.332856+00:00</updated>
+    <updated>2021-12-01T05:21:38.110704+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -2883,7 +2883,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_FS_Waldschule_Grimma.pdf</id>
     <title>Waldschule Grimma, Schule mit dem Förderschwerpunkt geistige Entwicklung in Grimma</title>
-    <updated>2021-11-30T22:22:06.333010+00:00</updated>
+    <updated>2021-12-01T05:21:38.110906+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2896,7 +2896,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Grundschule_Markkleeberg_West.pdf</id>
     <title>Grundschule Markkleeberg-West in Markkleeberg</title>
-    <updated>2021-11-30T22:22:06.333172+00:00</updated>
+    <updated>2021-12-01T05:21:38.111101+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2909,7 +2909,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Gro%C3%9Fpoesna.pdf</id>
     <title>Löwenzahn-Grundschule Großpösna in Großpösna</title>
-    <updated>2021-11-30T22:22:06.333354+00:00</updated>
+    <updated>2021-12-01T05:21:38.111297+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2922,7 +2922,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Brandis.pdf</id>
     <title>Schule der kleinen Weltentdecker, Grundschule Brandis in Brandis</title>
-    <updated>2021-11-30T22:22:06.333524+00:00</updated>
+    <updated>2021-12-01T05:21:38.111491+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2935,7 +2935,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Foerderzentrum_Burkhartshain.pdf</id>
     <title>Förderzentrum mit dem Förderschwerpunkt Lernen Burkartshain in Wurzen</title>
-    <updated>2021-11-30T22:22:06.333681+00:00</updated>
+    <updated>2021-12-01T05:21:38.111680+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 06.12.2021
@@ -2948,7 +2948,7 @@ Gültig: 25.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_AHF_GS_Leipzig.pdf</id>
     <title>August-Hermann-Francke Grundschule in Leipzig</title>
-    <updated>2021-11-30T22:22:06.333835+00:00</updated>
+    <updated>2021-12-01T05:21:38.111866+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2961,7 +2961,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Gymnasium_Engelsdorf.pdf</id>
     <title>Gymnasium Engelsdorf in Leipzig</title>
-    <updated>2021-11-30T22:22:06.333990+00:00</updated>
+    <updated>2021-12-01T05:21:38.112060+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2974,7 +2974,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Lebenswelt_Zwenkau.pdf</id>
     <title>Lebenswelt Zwenkau in Zwenkau</title>
-    <updated>2021-11-30T22:22:06.334151+00:00</updated>
+    <updated>2021-12-01T05:21:38.112252+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -2987,7 +2987,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Hausdorf.pdf</id>
     <title>Grundschule Hausdorf in Colditz</title>
-    <updated>2021-11-30T22:22:06.334306+00:00</updated>
+    <updated>2021-12-01T05:21:38.112440+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3000,7 +3000,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Foerderschule_Borna.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen Borna</title>
-    <updated>2021-11-30T22:22:06.334469+00:00</updated>
+    <updated>2021-12-01T05:21:38.112801+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -3013,7 +3013,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_Geithain.pdf</id>
     <title>Paul-Guenther-Oberschule Geithain in Geithain</title>
-    <updated>2021-11-30T22:22:06.334626+00:00</updated>
+    <updated>2021-12-01T05:21:38.113109+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3026,7 +3026,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Borsdorf.pdf</id>
     <title>Dr.-Margarete-Blank-Grundschule Borsdorf in Borsdorf</title>
-    <updated>2021-11-30T22:22:06.334781+00:00</updated>
+    <updated>2021-12-01T05:21:38.113338+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -3039,7 +3039,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Grundschule_Parthenstein.pdf</id>
     <title>Grundschule Parthenstein in Parthenstein</title>
-    <updated>2021-11-30T22:22:06.334935+00:00</updated>
+    <updated>2021-12-01T05:21:38.113540+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 01.12.2021
@@ -3052,7 +3052,7 @@ Gültig: 23.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_19_GS_Kulkwitz.pdf</id>
     <title>Grundschule Kulkwitz in Markranstädt OT Gärnitz</title>
-    <updated>2021-11-30T22:22:06.335103+00:00</updated>
+    <updated>2021-12-01T05:21:38.113743+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 30.11.2021
@@ -3065,7 +3065,7 @@ Gültig: 20.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_Grundschule_Bad_Lausick.pdf</id>
     <title>Grundschule Bad Lausick in Bad Lausick</title>
-    <updated>2021-11-30T22:22:06.335260+00:00</updated>
+    <updated>2021-12-01T05:21:38.113938+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 01.12.2021
@@ -3078,7 +3078,7 @@ Gültig: 20.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_Grundschule_Kitzscher.pdf</id>
     <title>Grundschule Kitzscher in Kitzscher</title>
-    <updated>2021-11-30T22:22:06.335414+00:00</updated>
+    <updated>2021-12-01T05:21:38.114139+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 03.12.2021
@@ -3091,7 +3091,7 @@ Gültig: 20.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_GS_Regis-Breitingen.pdf</id>
     <title>Grundschule Regis-Breitingen in Regis-Breitingen</title>
-    <updated>2021-11-30T22:22:06.335611+00:00</updated>
+    <updated>2021-12-01T05:21:38.114349+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.11.2021 bis 01.12.2021
@@ -3104,7 +3104,7 @@ Gültig: 22.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_Grundschule_Mitte_Coswig.pdf</id>
     <title>Grundschule Mitte Coswig in Coswig</title>
-    <updated>2021-11-30T22:22:06.335779+00:00</updated>
+    <updated>2021-12-01T05:21:38.114536+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 07.12.2021
@@ -3117,7 +3117,7 @@ Gültig: 01.12.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_OS_Radebeul_Mitte.pdf</id>
     <title>Oberschule Radebeul-Mitte in Radebeul</title>
-    <updated>2021-11-30T22:22:06.335945+00:00</updated>
+    <updated>2021-12-01T05:21:38.114722+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 07.12.2021
@@ -3130,7 +3130,7 @@ Gültig: 01.12.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_3_GS_Riesa.pdf</id>
     <title>3. Grundschule Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.336100+00:00</updated>
+    <updated>2021-12-01T05:21:38.114922+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -3143,7 +3143,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Landesgymnasium_Sankt_Afra.pdf</id>
     <title>Sächsischen Landesgymnasiums Sankt Afra zu Meißen in Meißen</title>
-    <updated>2021-11-30T22:22:06.336268+00:00</updated>
+    <updated>2021-12-01T05:21:38.115114+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -3156,7 +3156,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Grundschule_Kaebschuetztal.pdf</id>
     <title>Grundschule Käbschütztal in Käbschütztal</title>
-    <updated>2021-11-30T22:22:06.336426+00:00</updated>
+    <updated>2021-12-01T05:21:38.115302+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -3169,7 +3169,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_F_Schiller_Radebeul.pdf</id>
     <title>Grundschule Friedrich Schiller in Radebeul</title>
-    <updated>2021-11-30T22:22:06.336585+00:00</updated>
+    <updated>2021-12-01T05:21:38.115491+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -3182,7 +3182,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Naustadt.pdf</id>
     <title>Grundschule Naustadt in Klipphausen</title>
-    <updated>2021-11-30T22:22:06.336740+00:00</updated>
+    <updated>2021-12-01T05:21:38.115689+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 08.12.2021
@@ -3195,7 +3195,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Gymnasium_Franziskaneum_Meissen.pdf</id>
     <title>Gymnasium Franziskaneum Meißen in Meißen</title>
-    <updated>2021-11-30T22:22:06.336899+00:00</updated>
+    <updated>2021-12-01T05:21:38.115887+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -3208,7 +3208,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Pestalozzi_Grundschule_Nossen.pdf</id>
     <title>Pestalozzi-Grundschule Nossen in Nossen</title>
-    <updated>2021-11-30T22:22:06.337052+00:00</updated>
+    <updated>2021-12-01T05:21:38.116085+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 05.12.2021
@@ -3221,7 +3221,7 @@ Gültig: 30.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_Gymnasium_Coswig.pdf</id>
     <title>Gymnasium Coswig in Coswig</title>
-    <updated>2021-11-30T22:22:06.337210+00:00</updated>
+    <updated>2021-12-01T05:21:38.116275+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3234,7 +3234,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GYLuisenstift.pdf</id>
     <title>Gymnasium „Luisenstift“ in Radebeul</title>
-    <updated>2021-11-30T22:22:06.337387+00:00</updated>
+    <updated>2021-12-01T05:21:38.116475+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 09.12.2021
@@ -3247,7 +3247,7 @@ Gültig: 29.11.2021 bis 09.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GS_Trinitatis_Riesa.pdf</id>
     <title>Trinitatisschule Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.337554+00:00</updated>
+    <updated>2021-12-01T05:21:38.116678+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 07.12.2021
@@ -3260,7 +3260,7 @@ Gültig: 27.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_3_GS_Riesa.pdf</id>
     <title>3. Grundschule Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.337708+00:00</updated>
+    <updated>2021-12-01T05:21:38.116880+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -3273,7 +3273,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_Staedtisches_Gymnasium_Riesa.pdf</id>
     <title>Städtisches Gymnasium Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.337862+00:00</updated>
+    <updated>2021-12-01T05:21:38.117090+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -3286,7 +3286,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Brockwitz.pdf</id>
     <title>Grundschule Brockwitz in Coswig</title>
-    <updated>2021-11-30T22:22:06.338015+00:00</updated>
+    <updated>2021-12-01T05:21:38.117317+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -3299,7 +3299,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_OS_Triebischtal.pdf</id>
     <title>Triebischtalschule - 1. Oberschule Meißen in Meißen</title>
-    <updated>2021-11-30T22:22:06.338182+00:00</updated>
+    <updated>2021-12-01T05:21:38.117519+00:00</updated>
     <content>
 Status: befristete Beschulung im Wechselmodell
 Gültig: 29.11.2021 bis 10.12.2021
@@ -3312,7 +3312,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Nuenchritz.pdf</id>
     <title>Grundschule Nünchritz in Nünchritz</title>
-    <updated>2021-11-30T22:22:06.338337+00:00</updated>
+    <updated>2021-12-01T05:21:38.117711+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -3325,7 +3325,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Pestalozzi_GS_Nossen.pdf</id>
     <title>Pestalozzi-Grundschule Nossen in Nossen</title>
-    <updated>2021-11-30T22:22:06.338494+00:00</updated>
+    <updated>2021-12-01T05:21:38.117911+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -3338,7 +3338,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Wilhelm_Schneller_Grundschule.pdf</id>
     <title>Wilhelm-Schneller-Grundschule Kalkreuth in Ebersbach</title>
-    <updated>2021-11-30T22:22:06.338649+00:00</updated>
+    <updated>2021-12-01T05:21:38.118106+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3351,7 +3351,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_4_GS_Riesa.pdf</id>
     <title>4. Grundschule Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.338808+00:00</updated>
+    <updated>2021-12-01T05:21:38.118298+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3364,7 +3364,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_OS_Radebeul_Mitte.pdf</id>
     <title>Oberschule Radebeul-Mitte in Radebeul</title>
-    <updated>2021-11-30T22:22:06.338963+00:00</updated>
+    <updated>2021-12-01T05:21:38.118511+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3377,7 +3377,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Friedrich_Schiller.pdf</id>
     <title>Grundschule Friedrich Schiller in Radebeul</title>
-    <updated>2021-11-30T22:22:06.339160+00:00</updated>
+    <updated>2021-12-01T05:21:38.118713+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -3390,7 +3390,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_3_GS_Riesa.pdf</id>
     <title>3. Grundschule Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.339326+00:00</updated>
+    <updated>2021-12-01T05:21:38.118905+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021
@@ -3403,7 +3403,7 @@ Gültig: 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GY_Scholl_Nossen.pdf</id>
     <title>Gymnasium "Geschwister Scholl" Nossen in Nossen</title>
-    <updated>2021-11-30T22:22:06.339491+00:00</updated>
+    <updated>2021-12-01T05:21:38.119093+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3416,7 +3416,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_OS_Am_Merzdorfer_Park_Riesa.pdf</id>
     <title>Oberschule „Am Merzdorfer Park“ in Riesa</title>
-    <updated>2021-11-30T22:22:06.339645+00:00</updated>
+    <updated>2021-12-01T05:21:38.119280+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -3429,7 +3429,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Grundschule_Burkhardswalde.pdf</id>
     <title>Grundschule Burkhardswalde in Klipphausen</title>
-    <updated>2021-11-30T22:22:06.339798+00:00</updated>
+    <updated>2021-12-01T05:21:38.119476+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3442,7 +3442,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_OS_Lommatzsch.pdf</id>
     <title>Oberschule Lommatzscher Pflege in Lommatzsch</title>
-    <updated>2021-11-30T22:22:06.339957+00:00</updated>
+    <updated>2021-12-01T05:21:38.119664+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 08.12.2021
@@ -3455,7 +3455,7 @@ Gültig: 25.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Pestalozzi_GS_Nossen.pdf</id>
     <title>Pestalozzi-Grundschule Nossen in Nossen</title>
-    <updated>2021-11-30T22:22:06.340118+00:00</updated>
+    <updated>2021-12-01T05:21:38.119851+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -3468,7 +3468,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_3_GS_Riesa.pdf</id>
     <title>3. Grundschule Riesa in Riesa</title>
-    <updated>2021-11-30T22:22:06.340281+00:00</updated>
+    <updated>2021-12-01T05:21:38.120050+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 25.11.2021
@@ -3481,7 +3481,7 @@ Gültig: 24.11.2021 bis 25.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Zabeltitz.pdf</id>
     <title>Grundschule Zabeltitz in Großenhain</title>
-    <updated>2021-11-30T22:22:06.340442+00:00</updated>
+    <updated>2021-12-01T05:21:38.120252+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -3494,7 +3494,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Jahnatal_Ragewitz.pdf</id>
     <title>Grundschule „Im Jahnatal“ Ragewitz in Stauchitz</title>
-    <updated>2021-11-30T22:22:06.340605+00:00</updated>
+    <updated>2021-12-01T05:21:38.120452+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3507,7 +3507,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Gymnasium_Coswig.pdf</id>
     <title>Gymnasium Coswig in Coswig</title>
-    <updated>2021-11-30T22:22:06.340762+00:00</updated>
+    <updated>2021-12-01T05:21:38.120648+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3520,7 +3520,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Radebeul_Naundorf.pdf</id>
     <title>Grundschule Radebeul-Naundorf in Radebeul</title>
-    <updated>2021-11-30T22:22:06.340916+00:00</updated>
+    <updated>2021-12-01T05:21:38.120856+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -3533,7 +3533,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_1_GS_Riesa.pdf</id>
     <title>1. Grundschule Riesa „Käthe Kollwitz“ in Riesa</title>
-    <updated>2021-11-30T22:22:06.341069+00:00</updated>
+    <updated>2021-12-01T05:21:38.121061+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3546,7 +3546,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Lommatzscher_Pflege.pdf</id>
     <title>Grundschule Lommatzscher Pflege in Lommatzsch</title>
-    <updated>2021-11-30T22:22:06.341231+00:00</updated>
+    <updated>2021-12-01T05:21:38.121302+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -3559,7 +3559,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_GS_Niederloessnitz.pdf</id>
     <title>Grundschule Niederlößnitz in Radebeul</title>
-    <updated>2021-11-30T22:22:06.341420+00:00</updated>
+    <updated>2021-12-01T05:21:38.121584+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 3.12.2021
@@ -3572,7 +3572,7 @@ Gültig: 20.11.2021 bis 3.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_B_Hantzsch_GS_Hartha.pdf</id>
     <title>Grundschule „Bernhard Hantzsch“ in Hartha</title>
-    <updated>2021-11-30T22:22:06.341580+00:00</updated>
+    <updated>2021-12-01T05:21:38.121841+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -3585,7 +3585,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_Schule_am_Taurastein.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen "Schule am Taurastein" in Burgstädt</title>
-    <updated>2021-11-30T22:22:06.341733+00:00</updated>
+    <updated>2021-12-01T05:21:38.122031+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 08.12.2021
@@ -3598,7 +3598,7 @@ Gültig: 01.12.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Pestalozzigrundschule_Mittweida.pdf</id>
     <title>Pestalozzi Grundschule Mittweida in Mittweida</title>
-    <updated>2021-11-30T22:22:06.341896+00:00</updated>
+    <updated>2021-12-01T05:21:38.122218+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 06.12.2021
@@ -3611,7 +3611,7 @@ Gültig: 01.12.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_FS_Wilhelm_Pfeffer.pdf</id>
     <title>Schule mit dem Förderschwerpunkt geistige Entwicklung "Wilhelm Pfeffer" in Rochlitz</title>
-    <updated>2021-11-30T22:22:06.342050+00:00</updated>
+    <updated>2021-12-01T05:21:38.122404+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -3624,7 +3624,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_AFSG_Frankenberg.pdf</id>
     <title>Schule mit dem Förderschwerpunkt geistige Entwicklung „Max Kästner“ in Frankenberg</title>
-    <updated>2021-11-30T22:22:06.342208+00:00</updated>
+    <updated>2021-12-01T05:21:38.122678+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -3637,7 +3637,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Landesschulzentrum_Neukirchen.pdf</id>
     <title>Landesschulzentrum Grundschule Neukirchen in Neukirchen</title>
-    <updated>2021-11-30T22:22:06.342370+00:00</updated>
+    <updated>2021-12-01T05:21:38.122951+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -3650,7 +3650,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_OS_Hainichen.pdf</id>
     <title>Friedrich-Gottlob-Keller-Oberschule in Hainichen</title>
-    <updated>2021-11-30T22:22:06.342529+00:00</updated>
+    <updated>2021-12-01T05:21:38.123167+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -3663,7 +3663,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_OS_Rechenberg_Bienenmuehle.pdf</id>
     <title>Oberschule Rechenberg-Bienenmühle in Rechenberg-Bienenmühle</title>
-    <updated>2021-11-30T22:22:06.342681+00:00</updated>
+    <updated>2021-12-01T05:21:38.123370+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -3676,7 +3676,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Niederschoena.pdf</id>
     <title>Grundschule Niederschöna in Halsbrücke</title>
-    <updated>2021-11-30T22:22:06.342832+00:00</updated>
+    <updated>2021-12-01T05:21:38.123578+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -3689,7 +3689,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Oberschule_Brand_Erbisdorf.pdf</id>
     <title>Oberschule Brand-Erbisdorf in Brand-Erbisdorf</title>
-    <updated>2021-11-30T22:22:06.342982+00:00</updated>
+    <updated>2021-12-01T05:21:38.123771+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 08.12.2021
@@ -3702,7 +3702,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_OS_Claussnitz.pdf</id>
     <title>Oberschule Claußnitz in Claußnitz</title>
-    <updated>2021-11-30T22:22:06.343149+00:00</updated>
+    <updated>2021-12-01T05:21:38.123962+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -3715,7 +3715,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Theodor_Koerner_Freiberg.pdf</id>
     <title>Grundschule "Theodor Körner" in Freiberg</title>
-    <updated>2021-11-30T22:22:06.343302+00:00</updated>
+    <updated>2021-12-01T05:21:38.124157+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 01.12.2021
@@ -3728,7 +3728,7 @@ Gültig: 29.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_OS_Clara_Zetkin.pdf</id>
     <title>Oberschule "Clara Zetkin" in Freiberg</title>
-    <updated>2021-11-30T22:22:06.343454+00:00</updated>
+    <updated>2021-12-01T05:21:38.124352+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -3741,7 +3741,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_FS_Albert_Schweitzer.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen „Albert Schweitzer“ Roßwein in Roßwein</title>
-    <updated>2021-11-30T22:22:06.343614+00:00</updated>
+    <updated>2021-12-01T05:21:38.124578+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3754,7 +3754,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Bernhard_Hantzsch.pdf</id>
     <title>Grundschule "Bernhard Hantzsch" Kurort Hartha in Tharandt</title>
-    <updated>2021-11-30T22:22:06.343768+00:00</updated>
+    <updated>2021-12-01T05:21:38.124776+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3767,7 +3767,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Freie_GemSch_Montessori_Freiberg.pdf</id>
     <title>Freie Gemeinschaftliche Schule „Maria Montessori“ in Freiberg</title>
-    <updated>2021-11-30T22:22:06.343921+00:00</updated>
+    <updated>2021-12-01T05:21:38.124986+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3780,7 +3780,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GS_Grossbauchlitz.pdf</id>
     <title>Grundschule Großbauchlitz in Döbeln</title>
-    <updated>2021-11-30T22:22:06.344080+00:00</updated>
+    <updated>2021-12-01T05:21:38.125195+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3793,7 +3793,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Gruenlichtenberg.pdf</id>
     <title>Grundschule Grünlichtenberg in Kriebstein</title>
-    <updated>2021-11-30T22:22:06.344247+00:00</updated>
+    <updated>2021-12-01T05:21:38.125400+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3806,7 +3806,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_OS_Oederan.pdf</id>
     <title>Oberschule Oederan in Oederan</title>
-    <updated>2021-11-30T22:22:06.344403+00:00</updated>
+    <updated>2021-12-01T05:21:38.125594+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -3819,7 +3819,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_OS_Halsbruecke.pdf</id>
     <title>Oberschule Halsbrücke in Halsbrücke</title>
-    <updated>2021-11-30T22:22:06.344557+00:00</updated>
+    <updated>2021-12-01T05:21:38.125784+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3832,7 +3832,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_Seeber_GS_Niederwiesa.pdf</id>
     <title>Seeber-Grundschule Niederwiesa in Niederwiesa</title>
-    <updated>2021-11-30T22:22:06.344710+00:00</updated>
+    <updated>2021-12-01T05:21:38.125981+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -3845,7 +3845,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_OS_Brand_Erbisdorf.pdf</id>
     <title>Oberschule Brand-Erbisdorf in Brand-Erbisdorf</title>
-    <updated>2021-11-30T22:22:06.344868+00:00</updated>
+    <updated>2021-12-01T05:21:38.126174+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 08.12.2021
@@ -3858,7 +3858,7 @@ Gültig: 26.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Grossschirma.pdf</id>
     <title>Grundschule „Friedrich Kaden“ Großschirma in Großschirma</title>
-    <updated>2021-11-30T22:22:06.345021+00:00</updated>
+    <updated>2021-12-01T05:21:38.126383+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -3871,7 +3871,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_OS_An_der_Mulde_Rochlitz.pdf</id>
     <title>Oberschule "An der Mulde" Rochlitz in Rochlitz</title>
-    <updated>2021-11-30T22:22:06.345180+00:00</updated>
+    <updated>2021-12-01T05:21:38.126587+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 10.12.2021
@@ -3884,7 +3884,7 @@ Gültig: 26.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Friedrich_Gottlob_Keller_Oberschule.pdf</id>
     <title>Friedrich-Gottlob-Keller-Oberschule in Hainichen</title>
-    <updated>2021-11-30T22:22:06.345353+00:00</updated>
+    <updated>2021-12-01T05:21:38.126783+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -3897,7 +3897,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Neukirchen.pdf</id>
     <title>Grundschule zur Grabentour Neukirchen in Reinsberg, OT Neukirchen</title>
-    <updated>2021-11-30T22:22:06.345525+00:00</updated>
+    <updated>2021-12-01T05:21:38.126977+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3910,7 +3910,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Friedrich_Kaden.pdf</id>
     <title>Grundschule „Friedrich Kaden“ Großschirma in Großschirma</title>
-    <updated>2021-11-30T22:22:06.345680+00:00</updated>
+    <updated>2021-12-01T05:21:38.127171+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3923,7 +3923,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_GS_Georgius_Agricola.pdf</id>
     <title>Grundschule "Georgius Agricola" in Freiberg/Loßnitz</title>
-    <updated>2021-11-30T22:22:06.345838+00:00</updated>
+    <updated>2021-12-01T05:21:38.127381+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 08.12.2021
@@ -3936,7 +3936,7 @@ Gültig: 25.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Schule_mit_dem_Foerderschwerpunkt_Lernen_Pestalozzi.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen "Pestalozzi" in Rochlitz</title>
-    <updated>2021-11-30T22:22:06.345994+00:00</updated>
+    <updated>2021-12-01T05:21:38.127568+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3949,7 +3949,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Oberschule_Niederbobritzsch.pdf</id>
     <title>Oberschule Niederbobritzsch in Bobritzsch-Hilbersdorf</title>
-    <updated>2021-11-30T22:22:06.346166+00:00</updated>
+    <updated>2021-12-01T05:21:38.127778+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3962,7 +3962,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Mulda.pdf</id>
     <title>Grundschule Mulda in Mulda</title>
-    <updated>2021-11-30T22:22:06.346322+00:00</updated>
+    <updated>2021-12-01T05:21:38.127982+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: gestaffelt 25.11.2021 bis 03.12.2021
@@ -3975,7 +3975,7 @@ Gültig: gestaffelt 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Grundschule_Langenleuba_Oberhain.pdf</id>
     <title>Grundschule Langenleuba-Oberhain in Penig</title>
-    <updated>2021-11-30T22:22:06.346474+00:00</updated>
+    <updated>2021-12-01T05:21:38.128207+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -3988,7 +3988,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_OS_Rechenberg_Bienenmuehle.pdf</id>
     <title>Oberschule Rechenberg-Bienenmühle in Rechenberg-Bienenmühle</title>
-    <updated>2021-11-30T22:22:06.346633+00:00</updated>
+    <updated>2021-12-01T05:21:38.128411+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -4001,7 +4001,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Gymnasium_Mittweida.pdf</id>
     <title>Städtisches Gymnasium Mittweida in Mittweida</title>
-    <updated>2021-11-30T22:22:06.346789+00:00</updated>
+    <updated>2021-12-01T05:21:38.128615+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 29.11.2021
@@ -4014,7 +4014,7 @@ Gültig: 24.11.2021 bis 29.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Oberschule_Koenigstein.pdf</id>
     <title>Städtisches Gymnasium Mittweida in Mittweida</title>
-    <updated>2021-11-30T22:22:06.346941+00:00</updated>
+    <updated>2021-12-01T05:21:38.128818+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 29.11.2021
@@ -4027,7 +4027,7 @@ Gültig: 24.11.2021 bis 29.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS%20Tiefenbach.pdf</id>
     <title>Grundschule Tiefenbach in Striegistal</title>
-    <updated>2021-11-30T22:22:06.347113+00:00</updated>
+    <updated>2021-12-01T05:21:38.129037+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4040,7 +4040,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Grundschule_Seifersbach.pdf</id>
     <title>Grundschule Seifersbach in Rossau OT Seifersbach</title>
-    <updated>2021-11-30T22:22:06.347281+00:00</updated>
+    <updated>2021-12-01T05:21:38.129279+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -4053,7 +4053,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Diesterwegschule_Burgstaedt_Oberschule.pdf</id>
     <title>Diesterwegschule Burgstädt - Oberschule in Burgstädt</title>
-    <updated>2021-11-30T22:22:06.347436+00:00</updated>
+    <updated>2021-12-01T05:21:38.129523+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4066,7 +4066,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Ev_GS_Frankenberg.pdf</id>
     <title>Evangelische Grundschule „St. Katharina“ in Frankenberg</title>
-    <updated>2021-11-30T22:22:06.347590+00:00</updated>
+    <updated>2021-12-01T05:21:38.129762+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 30.11.2021
@@ -4079,7 +4079,7 @@ Gültig: 24.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_AFSG_Max_Kaestner_Frankenberg.pdf</id>
     <title>Schule mit dem Förderschwerpunkt geistige Entwicklung „Max Kästner“ Frankenberg in Frankenberg</title>
-    <updated>2021-11-30T22:22:06.347741+00:00</updated>
+    <updated>2021-12-01T05:21:38.130026+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4092,7 +4092,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_OS_Hainichen.pdf</id>
     <title>Friedrich-Gottlob-Keller-Oberschule in Hainichen</title>
-    <updated>2021-11-30T22:22:06.347899+00:00</updated>
+    <updated>2021-12-01T05:21:38.130226+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 26.11.2021
@@ -4105,7 +4105,7 @@ Gültig: 24.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Claussnitz.pdf</id>
     <title>Grundschule Claußnitz in Claußnitz</title>
-    <updated>2021-11-30T22:22:06.348056+00:00</updated>
+    <updated>2021-12-01T05:21:38.130475+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -4118,7 +4118,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_Goethe_GS_Burgstaedt.pdf</id>
     <title>Goethegrundschule Burgstädt in Burgstädt</title>
-    <updated>2021-11-30T22:22:06.348232+00:00</updated>
+    <updated>2021-12-01T05:21:38.130715+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4131,7 +4131,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Niederlichtenau.pdf</id>
     <title>Grundschule Niederlichtenau in Lichtenau</title>
-    <updated>2021-11-30T22:22:06.348430+00:00</updated>
+    <updated>2021-12-01T05:21:38.130958+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4144,7 +4144,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Freie_Montessori_Freiberg.pdf</id>
     <title>Freien Gemeinschaftlichen Schule „Maria Montessori“ in Freiberg</title>
-    <updated>2021-11-30T22:22:06.348598+00:00</updated>
+    <updated>2021-12-01T05:21:38.131188+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 26.11.2021
@@ -4157,7 +4157,7 @@ Gültig: 24.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Grundschule_Georgius_Agricola.pdf</id>
     <title>Grundschule "Georgius Agricola" in Freiberg/Loßnitz</title>
-    <updated>2021-11-30T22:22:06.348755+00:00</updated>
+    <updated>2021-12-01T05:21:38.131378+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4170,7 +4170,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Waldheim.pdf</id>
     <title>Grundschule Waldheim in Waldheim</title>
-    <updated>2021-11-30T22:22:06.348909+00:00</updated>
+    <updated>2021-12-01T05:21:38.131571+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -4183,7 +4183,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_OS_Clara_Zetkin_Freiberg.pdf</id>
     <title>Oberschule „Clara Zetkin“ in Freiberg</title>
-    <updated>2021-11-30T22:22:06.349063+00:00</updated>
+    <updated>2021-12-01T05:21:38.131766+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 26.11.2021
@@ -4196,7 +4196,7 @@ Gültig: 23.11.2021 bis 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Kaden_Grossschirma.pdf</id>
     <title>Grundschule „Friedrich Kaden“ Großschirma in Großschirma</title>
-    <updated>2021-11-30T22:22:06.349227+00:00</updated>
+    <updated>2021-12-01T05:21:38.131956+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4209,7 +4209,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Georgius_Agricola.pdf</id>
     <title>Grundschule "Georgius Agricola" in Freiberg/Loßnitz</title>
-    <updated>2021-11-30T22:22:06.349408+00:00</updated>
+    <updated>2021-12-01T05:21:38.132151+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4222,7 +4222,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Floeha.pdf</id>
     <title>Grundschule „Friedrich Schiller“ Flöha in Flöha</title>
-    <updated>2021-11-30T22:22:06.349568+00:00</updated>
+    <updated>2021-12-01T05:21:38.132345+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4235,7 +4235,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Grundschule_Oberhain.pdf</id>
     <title>Grundschule Langenleuba-Oberhain in Penig</title>
-    <updated>2021-11-30T22:22:06.349721+00:00</updated>
+    <updated>2021-12-01T05:21:38.132533+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -4248,7 +4248,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_GS_Rosswein.pdf</id>
     <title>Grundschule am Weinberg Roßwein in Roßwein</title>
-    <updated>2021-11-30T22:22:06.349882+00:00</updated>
+    <updated>2021-12-01T05:21:38.132826+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4261,7 +4261,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Niederschoena.pdf</id>
     <title>Grundschule Niederschöna in Halsbrücke</title>
-    <updated>2021-11-30T22:22:06.350039+00:00</updated>
+    <updated>2021-12-01T05:21:38.133852+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4274,7 +4274,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_OS_Halsbruecke.pdf</id>
     <title>Oberschule Halsbrücke in Halsbrücke</title>
-    <updated>2021-11-30T22:22:06.350203+00:00</updated>
+    <updated>2021-12-01T05:21:38.134217+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4287,7 +4287,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22GS_Koerner_Freiberg.pdf</id>
     <title>Grundschule „Theodor Körner“ Freiberg in Freiberg</title>
-    <updated>2021-11-30T22:22:06.350357+00:00</updated>
+    <updated>2021-12-01T05:21:38.134438+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -4300,7 +4300,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_OS_Taucha.pdf</id>
     <title>Oberschule Taucha in Taucha</title>
-    <updated>2021-11-30T22:22:06.350515+00:00</updated>
+    <updated>2021-12-01T05:21:38.134646+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -4313,7 +4313,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_FZ_an_der_Promenade_Torgau.pdf</id>
     <title>Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten Lernen und geistige Entwicklung in Torgau</title>
-    <updated>2021-11-30T22:22:06.350668+00:00</updated>
+    <updated>2021-12-01T05:21:38.134867+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -4326,7 +4326,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_Thomas_Mann_GY_Oschatz.pdf</id>
     <title>Thomas-Mann-Gymnasium Oschatz in Oschatz</title>
-    <updated>2021-11-30T22:22:06.350820+00:00</updated>
+    <updated>2021-12-01T05:21:38.135119+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -4339,7 +4339,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_FS_Rosenthalschule_Oschatz.pdf</id>
     <title>Rosenthalschule Oschatz, Schule mit dem Förderschwerpunkt Lernen in Oschatz</title>
-    <updated>2021-11-30T22:22:06.350977+00:00</updated>
+    <updated>2021-12-01T05:21:38.135342+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -4352,7 +4352,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Weidenhain.pdf</id>
     <title>Grundschule Weidenhain in Dreiheide</title>
-    <updated>2021-11-30T22:22:06.351135+00:00</updated>
+    <updated>2021-12-01T05:21:38.135562+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -4365,7 +4365,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Am_Park_Taucha.pdf</id>
     <title>Grundschule Am Park in Taucha</title>
-    <updated>2021-11-30T22:22:06.351289+00:00</updated>
+    <updated>2021-12-01T05:21:38.135783+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -4378,7 +4378,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_Foerderzentrum_Torgau.pdf</id>
     <title>Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten Lernen und geistige Entwicklung in Torgau</title>
-    <updated>2021-11-30T22:22:06.351440+00:00</updated>
+    <updated>2021-12-01T05:21:38.136034+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -4391,7 +4391,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GY_Schkeuditz.pdf</id>
     <title>Maria-Merian-Gymnasium Schkeuditz in Schkeuditz</title>
-    <updated>2021-11-30T22:22:06.351598+00:00</updated>
+    <updated>2021-12-01T05:21:38.136797+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -4404,7 +4404,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Christian_Gottfried_Ehrenberg_Gymnasium.pdf</id>
     <title>Christian-Gottfried-Ehrenberg-Gymnasium Delitzsch in Delitzsch</title>
-    <updated>2021-11-30T22:22:06.351750+00:00</updated>
+    <updated>2021-12-01T05:21:38.137133+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 30.11.2021
@@ -4417,7 +4417,7 @@ Gültig: 25.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Schoenwoelkau.pdf</id>
     <title>Gellert-Grundschule Schönwölkau in Schönwölkau</title>
-    <updated>2021-11-30T22:22:06.351906+00:00</updated>
+    <updated>2021-12-01T05:21:38.137414+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4430,7 +4430,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_Gellert_GS_Woelkau.pdf</id>
     <title>Gellert-Grundschule Wölkau in Schönwölkau</title>
-    <updated>2021-11-30T22:22:06.352060+00:00</updated>
+    <updated>2021-12-01T05:21:38.137722+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.11.2021
@@ -4443,7 +4443,7 @@ Gültig: 23.11.2021 bis 03.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_Haertwig_Oschatz.pdf</id>
     <title>Robert-Härtwig-Schule Oschatz, Oberschule der Stadt Oschatz in Oschatz</title>
-    <updated>2021-11-30T22:22:06.352228+00:00</updated>
+    <updated>2021-12-01T05:21:38.137936+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4456,7 +4456,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Bannewitz.pdf</id>
     <title>Grundschule „Am Marienschacht“ in Bannewitz</title>
-    <updated>2021-11-30T22:22:06.352386+00:00</updated>
+    <updated>2021-12-01T05:21:38.138165+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -4469,7 +4469,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_GS_Duerrroehrsdorf.pdf</id>
     <title>Grundschule Dürrröhrsdorf-Dittersbach in Dürrröhrsdorf-Dittersbach</title>
-    <updated>2021-11-30T22:22:06.352541+00:00</updated>
+    <updated>2021-12-01T05:21:38.138386+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -4482,7 +4482,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_BSZ_Siemens_Pirna.pdf</id>
     <title>Berufliches Schulzentrum „Friedrich Siemens“ Pirna in Pirna</title>
-    <updated>2021-11-30T22:22:06.352694+00:00</updated>
+    <updated>2021-12-01T05:21:38.138601+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -4495,7 +4495,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GY_Schiller_PIR.pdf</id>
     <title>Friedrich-Schiller-Gymnasium in Pirna</title>
-    <updated>2021-11-30T22:22:06.352852+00:00</updated>
+    <updated>2021-12-01T05:21:38.138847+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -4508,7 +4508,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Rabenau.pdf</id>
     <title>DPFA-Regenbogen-Grundschule in Rabenau</title>
-    <updated>2021-11-30T22:22:06.353004+00:00</updated>
+    <updated>2021-12-01T05:21:38.139596+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 30.11.2021 bis 08.12.2021
@@ -4521,7 +4521,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Goethe_Gymnasium_Sebnitz.pdf</id>
     <title>Goethe-Gymnasium Sebnitz in Sebnitz</title>
-    <updated>2021-11-30T22:22:06.353161+00:00</updated>
+    <updated>2021-12-01T05:21:38.139886+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 07.12.2021
@@ -4534,7 +4534,7 @@ Gültig: 30.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_OS_Bad_Gottleuba.pdf</id>
     <title>Oberschule Bad Gottleuba in Bad Gottleuba-Berggießhübel</title>
-    <updated>2021-11-30T22:22:06.353334+00:00</updated>
+    <updated>2021-12-01T05:21:38.140117+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 05.12.2021
@@ -4547,7 +4547,7 @@ Gültig: 30.11.2021 bis 05.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Astrid_Lindgren_Grundschule_Heidenau.pdf</id>
     <title>Astrid-Lindgren-Grundschule Heidenau in Heidenau</title>
-    <updated>2021-11-30T22:22:06.353506+00:00</updated>
+    <updated>2021-12-01T05:21:38.140379+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 08.12.2021
@@ -4560,7 +4560,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_BSZ_Siemenz_Pirna.pdf</id>
     <title>Berufliches Schulzentrum „Friedrich Siemens“ Pirna in Pirna</title>
-    <updated>2021-11-30T22:22:06.353661+00:00</updated>
+    <updated>2021-12-01T05:21:38.140591+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021/ 07.12.2021
@@ -4573,7 +4573,7 @@ Gültig: 30.11.2021 bis 03.12.2021/ 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Pestalozzi_Gymnasium_Heidenau.pdf</id>
     <title>Pestalozzi-Gymnasium Heidenau in Heidenau</title>
-    <updated>2021-11-30T22:22:06.353819+00:00</updated>
+    <updated>2021-12-01T05:21:38.140985+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -4586,7 +4586,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_FSP_Lernen_Wilhelmine_Reichard_Schule.pdf</id>
     <title>Wilhelmine-Reichard-Schule, Schule mit dem Förderschwerpunkt Lernen in Freital</title>
-    <updated>2021-11-30T22:22:06.353974+00:00</updated>
+    <updated>2021-12-01T05:21:38.141287+00:00</updated>
     <content>
 Status: befristet eingeschränkter Regelbetrieb
 Gültig: 30.11.2021 bis 08.12.2021
@@ -4599,7 +4599,7 @@ Gültig: 30.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_FZ_Oberes_Osterzgebirge.pdf</id>
     <title>Förderschulzentrum „Oberes Osterzgebirge“, Schulteil mit dem Förderschwerpunkt geistige Entwicklung, Glashütte in Glashütte, OT Reinhardtsgrimma</title>
-    <updated>2021-11-30T22:22:06.354138+00:00</updated>
+    <updated>2021-12-01T05:21:38.141501+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -4612,7 +4612,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Albertschacht_FTL.pdf</id>
     <title>Grundschule "Am Albertschacht" Freital-Wurgwitz in Freital</title>
-    <updated>2021-11-30T22:22:06.354298+00:00</updated>
+    <updated>2021-12-01T05:21:38.141708+00:00</updated>
     <content>
 Status: befristet teilweise und anschließend vollständig geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -4625,7 +4625,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Bernhard_Hantzsch_Kurort_Hartha.pdf</id>
     <title>Grundschule "Bernhard Hantzsch" in Tharandt</title>
-    <updated>2021-11-30T22:22:06.354457+00:00</updated>
+    <updated>2021-12-01T05:21:38.142388+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -4638,7 +4638,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_Friedrich_Schiller_OS.pdf</id>
     <title>Friedrich-Schiller-Oberschule in Neustadt in Sachsen</title>
-    <updated>2021-11-30T22:22:06.354616+00:00</updated>
+    <updated>2021-12-01T05:21:38.142669+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 10.12.2021
@@ -4651,7 +4651,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Duerrroehrsdorf.pdf</id>
     <title>Grundschule Dürrröhrsdorf-Dittersbach in Dürrröhrsdorf-Dittersbach</title>
-    <updated>2021-11-30T22:22:06.354776+00:00</updated>
+    <updated>2021-12-01T05:21:38.143419+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -4664,7 +4664,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26__Foerderschule_Wilhelmine_Reichard.pdf</id>
     <title>Wilhelmine-Reichard-Schule, Schule mit dem Förderschwerpunkt Lernen in Freital</title>
-    <updated>2021-11-30T22:22:06.354931+00:00</updated>
+    <updated>2021-12-01T05:21:38.143750+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -4677,7 +4677,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_Grundschule_Kreischa.pdf</id>
     <title>Grundschule Kreischa in Kreischa</title>
-    <updated>2021-11-30T22:22:06.355089+00:00</updated>
+    <updated>2021-12-01T05:21:38.144092+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 10.12.2021
@@ -4690,7 +4690,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Grundschule_Freital_Potschappel.pdf</id>
     <title>Grundschule "G.-E.-Lessing" Freital-Potschappel in Freital</title>
-    <updated>2021-11-30T22:22:06.355247+00:00</updated>
+    <updated>2021-12-01T05:21:38.144469+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -4703,7 +4703,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_Astrid_Lindgren_GS_Heidenau.pdf</id>
     <title>Astrid-Lindgren-Grundschule Heidenau in Heidenau</title>
-    <updated>2021-11-30T22:22:06.355400+00:00</updated>
+    <updated>2021-12-01T05:21:38.145295+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -4716,7 +4716,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Koenigstein.pdf</id>
     <title>Grundschule Königstein in Königstein</title>
-    <updated>2021-11-30T22:22:06.355552+00:00</updated>
+    <updated>2021-12-01T05:21:38.145588+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -4729,7 +4729,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Koenigstein_Widerruf.pdf</id>
     <title>Grundschule Königstein in Königstein</title>
-    <updated>2021-11-30T22:22:06.355709+00:00</updated>
+    <updated>2021-12-01T05:21:38.145809+00:00</updated>
     <content>
 Status: Widerruf
 Gültig: 26.11.2021
@@ -4742,7 +4742,7 @@ Gültig: 26.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Grundschule_Pirna_Neundorf.pdf</id>
     <title>Grundschule Pirna-Neundorf in Pirna</title>
-    <updated>2021-11-30T22:22:06.355881+00:00</updated>
+    <updated>2021-12-01T05:21:38.146032+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -4755,7 +4755,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_FAW_Diesterweg_GS_Pirna.pdf</id>
     <title>F.-A.-W.-Diesterweg-Grundschule in Pirna</title>
-    <updated>2021-11-30T22:22:06.356038+00:00</updated>
+    <updated>2021-12-01T05:21:38.146252+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 10.12.2021
@@ -4768,7 +4768,7 @@ Gültig: 29.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_GS_Duerrroehrsdorf_Dittersbach.pdf</id>
     <title>Grundschule Dürrröhrsdorf-Dittersbach in Dürrröhrsdorf-Dittersbach</title>
-    <updated>2021-11-30T22:22:06.356200+00:00</updated>
+    <updated>2021-12-01T05:21:38.146476+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 07.12.2021
@@ -4781,7 +4781,7 @@ Gültig: 26.11.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Lessing_Grundschule_Pirna.pdf</id>
     <title>Grundschule „Gotthold Ephraim Lessing“ Pirna in Pirna</title>
-    <updated>2021-11-30T22:22:06.356357+00:00</updated>
+    <updated>2021-12-01T05:21:38.146694+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -4794,7 +4794,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Pestalozzi_OS_Pirna.pdf</id>
     <title>Pestalozzi-Oberschule in Pirna</title>
-    <updated>2021-11-30T22:22:06.356521+00:00</updated>
+    <updated>2021-12-01T05:21:38.146922+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -4807,7 +4807,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Pestalozzi_OS_Pirna_Widerruf.pdf</id>
     <title>Pestalozzi-Oberschule in Pirna</title>
-    <updated>2021-11-30T22:22:06.356676+00:00</updated>
+    <updated>2021-12-01T05:21:38.147158+00:00</updated>
     <content>
 Status: Widerruf
 Gültig: 25.11.2021
@@ -4820,7 +4820,7 @@ Gültig: 25.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_OS_Eppendorf.pdf</id>
     <title>Oberschule Königstein in Königstein/Sächs. Schw.</title>
-    <updated>2021-11-30T22:22:06.356829+00:00</updated>
+    <updated>2021-12-01T05:21:38.147411+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4833,7 +4833,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Gleissberg_Heidenau.pdf</id>
     <title>Grundschule „Bruno Gleißberg“ Heidenau in Heidenau</title>
-    <updated>2021-11-30T22:22:06.356980+00:00</updated>
+    <updated>2021-12-01T05:21:38.147673+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 01.12.2021
@@ -4846,7 +4846,7 @@ Gültig: 24.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Grundschule_Rosenstra%C3%9Fe_Sebnitz.pdf</id>
     <title>Grundschule Rosenstraße Sebnitz in Sebnitz</title>
-    <updated>2021-11-30T22:22:06.357153+00:00</updated>
+    <updated>2021-12-01T05:21:38.147897+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4859,7 +4859,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Oelsa.pdf</id>
     <title>Grundschule Oelsa in Rabenau</title>
-    <updated>2021-11-30T22:22:06.357329+00:00</updated>
+    <updated>2021-12-01T05:21:38.148146+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4872,7 +4872,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_23_GS_Oberhermsdorf.pdf</id>
     <title>Grundschule Oberhermsdorf in Wilsdruff</title>
-    <updated>2021-11-30T22:22:06.357529+00:00</updated>
+    <updated>2021-12-01T05:21:38.148389+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -4885,7 +4885,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Oberschule_Wilsdruff.pdf</id>
     <title>Oberschule Wilsdruff in Wilsdruff</title>
-    <updated>2021-11-30T22:22:06.357698+00:00</updated>
+    <updated>2021-12-01T05:21:38.148650+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 08.12.2021
@@ -4898,7 +4898,7 @@ Gültig: 24.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_GS_Kreischa.pdf</id>
     <title>Grundschule Kreischa in Kreischa</title>
-    <updated>2021-11-30T22:22:06.357859+00:00</updated>
+    <updated>2021-12-01T05:21:38.148929+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4911,7 +4911,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_BSZ_Siemens_Pirna.pdf</id>
     <title>Berufliches Schulzentrum „Friedrich Siemens“ Pirna in Pirna</title>
-    <updated>2021-11-30T22:22:06.358013+00:00</updated>
+    <updated>2021-12-01T05:21:38.149158+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: gestaffelt 23.11.2021 bis 30.11.2021
@@ -4924,7 +4924,7 @@ Gültig: gestaffelt 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Astrid_Lingren_Grundschule.pdf</id>
     <title>Astrid-Lindgren-Grundschule Heidenau in Heidenau</title>
-    <updated>2021-11-30T22:22:06.358171+00:00</updated>
+    <updated>2021-12-01T05:21:38.149570+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
@@ -4937,7 +4937,7 @@ Gültig: 23.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_OS_Bad_Gottleuba.pdf</id>
     <title>Oberschule Bad Gottleuba in Bad Gottleuba-Berggießhübel</title>
-    <updated>2021-11-30T22:22:06.358330+00:00</updated>
+    <updated>2021-12-01T05:21:38.149866+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 01.12.2021
@@ -4950,7 +4950,7 @@ Gültig: 23.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_OS_Johann_Wolfgang_von_Goethe_Pirna.pdf</id>
     <title>Oberschule „Johann Wolfgang von Goethe“ Pirna in Pirna</title>
-    <updated>2021-11-30T22:22:06.358483+00:00</updated>
+    <updated>2021-12-01T05:21:38.150087+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 03.12.2021
@@ -4963,7 +4963,7 @@ Gültig: 25.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_GS_Mohorn.pdf</id>
     <title>Grundschule Mohorn in Wilsdruff</title>
-    <updated>2021-11-30T22:22:06.358635+00:00</updated>
+    <updated>2021-12-01T05:21:38.150300+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 01.12.2021
@@ -4976,7 +4976,7 @@ Gültig: 23.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_Pirna.pdf</id>
     <title>Johann-Heinrich-Pestalozzi-Oberschule in Pirna</title>
-    <updated>2021-11-30T22:22:06.358786+00:00</updated>
+    <updated>2021-12-01T05:21:38.150516+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.11.2021 bis 30.11.2021
@@ -4989,7 +4989,7 @@ Gültig: 23.11.2021 bis 30.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_19_GS_Wilsdruff.pdf</id>
     <title>Grundschule Wilsdruff in Wilsdruff</title>
-    <updated>2021-11-30T22:22:06.358948+00:00</updated>
+    <updated>2021-12-01T05:21:38.150726+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 03.12.2021
@@ -5002,7 +5002,7 @@ Gültig: 20.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_18_GS%20Ludwig_Richter.pdf</id>
     <title>Grundschule „Ludwig Richter“ in Freital</title>
-    <updated>2021-11-30T22:22:06.359110+00:00</updated>
+    <updated>2021-12-01T05:21:38.150946+00:00</updated>
     <content>
 Status: eingeschränkter Regelbetrieb
 Gültig: 20.11.2021 bis 03.12.2021
@@ -5015,7 +5015,7 @@ Gültig: 20.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_18_GS_Wurgwitz.pdf</id>
     <title>Grundschule "Am Albertschacht" Freital-Wurgwitz in Freital</title>
-    <updated>2021-11-30T22:22:06.359267+00:00</updated>
+    <updated>2021-12-01T05:21:38.151172+00:00</updated>
     <content>
 Status: eingeschränkter Regelbetrieb
 Gültig: 20.11.2021 bis 03.12.2021
@@ -5028,7 +5028,7 @@ Gültig: 20.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_18_GS_Kreischa.pdf</id>
     <title>Grundschule Kreischa in Kreischa</title>
-    <updated>2021-11-30T22:22:06.359418+00:00</updated>
+    <updated>2021-12-01T05:21:38.151390+00:00</updated>
     <content>
 Status: eingeschränkter Regelbetrieb
 Gültig: 22.11.2021 bis 03.12.2021
@@ -5041,7 +5041,7 @@ Gültig: 22.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Goethe_Gymnasium_Auerbach.pdf</id>
     <title>Goethe-Gymnasium in Auerbach/Vogtland</title>
-    <updated>2021-11-30T22:22:06.359577+00:00</updated>
+    <updated>2021-12-01T05:21:38.151607+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -5054,7 +5054,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Mylau.pdf</id>
     <title>Grundschule Mylau in Mylau</title>
-    <updated>2021-11-30T22:22:06.359730+00:00</updated>
+    <updated>2021-12-01T05:21:38.151823+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -5067,7 +5067,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Seminarschule_Auerbach.pdf</id>
     <title>Seminarschule-Oberschule in Auerbach/Vogtland</title>
-    <updated>2021-11-30T22:22:06.359881+00:00</updated>
+    <updated>2021-12-01T05:21:38.152042+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 07.12.2021
@@ -5080,7 +5080,7 @@ Gültig: 01.12.2021 bis 07.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Kuntzehoehe_Plauen.pdf</id>
     <title>Grundschule Kuntzehöhe Plauen in Plauen</title>
-    <updated>2021-11-30T22:22:06.360032+00:00</updated>
+    <updated>2021-12-01T05:21:38.152253+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -5093,7 +5093,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Gymnasium_Rodewisch.pdf</id>
     <title>Johann-Heinrich-Pestalozzi-Gymnasiums Rodewisch in Rodewisch</title>
-    <updated>2021-11-30T22:22:06.360200+00:00</updated>
+    <updated>2021-12-01T05:21:38.152461+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5106,7 +5106,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Gymnasium_Markneukirchen.pdf</id>
     <title>Gymnasium Markneukirchen in Markneukirchen</title>
-    <updated>2021-11-30T22:22:06.360362+00:00</updated>
+    <updated>2021-12-01T05:21:38.152721+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5119,7 +5119,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Pausa.pdf</id>
     <title>Grundschule Pausa in Pausa-Mühltroff</title>
-    <updated>2021-11-30T22:22:06.360519+00:00</updated>
+    <updated>2021-12-01T05:21:38.153069+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -5132,7 +5132,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GY_Markneukirchen.pdf</id>
     <title>Gymnasium Markneukirchen in Markneukirchen</title>
-    <updated>2021-11-30T22:22:06.360673+00:00</updated>
+    <updated>2021-12-01T05:21:38.153436+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5145,7 +5145,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Lessing_Gymnasium_Plauen.pdf</id>
     <title>Lessing-Gymnasiums Plauen in Plauen</title>
-    <updated>2021-11-30T22:22:06.360832+00:00</updated>
+    <updated>2021-12-01T05:21:38.153710+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5158,7 +5158,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_26_GS_Am_Station_Oelsnitz.pdf</id>
     <title>Grundschule „Am Stadion“ in Oelsnitz</title>
-    <updated>2021-11-30T22:22:06.360985+00:00</updated>
+    <updated>2021-12-01T05:21:38.153973+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -5171,7 +5171,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_GS_Reusa.pdf</id>
     <title>Grundschule Reusa in Plauen</title>
-    <updated>2021-11-30T22:22:06.361137+00:00</updated>
+    <updated>2021-12-01T05:21:38.154271+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -5184,7 +5184,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GY_Goethe_Auerbach.pdf</id>
     <title>Goethe-Gymnasium Auerbach in Auerbach/Vogtl.</title>
-    <updated>2021-11-30T22:22:06.361295+00:00</updated>
+    <updated>2021-12-01T05:21:38.154596+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -5197,7 +5197,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_25_GS_Bad_Elster.pdf</id>
     <title>Grundschule Bad Elster in Bad Elster</title>
-    <updated>2021-11-30T22:22:06.361488+00:00</updated>
+    <updated>2021-12-01T05:21:38.154859+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 27.11.2021 bis 03.12.2021
@@ -5210,7 +5210,7 @@ Gültig: 27.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Foerderzentrum_Oberes_Vogtland.pdf</id>
     <title>Förderzentrum „Oberes Vogtland“, Schulteil Markneukirchen, in Markneukirchen</title>
-    <updated>2021-11-30T22:22:06.361653+00:00</updated>
+    <updated>2021-12-01T05:21:38.155128+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 08.12.2021
@@ -5223,7 +5223,7 @@ Gültig: 25.11.2021 bis 08.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_OS_Oelsnitz.pdf</id>
     <title>Oberschule Oelsnitz in Oelsnitz</title>
-    <updated>2021-11-30T22:22:06.361812+00:00</updated>
+    <updated>2021-12-01T05:21:38.155380+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -5236,7 +5236,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_Grundschule_Neumark.pdf</id>
     <title>Grundschule Neumark in Neumark</title>
-    <updated>2021-11-30T22:22:06.361973+00:00</updated>
+    <updated>2021-12-01T05:21:38.155609+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.11.2021 bis 03.12.2021
@@ -5249,7 +5249,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_23_GS_Gebrueder_Grimm.pdf</id>
     <title>Grundschule „Gebrüder Grimm“ in Auerbach/Vogtland</title>
-    <updated>2021-11-30T22:22:06.362127+00:00</updated>
+    <updated>2021-12-01T05:21:38.155877+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.11.2021 bis 01.12.2021
@@ -5262,7 +5262,7 @@ Gültig: 25.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_OS_Scholl_Auerbach.pdf</id>
     <title>Oberschule „Geschwister Scholl“ in Auerbach/Vogtland</title>
-    <updated>2021-11-30T22:22:06.362285+00:00</updated>
+    <updated>2021-12-01T05:21:38.156094+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 01.12.2021
@@ -5275,7 +5275,7 @@ Gültig: 23.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_Geschwister-Scholl-Oberschule.pdf</id>
     <title>Geschwister Scholl Oberschule in Auerbach/Vogtland</title>
-    <updated>2021-11-30T22:22:06.362438+00:00</updated>
+    <updated>2021-12-01T05:21:38.156328+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 20.11.2021 bis 01.12.2021
@@ -5288,7 +5288,7 @@ Gültig: 20.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_19_Grundschule_Rosenbach.pdf</id>
     <title>Grundschule "Rosenbach" in Rosenbach/Vogtland OT Mehltheuer</title>
-    <updated>2021-11-30T22:22:06.362598+00:00</updated>
+    <updated>2021-12-01T05:21:38.156545+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 20.11.2021 bis 01.12.2021
@@ -5301,7 +5301,7 @@ Gültig: 20.11.2021 bis 01.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_30_Lessing_Gymnasium_Hohenstein_Ernstthal.pdf</id>
     <title>G.-E.-Lessing-Gymnasium Hohenstein-Ernstthal in Hohenstein-Ernstthal</title>
-    <updated>2021-11-30T22:22:06.362759+00:00</updated>
+    <updated>2021-12-01T05:21:38.156760+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 03.12.2021
@@ -5314,7 +5314,7 @@ Gültig: 01.12.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_DPFA_Regenbogen_GS_Zwickau.pdf</id>
     <title>DPFA-Regenbogen Grundschule Zwickau „Carl Friedrich Benz“ in Zwickau</title>
-    <updated>2021-11-30T22:22:06.362912+00:00</updated>
+    <updated>2021-12-01T05:21:38.156993+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -5327,7 +5327,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_30_GS_Ernst_Beyer_Reinsdorf.pdf</id>
     <title>Grundschule "Ernst Beyer" in Reinsdorf</title>
-    <updated>2021-11-30T22:22:06.363064+00:00</updated>
+    <updated>2021-12-01T05:21:38.157228+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.12.2021 bis 10.12.2021
@@ -5340,7 +5340,7 @@ Gültig: 01.12.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_GS_Langenweissbach.pdf</id>
     <title>Grundschule Langenweißbach in Langenweißbach</title>
-    <updated>2021-11-30T22:22:06.363228+00:00</updated>
+    <updated>2021-12-01T05:21:38.157454+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5353,7 +5353,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_GS_Fraureuth.pdf</id>
     <title>Erich-Glowatzky-Grundschule Fraureuth in Fraureuth</title>
-    <updated>2021-11-30T22:22:06.363385+00:00</updated>
+    <updated>2021-12-01T05:21:38.157666+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -5366,7 +5366,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Alexander_von_Humboldt_Gymnasium.pdf</id>
     <title>Alexander-von-Humboldt-Gymnasium in Werdau</title>
-    <updated>2021-11-30T22:22:06.363539+00:00</updated>
+    <updated>2021-12-01T05:21:38.157889+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 06.12.2021
@@ -5379,7 +5379,7 @@ Gültig: 30.11.2021 bis 06.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_29_Umweltschule_Werdau.pdf</id>
     <title>Umweltschule Werdau, Grundschule in Werdau</title>
-    <updated>2021-11-30T22:22:06.363692+00:00</updated>
+    <updated>2021-12-01T05:21:38.158102+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5392,7 +5392,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_GS_Pleissa.pdf</id>
     <title>Grundschule Pleißa in Limbach-Oberfrohna</title>
-    <updated>2021-11-30T22:22:06.363850+00:00</updated>
+    <updated>2021-12-01T05:21:38.158310+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -5405,7 +5405,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_R_W_Schule_Zwickau.pdf</id>
     <title>Rudolf-Weiß-Schule, Schule mit dem Förderschwerpunkt Lernen, in Zwickau</title>
-    <updated>2021-11-30T22:22:06.364003+00:00</updated>
+    <updated>2021-12-01T05:21:38.158524+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 10.12.2021
@@ -5418,7 +5418,7 @@ Gültig: 30.11.2021 bis 10.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_29_Schule_am_Scheffelberg_GS_Zwickau.pdf</id>
     <title>Schule am Scheffelberg- Grundschule in Zwickau</title>
-    <updated>2021-11-30T22:22:06.364161+00:00</updated>
+    <updated>2021-12-01T05:21:38.158745+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 30.11.2021 bis 03.12.2021
@@ -5431,7 +5431,7 @@ Gültig: 30.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_26_FZ_Anne_Frank_Zwickau.pdf</id>
     <title>Anne-Frank-Schule Förderzentrum mit dem Förderschwerpunkt Sprache in Zwickau</title>
-    <updated>2021-11-30T22:22:06.364317+00:00</updated>
+    <updated>2021-12-01T05:21:38.158971+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis .12.2021
@@ -5444,7 +5444,7 @@ Gültig: 29.11.2021 bis .12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_GS_Frankenhausen.pdf</id>
     <title>Grundschule Frankenhausen in Crimmitschau</title>
-    <updated>2021-11-30T22:22:06.364477+00:00</updated>
+    <updated>2021-12-01T05:21:38.159205+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -5457,7 +5457,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_DPFA_Regenbogen_GS_Zwickau.pdf</id>
     <title>DPFA-Regenbogen Grundschule Zwickau „Carl Friedrich Benz“ in Zwickau</title>
-    <updated>2021-11-30T22:22:06.364631+00:00</updated>
+    <updated>2021-12-01T05:21:38.159428+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -5470,7 +5470,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_25_Umweltschule_Werdau.pdf</id>
     <title>Umweltschule Werdau, Grundschule in Werdau</title>
-    <updated>2021-11-30T22:22:06.364788+00:00</updated>
+    <updated>2021-12-01T05:21:38.159645+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 26.11.2021 bis 03.12.2021
@@ -5483,7 +5483,7 @@ Gültig: 26.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_24_Prof_Dr_Max_Schneider_Gymnasium.pdf</id>
     <title>Gymnasium "Prof. Dr. Max Schneider" in Lichtenstein/Sachsen</title>
-    <updated>2021-11-30T22:22:06.364944+00:00</updated>
+    <updated>2021-12-01T05:21:38.159855+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.11.2021 bis 29.11.2021
@@ -5496,7 +5496,7 @@ Gültig: 25.11.2021 bis 29.11.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_24_Sachsenalleeschule.pdf</id>
     <title>Sachsenalleeschule Grundschule in Glauchau</title>
-    <updated>2021-11-30T22:22:06.365105+00:00</updated>
+    <updated>2021-12-01T05:21:38.160061+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 29.11.2021 bis 03.12.2021
@@ -5509,7 +5509,7 @@ Gültig: 29.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_11_22_Pesta_OS_Zwickau.pdf</id>
     <title>Pestalozzischule Zwickau, Oberschule in Zwickau</title>
-    <updated>2021-11-30T22:22:06.365261+00:00</updated>
+    <updated>2021-12-01T05:21:38.160267+00:00</updated>
     <content>
 Status: befristet Wechselmodell
 Gültig: 24.11.2021 bis 03.12.2021
@@ -5522,7 +5522,7 @@ Gültig: 24.11.2021 bis 03.12.2021
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/21_11_22_Bergschule_St_Egidien.pdf</id>
     <title>Bergschule St. Egidien - Grundschule in St. Egidien</title>
-    <updated>2021-11-30T22:22:06.365444+00:00</updated>
+    <updated>2021-12-01T05:21:38.160483+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.11.2021 bis 03.12.2021
