@@ -51,12 +51,19 @@ for entry in entries:
 
 Mehr Infos: {entry["link"]}
 """
-    entry_last_tweeted = tweets.get(guid)
-    if (
-        entry_last_tweeted is not None
-        and entry_last_tweeted != text
-        and not entry_last_tweeted.startswith("Update: ")
-    ):
+    # get tweet from cache
+    previously_tweeted_text = tweets.get(guid)
+    # if the tweet was previously published
+    if previously_tweeted_text is not None:
+        # and the previously tweeted text is the same as the one in this run
+        # skip the entry
+        if previously_tweeted_text == text:
+            continue
+        # or if there was already an update to the tweet posted previously
+        # skip the entry, too
+        if previously_tweeted_text.startswith("Update: "):
+            continue
+        # otherwise prefix it with "Update: " and tweet away
         text = f"Update: {text}"
 
     try:
