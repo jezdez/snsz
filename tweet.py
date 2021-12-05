@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 import os
 import time
-from datetime import datetime
 
-import dateparser
 import feedparser
-import pytz
 import structlog
 import tweepy
 from diskcache import Index
@@ -32,23 +29,14 @@ twitter = tweepy.Client(
     access_token_secret=TWITTER_ACCESS_TOKEN_SECRET,
 )
 
-now_utc = datetime.now(pytz.utc)
-now_timestamp = int(now_utc.timestamp())
-
 # get all the entries we want
 entries = feedparser.parse(RSS_FEED_PATH)["entries"]
 
 
-def send_tweet(entry):
+def send_tweet(entry, text):
     """
     send tweet for given feed entry
     """
-    text = f"""{entry["title"]}
-
-{entry["description"]}
-
-Mehr Infos: {entry["link"]}
-"""
     logger.info("Tweet text", entry=entry, text=text)
     return twitter.create_tweet(text=text)
 
@@ -56,21 +44,33 @@ Mehr Infos: {entry["link"]}
 # iterate over RSS feed entries and see if we need to tweet
 for entry in entries:
     # fetch article data
-    entry_timestamp = int(dateparser.parse(entry["published"]).timestamp())
-
     guid = entry["id"]
+    text = f"""{entry["title"]}
+
+{entry["description"]}
+
+Mehr Infos: {entry["link"]}
+"""
     entry_last_tweeted = tweets.get(guid)
-    # if entry is older than last tweet skip to next entry
-    if entry_last_tweeted is None or entry_last_tweeted > entry_timestamp:
-        try:
-            response = send_tweet(entry)
-        except tweepy.TooManyRequests:
-            logger.exception("Found rate-limiting, breaking now..")
-            break
-        except Exception:
-            logger.exception("Tweet failed", entry=entry, response=response)
-        else:
-            tweets[guid] = now_timestamp
-            logger.info("Tweet successful", entry=entry, timestamp=now_utc)
-            # let's sleep a bit to not overwhelm the Twitter API
-            time.sleep(0.5)
+    if (
+        entry_last_tweeted is not None
+        and entry_last_tweeted != text
+        and not entry_last_tweeted.startswith("Update: ")
+    ):
+        text = f"Update: {text}"
+
+    try:
+        response = send_tweet(entry, text)
+    except tweepy.Forbidden:
+        # raised if tweet is the same as last one, no need to tweet again
+        logger.exception("Forbidden response found", entry=entry)
+    except tweepy.TooManyRequests:
+        logger.exception("Rate-limiting response found", entry=entry)
+        break
+    except Exception:
+        logger.exception("Tweet failed", entry=entry, response=response)
+    else:
+        tweets[guid] = text
+        logger.info("Tweet successful", entry=entry, text=text)
+        # let's sleep a bit to not overwhelm the Twitter API
+        time.sleep(0.5)
