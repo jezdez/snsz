@@ -63,7 +63,7 @@ Mehr Infos: {entry["link"]}
         response = send_tweet(entry, text)
     except tweepy.Forbidden:
         # raised if tweet is the same as last one, no need to tweet again
-        logger.exception("Forbidden response found", entry=entry)
+        logger.info("Forbidden response found", entry=entry)
     except tweepy.TooManyRequests:
         logger.exception("Rate-limiting response found", entry=entry)
         break
