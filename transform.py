@@ -61,7 +61,7 @@ saxony_bbox = (
 google_geocoder = GoogleV3(api_key=os.environ["GOOGLE_GEOCODE_API_KEY"])
 
 # the file disk cache for the geocoder
-cache_path = os.path.join(os.path.dirname(__file__), "cache")
+cache_path = os.path.join(os.path.dirname(__file__), "cache", "geocodes")
 os.makedirs(cache_path, exist_ok=True)
 geocodes = Index(cache_path)
 

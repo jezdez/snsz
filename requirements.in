@@ -1,7 +1,12 @@
-Scrapy
-geopy
-pandas
+dateparser
 diskcache
 feedgen
+feedparser
+geopy
+pandas
 pip-tools
-dateparser
+python-dotenv[cli]
+rich
+Scrapy
+structlog
+tweepy
