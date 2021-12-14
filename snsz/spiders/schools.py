@@ -62,7 +62,7 @@ class SchoolsSpider(scrapy.Spider):
             # which may or may not be multiple dates, because you know, whatever
             # we ignore the earlier date
             validity = row.xpath("td[3]//text()").extract_first()
-            if VALIDITY_SPLIT_STR in validity:
+            if validity and VALIDITY_SPLIT_STR in validity:
                 valid_from, valid_to = validity.split(VALIDITY_SPLIT_STR)
                 if AMBIGUITY_SPLIT_STR in valid_to:
                     _, valid_to = valid_to.split(AMBIGUITY_SPLIT_STR)
@@ -72,13 +72,15 @@ class SchoolsSpider(scrapy.Spider):
                 except ValueError:
                     # here be dragons
                     continue
-            else:
+            elif validity:
                 # in case the validity is just one item or something
                 # just treat it as one (?)
                 try:
                     parsed_valid_from = parsed_valid_to = parse_german_datetime(validity)
                 except ValueError:
                     continue
+            else:
+                parsed_valid_from = parsed_valid_to = None
 
             if parsed_valid_to:
                 epoch_valid_to = int(
@@ -86,6 +88,7 @@ class SchoolsSpider(scrapy.Spider):
                 )
             else:
                 epoch_valid_from = None
+
             if parsed_valid_from:
                 epoch_valid_from = int(
                     pytz.utc.localize(parsed_valid_from).timestamp()
@@ -101,7 +104,7 @@ class SchoolsSpider(scrapy.Spider):
                 "published_at": parsed_published_at,
                 "status": status,
                 "url": url,
-                "validity": validity,
+                "validity": validity or "nicht angegeben",
                 "valid_from": parsed_valid_from,
                 "valid_to": parsed_valid_to,
                 "epoch_valid_from": epoch_valid_from,
