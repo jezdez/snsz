@@ -57,6 +57,8 @@ class SchoolsSpider(scrapy.Spider):
 
             # get the link to the ruling
             url = row.xpath("td[1]//a//@href").extract_first()
+            # strip leading or trailing ampersands
+            url = url.lstrip("&").rstrip("&")
 
             # next extract the validity of the bulletin
             # which may or may not be multiple dates, because you know, whatever
