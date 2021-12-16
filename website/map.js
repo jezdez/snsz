@@ -59,7 +59,6 @@ map.on("load", () => {
       name: "aktuell gültig",
       filter: [
         "all",
-        ["==", "recently_added", false],
         [">=", "epoch_valid_to", epoch_today],
       ],
       color: "#0d3a35",
@@ -164,7 +163,10 @@ map.on("load", () => {
   map.once('idle', () => {
     // map.querySourceFeatures(...) returns values only after the map is loaded
     // and layers have been loaded by the map obj.
-    var featureCountAll = 0;
+    const allSchools = map.querySourceFeatures("schools");
+    const allUrls = new Set(allSchools.map(f => f.properties.url));
+    allCount.appendChild(document.createTextNode(` (${allUrls.size} insgesamt)`));
+
     layers.forEach(function (layer) {
       const features = map.querySourceFeatures("schools", {
         validate: true,
@@ -173,9 +175,8 @@ map.on("load", () => {
 
       // Somehow, querySourceFeatures returns many duplicates. Hence,
       // count them only once using a set.
-      const addresses = new Set(features.map(f => f.properties.url));
-      layer.featureCount = addresses.size;
-      featureCountAll = featureCountAll + layer.featureCount;
+      const urls = new Set(features.map(f => f.properties.url));
+      layer.featureCount = urls.size;
 
       // Add checkbox and label elements for the layer.
       const input = document.createElement("input");
@@ -207,7 +208,6 @@ map.on("load", () => {
       });
 
     });
-    allCount.appendChild(document.createTextNode(` (${featureCountAll} insgesamt)`));
   });
 
 });
