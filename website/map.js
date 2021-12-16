@@ -171,8 +171,8 @@ map.on("load", () => {
 
       // Somehow, querySourceFeatures returns many duplicates. Hence,
       // count them only once using a set.
-      const addresses = new Set(features.map(f => f.properties.address))
-      layer.featureCount = addresses.size
+      const addresses = new Set(features.map(f => f.properties.url));
+      layer.featureCount = addresses.size;
 
       // Add checkbox and label elements for the layer.
       const input = document.createElement("input");
