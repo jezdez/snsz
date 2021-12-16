@@ -15,6 +15,7 @@ map.on("load", () => {
   });
 
   const filterGroup = document.getElementById("filter-group");
+  const allCount = document.getElementById("all-count");
 
   map.addControl(new mapboxgl.NavigationControl(), "bottom-right");
   map.addControl(
@@ -48,14 +49,14 @@ map.on("load", () => {
   const layers = [
     {
       id: "schools-new",
-      name: "neu",
+      name: "neu hinzugefügt",
       filter: ["==", "recently_added", true],
       color: "#c42d3f",
       featureCount: undefined,
     },
     {
       id: "schools-recent",
-      name: "aktuell",
+      name: "aktuell gültig",
       filter: [
         "all",
         ["==", "recently_added", false],
@@ -163,6 +164,7 @@ map.on("load", () => {
   map.once('idle', () => {
     // map.querySourceFeatures(...) returns values only after the map is loaded
     // and layers have been loaded by the map obj.
+    var featureCountAll = 0;
     layers.forEach(function (layer) {
       const features = map.querySourceFeatures("schools", {
         validate: true,
@@ -173,6 +175,7 @@ map.on("load", () => {
       // count them only once using a set.
       const addresses = new Set(features.map(f => f.properties.url));
       layer.featureCount = addresses.size;
+      featureCountAll = featureCountAll + layer.featureCount;
 
       // Add checkbox and label elements for the layer.
       const input = document.createElement("input");
@@ -202,7 +205,9 @@ map.on("load", () => {
           e.target.checked ? "visible" : "none"
         );
       });
+
     });
+    allCount.appendChild(document.createTextNode(` (${featureCountAll} insgesamt)`));
   });
 
 });
