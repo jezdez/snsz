@@ -149,7 +149,7 @@ six==1.16.0
     #   python-dateutil
     #   service-identity
     #   w3lib
-structlog==21.4.0
+structlog==21.5.0
     # via -r requirements.in
 tomli==1.2.2
     # via pep517
