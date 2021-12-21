@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Dec 2021 15:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 16:25:28 +0000</lastBuildDate>
     <item>
       <title>Gymnasium Klotzsche in Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/2021_12_20_Gymnasium_Klotzsche.pdf</link>
@@ -297,17 +297,6 @@ Gültig: 16.12.2021 bis 22.12.2021
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>9. Oberschule „Am Elbe Park“ in Dresden</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_15_9_OS.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 16.12.2021 bis 17.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_15_9_OS.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_15_9_OS.pdf" length="0" type="application/pdf"/>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>16. Grundschule „Josephine“ Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/2021_12_15_16GS_DD.pdf</link>
       <description>
@@ -572,17 +561,6 @@ Gültig: 14.12.2021 bis 22.12.2021
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gymnasium Dresden-Bühlau in Dresden</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_13_GYM_Buehlau.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 14.12.2021 bis 20.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_13_GYM_Buehlau.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_13_GYM_Buehlau.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Neue Waldorfschule Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/2021_12_13_Neue_Waldorfschule_Dresden.pdf</link>
       <description>
@@ -602,17 +580,6 @@ Gültig: 14.12.2021 bis 22.12.2021
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_13_St_Franziskus.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_13_St_Franziskus.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Private Ganztagsgrundschule der Privaten Schule IBB gGmbH Dresden</title>
-      <link>https://www.smk.sachsen.de/ppdf/21_12_13_Private_Ganztagsgrundschule_Dresden.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 14.12.2021 bis 17.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_12_13_Private_Ganztagsgrundschule_Dresden.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/21_12_13_Private_Ganztagsgrundschule_Dresden.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -636,17 +603,6 @@ Gültig: 11.12.2021 bis 21.12.2021
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_10_BSZ_Zeigner_Dresden.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_10_BSZ_Zeigner_Dresden.pdf" length="0" type="application/pdf"/>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>25. Grundschule "Am Pohlandplatz" in Dresden</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_09_25GS_DD.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 10.12.2021 bis 20.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_09_25GS_DD.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_09_25GS_DD.pdf" length="0" type="application/pdf"/>
-      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Schule zur Lernförderung – "A. S. Makarenko" Förderzentrum in Dresden</title>
@@ -867,17 +823,6 @@ Gültig: 17.12.2021 bis 22.12.2021
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_16_Diesterwegschule.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_16_Diesterwegschule.pdf" length="0" type="application/pdf"/>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Heinrich-Pestalozzi-Schule, Oberschule der Stadt Leipzig, in Leipzig</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_15_Pestalozzi_Schule_Leipzig.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 16.12.2021 bis 20.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_15_Pestalozzi_Schule_Leipzig.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_15_Pestalozzi_Schule_Leipzig.pdf" length="0" type="application/pdf"/>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Liebertwolkwitz in Leipzig</title>
@@ -1331,17 +1276,6 @@ Gültig: 15.12.2021 bis 22.12.2021
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Ottendorf-Okrilla in Ottendorf-Okrilla</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_13_GS_Ottendorf_Okrilla.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 14.12.2021 bis 20.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_13_GS_Ottendorf_Okrilla.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_13_GS_Ottendorf_Okrilla.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>"Johann-Gottfried-Bönisch-Förderschule" Schule mit dem Förderschwerpunkt geistige Entwicklung Kamenz</title>
       <link>https://www.smk.sachsen.de/ppdf/2021_12_13_Boenisch_FS_Kamenz.pdf</link>
       <description>
@@ -1406,6 +1340,17 @@ Gültig: 07.12.2021 bis 21.12.2021
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_06_Dr_Gregor_Maettig_Grundschule_Bautzen.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_06_Dr_Gregor_Maettig_Grundschule_Bautzen.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stadtschule Schwarzenberg, Oberschule, in Schwarzenberg</title>
+      <link>https://www.smk.sachsen.de/ppdf/2021_12_21_OS_Schwarzenberg.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 22.12.2021
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_21_OS_Schwarzenberg.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_21_OS_Schwarzenberg.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jenaplanschule Markersbach in Raschau-Markersbach</title>
@@ -1681,6 +1626,17 @@ Gültig: 11.12.2021 bis 22.12.2021
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_10_GS_Innenstadt_Goerlitz.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_10_GS_Innenstadt_Goerlitz.pdf" length="0" type="application/pdf"/>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oberschule Grimma</title>
+      <link>https://www.smk.sachsen.de/ppdf/21_12_21_OS_Grimma.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 22.12.2021
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_12_21_OS_Grimma.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/21_12_21_OS_Grimma.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Naunhof</title>
@@ -2006,7 +1962,7 @@ Gültig: 14.12.2021 bis 21.12.2021
       <link>https://www.smk.sachsen.de/ppdf/21_12_13_Werner_Heisenberg_GYM.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
-Gültig: nicht angegeben
+Gültig: 14.12.2021 bis 20.12.2021
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_12_13_Werner_Heisenberg_GYM.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/21_12_13_Werner_Heisenberg_GYM.pdf" length="0" type="application/pdf"/>
@@ -2538,17 +2494,6 @@ Gültig: 14.12.2021 bis 22.12.2021
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_13_Lessing_OS_Schkeuditz.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_13_Lessing_OS_Schkeuditz.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grundschule Am Park in Taucha</title>
-      <link>https://www.smk.sachsen.de/ppdf/21_12_13_Grundschule_Am_Park_Taucha.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 14.12.2021 bis 20.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/21_12_13_Grundschule_Am_Park_Taucha.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/21_12_13_Grundschule_Am_Park_Taucha.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3242,17 +3187,6 @@ Gültig: 14.12.2021 bis 22.12.2021
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_13_M_Luther_GS_Zwickau_Planitz.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_13_M_Luther_GS_Zwickau_Planitz.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oberschule Lichtentanne</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_13_OS_Lichtentanne.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 14.12.2021 bis 17.12.2021
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_13_OS_Lichtentanne.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_13_OS_Lichtentanne.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
