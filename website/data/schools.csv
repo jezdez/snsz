@@ -1,2 +1,3 @@
 name,published_at,status,url,validity,valid_from,valid_to,epoch_valid_from,epoch_valid_to,recently_added,address,latitude,longitude
+"Johann-Esche-Grundschule in Taura, OT Köthensdorf",2022-01-03,befristet teilweise geschlossen,https://www.smk.sachsen.de/ppdf/22_01_03_Johann_Esche_Grundschule.pdf,04.01.2022 bis 12.01.2022,2022-01-04 00:00:00,2022-01-12 00:00:00,1641254400,1641945600,False,"Schulstraße 3, 09249 Taura, Deutschland",50.909293,12.8675553
 Grundschule Pretzschendorf,2021-12-30,befristet teilweise geschlossen,https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf,03.01.2022 bis 05.01.2022,2022-01-03 00:00:00,2022-01-05 00:00:00,1641168000,1641340800,False,"Erich-Weinert-Straße 9, 01774 Klingenberg, Deutschland",50.8741402,13.5252197
