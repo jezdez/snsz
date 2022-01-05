@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-01-05T14:21:12.769250+00:00</updated>
+  <updated>2022-01-05T15:24:11.453942+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   <subtitle>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</subtitle>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf</id>
+    <title>Oberschule "An der Mulde" Rochlitz</title>
+    <updated>2022-01-05T15:24:11.454749+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 06.01.2022 bis 12.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf" rel="alternate" title="Oberschule &quot;An der Mulde&quot; Rochlitz"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-05T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_03_Johann_Esche_Grundschule.pdf</id>
     <title>Johann-Esche-Grundschule in Taura, OT Köthensdorf</title>
-    <updated>2022-01-05T14:21:12.769899+00:00</updated>
+    <updated>2022-01-05T15:24:11.454983+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.01.2022 bis 12.01.2022
@@ -23,7 +36,7 @@ Gültig: 04.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf</id>
     <title>Grundschule Pretzschendorf</title>
-    <updated>2022-01-05T14:21:12.770134+00:00</updated>
+    <updated>2022-01-05T15:24:11.455162+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 03.01.2022 bis 05.01.2022
