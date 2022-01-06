@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-01-06T17:25:21.035629+00:00</updated>
+  <updated>2022-01-06T18:24:39.046946+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf</id>
     <title>Oberschule "An der Mulde" Rochlitz</title>
-    <updated>2022-01-06T17:25:21.036254+00:00</updated>
+    <updated>2022-01-06T18:24:39.047573+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 06.01.2022 bis 12.01.2022
@@ -23,7 +23,7 @@ Gültig: 06.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_03_Johann_Esche_Grundschule.pdf</id>
     <title>Johann-Esche-Grundschule in Taura, OT Köthensdorf</title>
-    <updated>2022-01-06T17:25:21.036474+00:00</updated>
+    <updated>2022-01-06T18:24:39.047795+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.01.2022 bis 12.01.2022
@@ -36,7 +36,7 @@ Gültig: 04.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf</id>
     <title>Grundschule Pretzschendorf</title>
-    <updated>2022-01-06T17:25:21.036650+00:00</updated>
+    <updated>2022-01-06T18:24:39.047971+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 03.01.2022 bis 05.01.2022
