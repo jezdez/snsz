@@ -2,15 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-01-07T13:25:15.478902+00:00</updated>
+  <updated>2022-01-07T14:22:50.792822+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   <subtitle>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</subtitle>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_07_Albert_Schweitzer_Schule_Leipzig</id>
+    <title>Albert-Schweitzer-Schule - Förderzentrum der Stadt Leipzig mit dem Förderschwerpunkt körperliche und motorische Entwicklung - in Leipzig</title>
+    <updated>2022-01-07T14:22:50.793681+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 08.01.2022 bis 17.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_07_Albert_Schweitzer_Schule_Leipzig" rel="alternate" title="Albert-Schweitzer-Schule - Förderzentrum der Stadt Leipzig mit dem Förderschwerpunkt körperliche und motorische Entwicklung - in Leipzig"/>
+    <published>2022-01-07T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf</id>
     <title>Oberschule "An der Mulde" Rochlitz</title>
-    <updated>2022-01-07T13:25:15.479626+00:00</updated>
+    <updated>2022-01-07T14:22:50.793933+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 06.01.2022 bis 12.01.2022
@@ -23,7 +35,7 @@ Gültig: 06.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_03_Johann_Esche_Grundschule.pdf</id>
     <title>Johann-Esche-Grundschule in Taura, OT Köthensdorf</title>
-    <updated>2022-01-07T13:25:15.479906+00:00</updated>
+    <updated>2022-01-07T14:22:50.794126+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.01.2022 bis 12.01.2022
@@ -34,16 +46,15 @@ Gültig: 04.01.2022 bis 12.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf</id>
-    <title>Grundschule Pretzschendorf</title>
-    <updated>2022-01-07T13:25:15.480124+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_07_Foerderzentrum_Promenade_Torgau</id>
+    <title>Förderzentrum an der Promenade Torgau</title>
+    <updated>2022-01-07T14:22:50.794289+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
-Gültig: 03.01.2022 bis 05.01.2022
+Gültig: 08.01.2022 bis 14.01.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf" rel="alternate" title="Grundschule Pretzschendorf"/>
-    <link href="https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2021-12-30T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_07_Foerderzentrum_Promenade_Torgau" rel="alternate" title="Förderzentrum an der Promenade Torgau"/>
+    <published>2022-01-07T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
 </feed>
