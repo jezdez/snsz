@@ -9,7 +9,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 07 Jan 2022 13:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 14:22:50 +0000</lastBuildDate>
+    <item>
+      <title>Albert-Schweitzer-Schule - Förderzentrum der Stadt Leipzig mit dem Förderschwerpunkt körperliche und motorische Entwicklung - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_07_Albert_Schweitzer_Schule_Leipzig</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 08.01.2022 bis 17.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_07_Albert_Schweitzer_Schule_Leipzig</guid>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Oberschule "An der Mulde" Rochlitz</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf</link>
@@ -33,15 +43,14 @@ Gültig: 04.01.2022 bis 12.01.2022
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Pretzschendorf</title>
-      <link>https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf</link>
+      <title>Förderzentrum an der Promenade Torgau</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_07_Foerderzentrum_Promenade_Torgau</link>
       <description>
 Status: befristet teilweise geschlossen
-Gültig: 03.01.2022 bis 05.01.2022
+Gültig: 08.01.2022 bis 14.01.2022
 </description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/2021_12_30_GS_Pretzschendorf.pdf" length="0" type="application/pdf"/>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_07_Foerderzentrum_Promenade_Torgau</guid>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
