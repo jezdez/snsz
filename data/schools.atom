@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-01-09T11:21:42.232706+00:00</updated>
+  <updated>2022-01-09T12:25:23.211610+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_07_Albert_Schweitzer_Schule_Leipzig</id>
     <title>Albert-Schweitzer-Schule - Förderzentrum der Stadt Leipzig mit dem Förderschwerpunkt körperliche und motorische Entwicklung - in Leipzig</title>
-    <updated>2022-01-09T11:21:42.233322+00:00</updated>
+    <updated>2022-01-09T12:25:23.212232+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 08.01.2022 bis 17.01.2022
@@ -22,7 +22,7 @@ Gültig: 08.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf</id>
     <title>Oberschule "An der Mulde" Rochlitz</title>
-    <updated>2022-01-09T11:21:42.233540+00:00</updated>
+    <updated>2022-01-09T12:25:23.212450+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 06.01.2022 bis 12.01.2022
@@ -35,7 +35,7 @@ Gültig: 06.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_03_Johann_Esche_Grundschule.pdf</id>
     <title>Johann-Esche-Grundschule in Taura, OT Köthensdorf</title>
-    <updated>2022-01-09T11:21:42.233721+00:00</updated>
+    <updated>2022-01-09T12:25:23.212635+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.01.2022 bis 12.01.2022
@@ -48,7 +48,7 @@ Gültig: 04.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_07_Foerderzentrum_Promenade_Torgau</id>
     <title>Förderzentrum an der Promenade Torgau</title>
-    <updated>2022-01-09T11:21:42.233890+00:00</updated>
+    <updated>2022-01-09T12:25:23.212807+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 08.01.2022 bis 14.01.2022
