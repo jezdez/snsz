@@ -2,15 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-01-14T18:24:37.332203+00:00</updated>
+  <updated>2022-01-14T19:20:42.491494+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   <subtitle>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</subtitle>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_GSWeissig.pdf</id>
+    <title>Grundschule Weißig "Hutbergschule" in Dresden</title>
+    <updated>2022-01-14T19:20:42.492598+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GSWeissig.pdf" rel="alternate" title="Grundschule Weißig &quot;Hutbergschule&quot; in Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GSWeissig.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_68GSDresden.pdf</id>
+    <title>68. Grundschule Dresden „Am Heiligen Born“ in Dresden</title>
+    <updated>2022-01-14T19:20:42.492870+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 17.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_68GSDresden.pdf" rel="alternate" title="68. Grundschule Dresden „Am Heiligen Born“ in Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_68GSDresden.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_81_Grundschule_Dresden.pdf</id>
+    <title>81. Grundschule „Robert Weber“ in Dresden</title>
+    <updated>2022-01-14T19:20:42.493080+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_81_Grundschule_Dresden.pdf" rel="alternate" title="81. Grundschule „Robert Weber“ in Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_81_Grundschule_Dresden.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_139_Grundschule_Dresden.pdf</id>
+    <title>139. Grundschule Dresden</title>
+    <updated>2022-01-14T19:20:42.493287+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_139_Grundschule_Dresden.pdf" rel="alternate" title="139. Grundschule Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_139_Grundschule_Dresden.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/20220114_KunstwerkschuleDresden.pdf</id>
+    <title>Kunstwerkschule - Grundschule in Dresden</title>
+    <updated>2022-01-14T19:20:42.493473+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 17.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/20220114_KunstwerkschuleDresden.pdf" rel="alternate" title="Kunstwerkschule - Grundschule in Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/20220114_KunstwerkschuleDresden.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_13_KulturwerkschuleGSDD.pdf</id>
     <title>Kulturwerkschule – Grundschule in Dresden</title>
-    <updated>2022-01-14T18:24:37.333002+00:00</updated>
+    <updated>2022-01-14T19:20:42.493654+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 14.01.2022 bis 20.01.2022
@@ -23,7 +88,7 @@ Gültig: 14.01.2022 bis 20.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_13_120GSDresden.pdf</id>
     <title>Kulturwerkschule – Grundschule in Dresden</title>
-    <updated>2022-01-14T18:24:37.333299+00:00</updated>
+    <updated>2022-01-14T19:20:42.493831+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 14.01.2022 bis 20.01.2022
@@ -36,7 +101,7 @@ Gültig: 14.01.2022 bis 20.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_GYPestaDD.pdf</id>
     <title>Pestalozzi-Gymnasium Dresden</title>
-    <updated>2022-01-14T18:24:37.333471+00:00</updated>
+    <updated>2022-01-14T19:20:42.494007+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -49,7 +114,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_GymDresdenPlauen.pdf</id>
     <title>Gymnasium Dresden-Plauen in Dresden</title>
-    <updated>2022-01-14T18:24:37.333629+00:00</updated>
+    <updated>2022-01-14T19:20:42.494183+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -62,7 +127,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_139GSDD.pdf</id>
     <title>139. Grundschule Dresden</title>
-    <updated>2022-01-14T18:24:37.333780+00:00</updated>
+    <updated>2022-01-14T19:20:42.494355+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -75,7 +140,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_108GSDD.pdf</id>
     <title>108. Grundschule Dresden "Sonnenblumenschule" in Dresden</title>
-    <updated>2022-01-14T18:24:37.333939+00:00</updated>
+    <updated>2022-01-14T19:20:42.494561+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 21.01.2022
@@ -88,7 +153,7 @@ Gültig: 13.01.2022 bis 21.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_81GSDD.pdf</id>
     <title>81. Grundschule „Robert Weber“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.334090+00:00</updated>
+    <updated>2022-01-14T19:20:42.494740+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 20.01.2022
@@ -101,7 +166,7 @@ Gültig: 13.01.2022 bis 20.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_11_102_Grundschule_Dresden.pdf</id>
     <title>102. Grundschule „Johanna“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.334242+00:00</updated>
+    <updated>2022-01-14T19:20:42.494913+00:00</updated>
     <content>
 Status: Widerruf der Allgemeinverfügung zur befristeten teilweisen Schließung
 Gültig: 12.01.2022
@@ -114,7 +179,7 @@ Gültig: 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_102_Grundschule_Dresden.pdf</id>
     <title>102. Grundschule „Johanna“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.334392+00:00</updated>
+    <updated>2022-01-14T19:20:42.495086+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 19.01.2022
@@ -127,7 +192,7 @@ Gültig: 11.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_32OSDD.pdf</id>
     <title>32. Oberschule Dresden</title>
-    <updated>2022-01-14T18:24:37.334542+00:00</updated>
+    <updated>2022-01-14T19:20:42.495258+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -140,7 +205,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_56OSDD.pdf</id>
     <title>56. Oberschule Dresden „Am Trachenberg“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.334693+00:00</updated>
+    <updated>2022-01-14T19:20:42.495437+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 14.01.2022
@@ -153,7 +218,7 @@ Gültig: 11.01.2022 bis 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_65GSDD.pdf</id>
     <title>65. Grundschule "Am Waldpark Kleinzschachwitz“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.334843+00:00</updated>
+    <updated>2022-01-14T19:20:42.495614+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -166,7 +231,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_68GSDD.pdf</id>
     <title>68. Grundschule "Am Heiligen Born" in Dresden</title>
-    <updated>2022-01-14T18:24:37.334991+00:00</updated>
+    <updated>2022-01-14T19:20:42.495756+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -179,7 +244,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_Grundschule_Weissig.pdf</id>
     <title>Grundschule Weißig „Hutbergschule“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.335142+00:00</updated>
+    <updated>2022-01-14T19:20:42.495890+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 19.01.2022
@@ -192,7 +257,7 @@ Gültig: 11.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_81_Grundschule_Dresden.pdf</id>
     <title>81. Grundschule „Robert Weber“ in Dresden</title>
-    <updated>2022-01-14T18:24:37.335292+00:00</updated>
+    <updated>2022-01-14T19:20:42.496022+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -205,7 +270,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_135_Grundschule%20Dresden.pdf</id>
     <title>135. Grundschule in Dresden</title>
-    <updated>2022-01-14T18:24:37.335477+00:00</updated>
+    <updated>2022-01-14T19:20:42.496215+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 14.01.2022
@@ -218,7 +283,7 @@ Gültig: 11.01.2022 bis 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_FSAstridLindgrenDresden.pdf</id>
     <title>Schule mit dem Förderschwerpunkt geistige Entwicklung "Astrid Lindgren" in Dresden</title>
-    <updated>2022-01-14T18:24:37.335632+00:00</updated>
+    <updated>2022-01-14T19:20:42.496359+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 21.01.2022
@@ -231,7 +296,7 @@ Gültig: 11.01.2022 bis 21.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22-01_12_Kooperationsschule_Chemnitz.pdf</id>
     <title>Kooperationsschule Chemnitz</title>
-    <updated>2022-01-14T18:24:37.335804+00:00</updated>
+    <updated>2022-01-14T19:20:42.496527+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -244,7 +309,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_12_Josephinenschule_Oberschule_Chemnitz.pdf</id>
     <title>Josephinenschule, Oberschule, in Chemnitz</title>
-    <updated>2022-01-14T18:24:37.335957+00:00</updated>
+    <updated>2022-01-14T19:20:42.496678+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -257,7 +322,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_Grundschule_Gablenz.pdf</id>
     <title>Grundschule Gablenz in Chemnitz</title>
-    <updated>2022-01-14T18:24:37.336109+00:00</updated>
+    <updated>2022-01-14T19:20:42.496827+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -268,9 +333,61 @@ Gültig: 11.01.2022 bis 17.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_Foerderzentrum_Samuel_Heinicke_Leipzig.pdf</id>
+    <title>Sächsische Landesschule mit dem Förderschwerpunkt Hören, Förderzentrum Samuel Heinicke in Leipzig</title>
+    <updated>2022-01-14T19:20:42.496975+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Foerderzentrum_Samuel_Heinicke_Leipzig.pdf" rel="alternate" title="Sächsische Landesschule mit dem Förderschwerpunkt Hören, Förderzentrum Samuel Heinicke in Leipzig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Foerderzentrum_Samuel_Heinicke_Leipzig.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_Grundschule_Schule_am_Flossplatz.pdf</id>
+    <title>Schule am Floßplatz - Grundschule der Stadt Leipzig - in Leipzig</title>
+    <updated>2022-01-14T19:20:42.497157+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Grundschule_Schule_am_Flossplatz.pdf" rel="alternate" title="Schule am Floßplatz - Grundschule der Stadt Leipzig - in Leipzig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Grundschule_Schule_am_Flossplatz.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_85GSLeipzig.pdf</id>
+    <title>85. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+    <updated>2022-01-14T19:20:42.497337+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_85GSLeipzig.pdf" rel="alternate" title="85. Schule - Grundschule der Stadt Leipzig - in Leipzig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_85GSLeipzig.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_ErnstZinnaSchule.pdf</id>
+    <title>Ernst-Zinna-Schule - Förderzentrum mit dem Förderschwerpunkt Lernen der Stadt Leipzig - in Leipzig</title>
+    <updated>2022-01-14T19:20:42.497511+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_ErnstZinnaSchule.pdf" rel="alternate" title="Ernst-Zinna-Schule - Förderzentrum mit dem Förderschwerpunkt Lernen der Stadt Leipzig - in Leipzig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_ErnstZinnaSchule.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_13_74GSLeipzig.pdf</id>
     <title>74. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.336259+00:00</updated>
+    <updated>2022-01-14T19:20:42.497681+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 14.01.2022 bis 20.01.2022
@@ -283,7 +400,7 @@ Gültig: 14.01.2022 bis 20.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_HeinrichPestalozziOS.pdf</id>
     <title>Heinrich-Pestalozzi-Schule - Oberschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.336412+00:00</updated>
+    <updated>2022-01-14T19:20:42.497860+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 21.01.2022
@@ -296,7 +413,7 @@ Gültig: 13.01.2022 bis 21.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_39GSLeipzig.pdf</id>
     <title>39. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.336562+00:00</updated>
+    <updated>2022-01-14T19:20:42.498037+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 21.01.2022
@@ -309,7 +426,7 @@ Gültig: 13.01.2022 bis 21.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_11_WernerHeisenbergSchule.pdf</id>
     <title>Werner-Heisenberg-Schule - Gymnasium der Stadt Leipzig in Leipzig</title>
-    <updated>2022-01-14T18:24:37.336715+00:00</updated>
+    <updated>2022-01-14T19:20:42.498210+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.01.2022 bis 18.01.2022
@@ -322,7 +439,7 @@ Gültig: 12.01.2022 bis 18.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_11_HumboldtGymLeipzig.pdf</id>
     <title>Humboldt-Schule - Gymnasium der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.336864+00:00</updated>
+    <updated>2022-01-14T19:20:42.498380+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.01.2022 bis 14.01.2022
@@ -335,7 +452,7 @@ Gültig: 12.01.2022 bis 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_11_74GSLeipzig.pdf</id>
     <title>74. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337013+00:00</updated>
+    <updated>2022-01-14T19:20:42.498597+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.01.2022 bis 18.01.2022
@@ -348,7 +465,7 @@ Gültig: 12.01.2022 bis 18.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_Leibniz_Schule_Leipzig.pdf</id>
     <title>Leibnizschule, Gymnasium der Stadt Leipzig, in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337168+00:00</updated>
+    <updated>2022-01-14T19:20:42.498754+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 18.01.2022
@@ -361,7 +478,7 @@ Gültig: 11.01.2022 bis 18.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_Ratzel_Oberschule_Leipzig.pdf</id>
     <title>Schule Ratzelstraße - Oberschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337323+00:00</updated>
+    <updated>2022-01-14T19:20:42.498886+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -374,7 +491,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_Werner_Heisenberg_Schule.pdf</id>
     <title>Werner-Heisenberg-Schule - Gymnasium der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337472+00:00</updated>
+    <updated>2022-01-14T19:20:42.499014+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -387,7 +504,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_GSHolzhausen.pdf</id>
     <title>Grundschule Holzhausen in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337621+00:00</updated>
+    <updated>2022-01-14T19:20:42.499141+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 21.01.2022
@@ -400,7 +517,7 @@ Gültig: 11.01.2022 bis 21.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_GSMiltitz.pdf</id>
     <title>Schule Miltitz - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337775+00:00</updated>
+    <updated>2022-01-14T19:20:42.499272+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -413,7 +530,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_SchuleFlossplatz.pdf</id>
     <title>Schule am Floßplatz - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.337924+00:00</updated>
+    <updated>2022-01-14T19:20:42.499405+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 19.01.2022
@@ -426,7 +543,7 @@ Gültig: 11.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_07_Albert_Schweitzer_Schule_Leipzig</id>
     <title>Albert-Schweitzer-Schule - Förderzentrum der Stadt Leipzig mit dem Förderschwerpunkt körperliche und motorische Entwicklung - in Leipzig</title>
-    <updated>2022-01-14T18:24:37.338073+00:00</updated>
+    <updated>2022-01-14T19:20:42.499535+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 08.01.2022 bis 17.01.2022
@@ -438,7 +555,7 @@ Gültig: 08.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_HumboldtGymnasiumRadeberg.pdf</id>
     <title>Humboldt-Gymnasium Radeberg</title>
-    <updated>2022-01-14T18:24:37.338219+00:00</updated>
+    <updated>2022-01-14T19:20:42.499658+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -451,7 +568,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_11_Philipp_Melanchthon_Gymnasium_Bautzen.pdf</id>
     <title>Philipp-Melanchthon-Gymnasium Bautzen</title>
-    <updated>2022-01-14T18:24:37.338368+00:00</updated>
+    <updated>2022-01-14T19:20:42.499795+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.01.2022 bis 18.01.2022
@@ -462,9 +579,22 @@ Gültig: 12.01.2022 bis 18.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/20220114_GSAndenGreifensteinen.pdf</id>
+    <title>Grundschule an den Greifensteinen in Ehrenfriedersdorf</title>
+    <updated>2022-01-14T19:20:42.499924+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/20220114_GSAndenGreifensteinen.pdf" rel="alternate" title="Grundschule an den Greifensteinen in Ehrenfriedersdorf"/>
+    <link href="https://www.smk.sachsen.de/ppdf/20220114_GSAndenGreifensteinen.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_OSGoetheBreitenbrunn.pdf</id>
     <title>Goethe-Schule Breitenbrunn, Oberschule in Breitenbrunn/Erzgebirge</title>
-    <updated>2022-01-14T18:24:37.338519+00:00</updated>
+    <updated>2022-01-14T19:20:42.500051+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -475,9 +605,61 @@ Gültig: 13.01.2022 bis 19.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/202_01_14_Grundschule_Grosswlehna.pdf</id>
+    <title>Grundschule Nils Holgersson Großlehna</title>
+    <updated>2022-01-14T19:20:42.500177+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/202_01_14_Grundschule_Grosswlehna.pdf" rel="alternate" title="Grundschule Nils Holgersson Großlehna"/>
+    <link href="https://www.smk.sachsen.de/ppdf/202_01_14_Grundschule_Grosswlehna.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_Bildungszentrum_Puechau.pdf</id>
+    <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft in Machern</title>
+    <updated>2022-01-14T19:20:42.500316+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 17.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Bildungszentrum_Puechau.pdf" rel="alternate" title="Bildungszentrum Püchau, Grundschule in freier Trägerschaft in Machern"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Bildungszentrum_Puechau.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_GSBelgershain.pdf</id>
+    <title>Grundschule Belgershain</title>
+    <updated>2022-01-14T19:20:42.500444+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 17.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GSBelgershain.pdf" rel="alternate" title="Grundschule Belgershain"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GSBelgershain.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_Grundschule_Kinder_dieser_Welt_Borna.pdf</id>
+    <title>Grundschule „Kinder dieser Welt“ in Borna</title>
+    <updated>2022-01-14T19:20:42.500571+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Grundschule_Kinder_dieser_Welt_Borna.pdf" rel="alternate" title="Grundschule „Kinder dieser Welt“ in Borna"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Grundschule_Kinder_dieser_Welt_Borna.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_13_Grundschule_Zwenkau.pdf</id>
     <title>Grundschule Zwenkau</title>
-    <updated>2022-01-14T18:24:37.338669+00:00</updated>
+    <updated>2022-01-14T19:20:42.500697+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 14.01.2022 bis 21.01.2022
@@ -490,7 +672,7 @@ Gültig: 14.01.2022 bis 21.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_OSPegau.pdf</id>
     <title>Oberschule "Frederic Joliot Curie" Pegau</title>
-    <updated>2022-01-14T18:24:37.338817+00:00</updated>
+    <updated>2022-01-14T19:20:42.500837+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -503,7 +685,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_GSBildungszentrumPuechau.pdf</id>
     <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft, in Machern</title>
-    <updated>2022-01-14T18:24:37.338965+00:00</updated>
+    <updated>2022-01-14T19:20:42.500974+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -514,9 +696,22 @@ Gültig: 11.01.2022 bis 17.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_GYMCoswig.pdf</id>
+    <title>Gymnasium Coswig</title>
+    <updated>2022-01-14T19:20:42.501104+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GYMCoswig.pdf" rel="alternate" title="Gymnasium Coswig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GYMCoswig.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_13_Kalkbergschule_Meissen.pdf</id>
     <title>Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen – in Meißen</title>
-    <updated>2022-01-14T18:24:37.339115+00:00</updated>
+    <updated>2022-01-14T19:20:42.501232+00:00</updated>
     <content>
 Status: teilweiser Widerruf der Allgemeinverfügung zur befristeten teilweisen Schließung
 Gültig: 14.01.2022
@@ -529,7 +724,7 @@ Gültig: 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_12_Kalkbergschule_Meissen.pdf</id>
     <title>Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen – in Meißen</title>
-    <updated>2022-01-14T18:24:37.339272+00:00</updated>
+    <updated>2022-01-14T19:20:42.501368+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -542,7 +737,7 @@ Gültig: 13.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_11_GSOberloessnitz.pdf</id>
     <title>Grundschule Oberlößnitz in Radebeul</title>
-    <updated>2022-01-14T18:24:37.339421+00:00</updated>
+    <updated>2022-01-14T19:20:42.501502+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.01.2022 bis 18.01.2022
@@ -555,7 +750,7 @@ Gültig: 12.01.2022 bis 18.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_FSKalkbergMeissen.pdf</id>
     <title>Kalkbergschule - Schule mit dem Förderschwerpunkt Lernen Meißen - in Meißen</title>
-    <updated>2022-01-14T18:24:37.339569+00:00</updated>
+    <updated>2022-01-14T19:20:42.501720+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 19.01.2022
@@ -568,7 +763,7 @@ Gültig: 11.01.2022 bis 19.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_GymCoswig.pdf</id>
     <title>Gymnasiums Coswig</title>
-    <updated>2022-01-14T18:24:37.339731+00:00</updated>
+    <updated>2022-01-14T19:20:42.501905+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 14.01.2022
@@ -581,7 +776,7 @@ Gültig: 11.01.2022 bis 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_FSAstridLindgrenFrankenberg.pdf</id>
     <title>Astrid-Lindgren-Grundschule in Frankenberg</title>
-    <updated>2022-01-14T18:24:37.339890+00:00</updated>
+    <updated>2022-01-14T19:20:42.502219+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 14.01.2022
@@ -594,7 +789,7 @@ Gültig: 11.01.2022 bis 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_12_30_OS_Rochlitz.pdf</id>
     <title>Oberschule "An der Mulde" Rochlitz</title>
-    <updated>2022-01-14T18:24:37.340040+00:00</updated>
+    <updated>2022-01-14T19:20:42.502421+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 06.01.2022 bis 12.01.2022
@@ -607,7 +802,7 @@ Gültig: 06.01.2022 bis 12.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_03_Johann_Esche_Grundschule.pdf</id>
     <title>Johann-Esche-Grundschule in Taura, OT Köthensdorf</title>
-    <updated>2022-01-14T18:24:37.340195+00:00</updated>
+    <updated>2022-01-14T19:20:42.502640+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.01.2022 bis 12.01.2022
@@ -618,9 +813,22 @@ Gültig: 04.01.2022 bis 12.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_Leibniz_Grundschule_Schkeuditz.pdf</id>
+    <title>Leibniz-Grundschule Schkeuditz</title>
+    <updated>2022-01-14T19:20:42.502836+00:00</updated>
+    <content>
+Status: befristet vollständig geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Leibniz_Grundschule_Schkeuditz.pdf" rel="alternate" title="Leibniz-Grundschule Schkeuditz"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Leibniz_Grundschule_Schkeuditz.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_11_Schule_Am_Buergergarten.pdf</id>
     <title>Schule "Am Bürgergarten", Förderzentrum mit dem Förderschwerpunkt Lernen Eilenburg, in Eilenburg</title>
-    <updated>2022-01-14T18:24:37.340347+00:00</updated>
+    <updated>2022-01-14T19:20:42.503033+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.01.2022 bis 18.01.2022
@@ -633,7 +841,7 @@ Gültig: 12.01.2022 bis 18.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_07_Foerderzentrum_Promenade_Torgau</id>
     <title>Förderzentrum an der Promenade Torgau</title>
-    <updated>2022-01-14T18:24:37.340499+00:00</updated>
+    <updated>2022-01-14T19:20:42.503232+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 08.01.2022 bis 14.01.2022
@@ -643,9 +851,22 @@ Gültig: 08.01.2022 bis 14.01.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/2022_01_14_GSBadSchandau.pdf</id>
+    <title>Erich-Wustmann-Grundschule Bad Schandau</title>
+    <updated>2022-01-14T19:20:42.503394+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GSBadSchandau.pdf" rel="alternate" title="Erich-Wustmann-Grundschule Bad Schandau"/>
+    <link href="https://www.smk.sachsen.de/ppdf/2022_01_14_GSBadSchandau.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_10_GSSonnensteinPirna.pdf</id>
     <title>Grundschule Sonnenstein in Pirna</title>
-    <updated>2022-01-14T18:24:37.340641+00:00</updated>
+    <updated>2022-01-14T19:20:42.503585+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 17.01.2022
@@ -658,7 +879,7 @@ Gültig: 11.01.2022 bis 17.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_01_10_Fachoberschule_Sabel.pdf</id>
     <title>Freie Oberschule der Sabel Freital gAG in Freital</title>
-    <updated>2022-01-14T18:24:37.340787+00:00</updated>
+    <updated>2022-01-14T19:20:42.503742+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 11.01.2022 bis 14.01.2022
@@ -671,7 +892,7 @@ Gültig: 11.01.2022 bis 14.01.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_01_12_OSOelsnitz.pdf</id>
     <title>Oberschule Oelsnitz in Oelsnitz/Vogtl.</title>
-    <updated>2022-01-14T18:24:37.340936+00:00</updated>
+    <updated>2022-01-14T19:20:42.503916+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 13.01.2022 bis 19.01.2022
@@ -679,6 +900,19 @@ Gültig: 13.01.2022 bis 19.01.2022
     <link href="https://www.smk.sachsen.de/ppdf/2022_01_12_OSOelsnitz.pdf" rel="alternate" title="Oberschule Oelsnitz in Oelsnitz/Vogtl."/>
     <link href="https://www.smk.sachsen.de/ppdf/2022_01_12_OSOelsnitz.pdf" rel="enclosure" type="application/pdf"/>
     <published>2022-01-12T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_01_14_Schule_am_Windberg_Grundschule_Zwickau.pdf</id>
+    <title>Schule am Windberg-Grundschule in Zwickau</title>
+    <updated>2022-01-14T19:20:42.504072+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 15.01.2022 bis 21.01.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Schule_am_Windberg_Grundschule_Zwickau.pdf" rel="alternate" title="Schule am Windberg-Grundschule in Zwickau"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_01_14_Schule_am_Windberg_Grundschule_Zwickau.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-01-14T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
 </feed>
