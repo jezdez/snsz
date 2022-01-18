@@ -9,9 +9,97 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 18 Jan 2022 18:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 19:21:51 +0000</lastBuildDate>
     <item>
-      <title>70. Grundschule „An der Südhöhe" in Dresden</title>
+      <title>4. Grundschule Dresden „Am Rosengarten“ in Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_4_GS_Dresden.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_4_GS_Dresden.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_4_GS_Dresden.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>116. Oberschule Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_116OS.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 21.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_116OS.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_116OS.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>101. Oberschule "Johannes Gutenberg" in Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_101OSDD.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_101OSDD.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_101OSDD.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>81. Grundschule „Robert Weber“ Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_81GSDD.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_81GSDD.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_81GSDD.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>77. Grundschule Dresden "An den Seegärten" in Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_77GSDD.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_77GSDD.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_77GSDD.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>46. Oberschule Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_46Oberschule.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_46Oberschule.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_46Oberschule.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8. Grundschule Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_8GSDD.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 26.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_8GSDD.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_8GSDD.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sportgymnasium Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_Sportgymnasium_Dresden.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_Sportgymnasium_Dresden.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_Sportgymnasium_Dresden.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>70. Grundschule „An der Südhöhe" in Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_17_70_GS_Dresden.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -322,7 +410,7 @@ Gültig: 13.01.2022 bis 20.01.2022
       <title>102. Grundschule „Johanna“ in Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_11_102_Grundschule_Dresden.pdf</link>
       <description>
-Status: Widerruf der Allgemeinverfügung zur befristeten teilweisen Schließung
+Status: Widerruf der Allgemeinverfügung zur befristeten teilweisen Schließung
 Gültig: 12.01.2022
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_11_102_Grundschule_Dresden.pdf</guid>
@@ -473,6 +561,193 @@ Gültig: 11.01.2022 bis 17.01.2022
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Joachim Ringelnatz Grundschule der Stadt Leipzig in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_Joachim_Ringelnatz_GS_Leipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 28.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_Joachim_Ringelnatz_GS_Leipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_Joachim_Ringelnatz_GS_Leipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freie Grundschule Clara Schumann Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_Freie_GS_Clara_Schumann_Leipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_Freie_GS_Clara_Schumann_Leipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_Freie_GS_Clara_Schumann_Leipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>66. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_66_GS_Leipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_66_GS_Leipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_66_GS_Leipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>91. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_GS_Leipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 24.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_GS_Leipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_GS_Leipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Goethegymnasium der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_GoetheGym.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_GoetheGym.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_GoetheGym.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carl-von-Linné-Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_CarlvLinneSchule.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 26.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_CarlvLinneSchule.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_CarlvLinneSchule.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August-Hermann-Francke Grundschule in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_AugustHermannFranckeGrundschule.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_AugustHermannFranckeGrundschule.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_AugustHermannFranckeGrundschule.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>August-Bebel-Schule – Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_AugustBebelSchuleGS.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 24.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_AugustBebelSchuleGS.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_AugustBebelSchuleGS.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>157. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_157GSLeipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_157GSLeipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_157GSLeipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule Rosenweg - Schule mit dem Förderschwerpunkt geistige Entwicklung der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_Schule_Rosenweg.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_Schule_Rosenweg.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_Schule_Rosenweg.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule am Rabet - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GSamRabetLeipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 28.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GSamRabetLeipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GSamRabetLeipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule am Floßplatz - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GSamFlossplatz.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 26.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GSamFlossplatz.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GSamFlossplatz.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule an der Bernhard-Göring-Straße in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GS%20BernhardGoeringStra%C3%9Fe.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GS%20BernhardGoeringStra%C3%9Fe.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GS%20BernhardGoeringStra%C3%9Fe.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friedrich-Fröbel-Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_F_Froebel_Grundschule.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_F_Froebel_Grundschule.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_F_Froebel_Grundschule.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule Holzhausen - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GSHolzhausen.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GSHolzhausen.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GSHolzhausen.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gustav-Hertz-Gymnasium in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GustavHertzGYM.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GustavHertzGYM.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GustavHertzGYM.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lessingschule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_LessingGSLeipzig.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_LessingGSLeipzig.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_LessingGSLeipzig.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Werner-Heisenberg-Schule – Gymnasium der Stadt Leipzig - in Leipzig</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_01_17_HeisenbergGymLeipzig.pdf</link>
       <description>
@@ -616,7 +891,7 @@ Gültig: 18.01.2022 bis 24.01.2022
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Schule am Grünen Gleis - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <title>Schule am Grünen Gleis - Grundschule der Stadt Leipzig - in Leipzig</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_17_GS_am_Gruenen_Gleis_Leipzig.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -802,6 +1077,28 @@ Gültig: 08.01.2022 bis 17.01.2022
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Dr.-Gregor-Mättig-Grundschule in Bautzen</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_DrGregorMaettigGS.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 28.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_DrGregorMaettigGS.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_DrGregorMaettigGS.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Heideschule Radeberg“, Schule mit dem Förderschwerpunkt Lernen, in Radeberg</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_Heideschule.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_Heideschule.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_Heideschule.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>„Heideschule Radeberg“, Schule mit dem Förderschwerpunkt Lernen, in Radeberg</title>
       <link>https://www.smk.sachsen.de/ppdf/22-01_17_FS_Heideschule_Radeberg.pdf</link>
       <description>
@@ -868,6 +1165,17 @@ Gültig: 13.01.2022 bis 19.01.2022
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Grundschule „Am Löbauer Berg“ in Löbau</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GSLoebau.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GSLoebau.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GSLoebau.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Grundschule Seifhennersdorf</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_01_17_GrundschuleSeifhennersdorf.pdf</link>
       <description>
@@ -877,6 +1185,39 @@ Gültig: 18.01.2022 bis 24.01.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_17_GrundschuleSeifhennersdorf.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_17_GrundschuleSeifhennersdorf.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule „Kinder dieser Welt“ in Borna</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_GSBornaWest.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_GSBornaWest.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_GSBornaWest.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gymnasium "Am Breiten Teich" Borna</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_Gym_Am_Breiten_Teich.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_Gym_Am_Breiten_Teich.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_Gym_Am_Breiten_Teich.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oberschule "Maxim Gorki" Frohburg</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_01_18_OSMaximGorki.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 28.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_18_OSMaximGorki.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_18_OSMaximGorki.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Nils Holgersson Großlehna</title>
@@ -934,7 +1275,7 @@ Gültig: 18.01.2022 bis 25.01.2022
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft in Machern</title>
+      <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft in Machern</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_17_GS_Bildungszentrum_Puechau.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -956,7 +1297,7 @@ Gültig: 15.01.2022 bis 21.01.2022
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft in Machern</title>
+      <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft in Machern</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_14_Bildungszentrum_Puechau.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -1011,7 +1352,7 @@ Gültig: 13.01.2022 bis 19.01.2022
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft, in Machern</title>
+      <title>Bildungszentrum Püchau, Grundschule in freier Trägerschaft, in Machern</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_01_10_GSBildungszentrumPuechau.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -1020,6 +1361,28 @@ Gültig: 11.01.2022 bis 17.01.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_01_10_GSBildungszentrumPuechau.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2022_01_10_GSBildungszentrumPuechau.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule Klipphausen</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_GSKlipphausen.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_GSKlipphausen.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_GSKlipphausen.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule „An der Nassau“ Meißen, Schule mit dem Förderschwerpunkt geistige Entwicklung, in Meißen</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_FS_An_der_Nassau_Meissen.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_FS_An_der_Nassau_Meissen.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_FS_An_der_Nassau_Meissen.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Werner-von-Siemens-Gymnasium Großenhain</title>
@@ -1058,7 +1421,7 @@ Gültig: 15.01.2022 bis 21.01.2022
       <title>Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen – in Meißen</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_13_Kalkbergschule_Meissen.pdf</link>
       <description>
-Status: teilweiser Widerruf der Allgemeinverfügung zur befristeten teilweisen Schließung
+Status: teilweiser Widerruf der Allgemeinverfügung zur befristeten teilweisen Schließung
 Gültig: 14.01.2022
 </description>
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_13_Kalkbergschule_Meissen.pdf</guid>
@@ -1121,7 +1484,18 @@ Gültig: 18.01.2022 bis 24.01.2022
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Schule „Am Bürgergarten“, Förderzentrum mit dem Förderschwerpunkt Lernen Eilenburg, in Eilenburg</title>
+      <title>Lessing-Oberschule Schkeuditz</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_01_18_Lessing_OS_Schkeuditz.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 19.01.2022 bis 25.01.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_01_18_Lessing_OS_Schkeuditz.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_01_18_Lessing_OS_Schkeuditz.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule „Am Bürgergarten“, Förderzentrum mit dem Förderschwerpunkt Lernen Eilenburg, in Eilenburg</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_01_17_FZEilenburg.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -1165,7 +1539,7 @@ Gültig: 18.01.2022 bis 24.01.2022
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Thomas-Müntzer-Grundschule Schkeuditz</title>
+      <title>Thomas-Müntzer-Grundschule Schkeuditz</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_01_17_Th.MuentzerGSSchkeuditz.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -1187,7 +1561,7 @@ Gültig: 15.01.2022 bis 21.01.2022
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Schule "Am Bürgergarten", Förderzentrum mit dem Förderschwerpunkt Lernen Eilenburg, in Eilenburg</title>
+      <title>Schule "Am Bürgergarten", Förderzentrum mit dem Förderschwerpunkt Lernen Eilenburg, in Eilenburg</title>
       <link>https://www.smk.sachsen.de/ppdf/22_01_11_Schule_Am_Buergergarten.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -1242,7 +1616,7 @@ Gültig: 13.01.2022 bis 19.01.2022
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Thurm in Mülsen</title>
+      <title>Grundschule Thurm in Mülsen</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_01_17_GrundschuleThurm.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
