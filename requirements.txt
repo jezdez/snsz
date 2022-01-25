@@ -126,7 +126,7 @@ queuelib==1.6.2
     # via scrapy
 regex==2021.11.10
     # via dateparser
-requests==2.26.0
+requests==2.27.1
     # via
     #   requests-oauthlib
     #   tweepy
@@ -153,7 +153,7 @@ structlog==21.5.0
     # via -r requirements.in
 tomli==1.2.2
     # via pep517
-tweepy==4.4.0
+tweepy==4.5.0
     # via -r requirements.in
 twisted[http2]==21.7.0
     # via scrapy
