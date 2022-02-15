@@ -39,6 +39,9 @@ class SchoolsSpider(scrapy.Spider):
                 continue
             # first get the name of the school
             name = row.xpath("td[1]//text()").extract_first()
+            # continue if there is no name!
+            if not name:
+                continue
             # and then split it to get name and date
             if NAME_SPLIT_STR not in name:
                 print("Split string not in name! Name:", name)
