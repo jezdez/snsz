@@ -78,6 +78,8 @@ def to_feed(df):
     fg.rights(feed["rights"])
 
     for i, row in df.iterrows():
+        if not row["name"]:
+            continue
         url = iri_to_uri(row["url"])
         fe = fg.add_entry(order="append")
         fe.id(url)
