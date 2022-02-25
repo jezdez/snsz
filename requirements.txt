@@ -80,7 +80,9 @@ lxml==4.7.1
 numpy==1.22.2
     # via pandas
 oauthlib==3.2.0
-    # via requests-oauthlib
+    # via
+    #   requests-oauthlib
+    #   tweepy
 pandas==1.4.1
     # via -r requirements.in
 parsel==1.6.0
@@ -152,7 +154,7 @@ structlog==21.5.0
     # via -r requirements.in
 tomli==2.0.1
     # via pep517
-tweepy==4.5.0
+tweepy==4.6.0
     # via -r requirements.in
 twisted[http2]==22.1.0
     # via scrapy
