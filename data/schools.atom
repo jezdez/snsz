@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-03-01T21:22:34.854722+00:00</updated>
+  <updated>2022-03-01T22:23:21.086029+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_76_Oberschule_Dresden.pdf</id>
     <title>76. Oberschule Dresden</title>
-    <updated>2022-03-01T21:22:34.855261+00:00</updated>
+    <updated>2022-03-01T22:23:21.086546+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 08.03.2022
@@ -23,7 +23,7 @@ Gültig: 02.03.2022 bis 08.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf</id>
     <title>Internationalen Schule Dresden - Dresden International School in Dresden</title>
-    <updated>2022-03-01T21:22:34.855491+00:00</updated>
+    <updated>2022-03-01T22:23:21.086775+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 08.03.2022
@@ -36,7 +36,7 @@ Gültig: 02.03.2022 bis 08.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_02_28_GSPegau.pdf</id>
     <title>Grundschule „Frédéric Joliot-Curie“ Pegau</title>
-    <updated>2022-03-01T21:22:34.855675+00:00</updated>
+    <updated>2022-03-01T22:23:21.086943+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.03.2022 bis 04.03.2022
@@ -49,7 +49,7 @@ Gültig: 01.03.2022 bis 04.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf</id>
     <title>Erasmus-Schmidt-Schule, Oberschule der Stadt Delitzsch, in Delitzsch</title>
-    <updated>2022-03-01T21:22:34.855857+00:00</updated>
+    <updated>2022-03-01T22:23:21.087102+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 04.03.2022
