@@ -9,7 +9,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 01 Mar 2022 17:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 18:24:24 +0000</lastBuildDate>
+    <item>
+      <title>76. Oberschule Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_01_76_Oberschule_Dresden.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 02.03.2022 bis 08.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_01_76_Oberschule_Dresden.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_01_76_Oberschule_Dresden.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Internationalen Schule Dresden - Dresden International School in Dresden</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 02.03.2022 bis 08.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Grundschule „Frédéric Joliot-Curie“ Pegau</title>
       <link>https://www.smk.sachsen.de/ppdf/2022_02_28_GSPegau.pdf</link>
@@ -20,6 +42,17 @@ Gültig: 01.03.2022 bis 04.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_02_28_GSPegau.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/2022_02_28_GSPegau.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erasmus-Schmidt-Schule, Oberschule der Stadt Delitzsch, in Delitzsch</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 02.03.2022 bis 04.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf" length="0" type="application/pdf"/>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
