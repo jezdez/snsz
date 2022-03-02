@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-03-02T15:24:13.045180+00:00</updated>
+  <updated>2022-03-02T16:25:09.961026+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   <subtitle>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</subtitle>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_02_33_GS_DD.pdf</id>
+    <title>33. Grundschule Dresden</title>
+    <updated>2022-03-02T16:25:09.961698+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 03.03.2022 bis 09.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_33_GS_DD.pdf" rel="alternate" title="33. Grundschule Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_33_GS_DD.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-02T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_76_Oberschule_Dresden.pdf</id>
     <title>76. Oberschule Dresden</title>
-    <updated>2022-03-02T15:24:13.045881+00:00</updated>
+    <updated>2022-03-02T16:25:09.962063+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 08.03.2022
@@ -22,21 +35,47 @@ Gültig: 02.03.2022 bis 08.03.2022
   </entry>
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf</id>
-    <title>Internationalen Schule Dresden - Dresden International School in Dresden</title>
-    <updated>2022-03-02T15:24:13.046246+00:00</updated>
+    <title>Internationale Schule Dresden - Dresden International School in Dresden</title>
+    <updated>2022-03-02T16:25:09.962277+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 08.03.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf" rel="alternate" title="Internationalen Schule Dresden - Dresden International School in Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf" rel="alternate" title="Internationale Schule Dresden - Dresden International School in Dresden"/>
     <link href="https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf" rel="enclosure" type="application/pdf"/>
     <published>2022-03-01T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf</id>
+    <title>Gerhart-Hauptmann-Schule Sohland, Oberschule in Sohland an der Spree</title>
+    <updated>2022-03-02T16:25:09.962476+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 03.03.2022 bis 06.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf" rel="alternate" title="Gerhart-Hauptmann-Schule Sohland, Oberschule in Sohland an der Spree"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-02T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_02_Grundschule_Trebsen.pdf</id>
+    <title>Grundschule Trebsen</title>
+    <updated>2022-03-02T16:25:09.962705+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 03.03.2022 bis 09.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_Grundschule_Trebsen.pdf" rel="alternate" title="Grundschule Trebsen"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_Grundschule_Trebsen.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-02T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_02_28_GSPegau.pdf</id>
     <title>Grundschule „Frédéric Joliot-Curie“ Pegau</title>
-    <updated>2022-03-02T15:24:13.046498+00:00</updated>
+    <updated>2022-03-02T16:25:09.962900+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.03.2022 bis 04.03.2022
@@ -47,16 +86,16 @@ Gültig: 01.03.2022 bis 04.03.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf</id>
-    <title>Erasmus-Schmidt-Schule, Oberschule der Stadt Delitzsch, in Delitzsch</title>
-    <updated>2022-03-02T15:24:13.046720+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf</id>
+    <title>Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen in Meißen</title>
+    <updated>2022-03-02T16:25:09.963089+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
-Gültig: 02.03.2022 bis 04.03.2022
+Gültig: 03.03.2022 bis 04.03.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf" rel="alternate" title="Erasmus-Schmidt-Schule, Oberschule der Stadt Delitzsch, in Delitzsch"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_01_ErasmusSchmidtSchule_OS.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-01T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf" rel="alternate" title="Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen in Meißen"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-02T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
 </feed>
