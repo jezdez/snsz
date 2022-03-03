@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Mar 2022 16:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Mar 2022 17:23:58 +0000</lastBuildDate>
     <item>
       <title>33. Grundschule Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_02_33_GS_DD.pdf</link>
@@ -44,6 +44,17 @@ Gültig: 02.03.2022 bis 08.03.2022
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Schule Liebertwolkwitz – Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/2022_03_03_GSLiebertwolkwitz.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 04.03.2022 bis 10.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/2022_03_03_GSLiebertwolkwitz.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/2022_03_03_GSLiebertwolkwitz.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gerhart-Hauptmann-Schule Sohland, Oberschule in Sohland an der Spree</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf</link>
       <description>
@@ -53,6 +64,16 @@ Gültig: 03.03.2022 bis 06.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf" length="0" type="application/pdf"/>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schule mit dem Förderschwerpunkt Lernen Borna</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_03_FS_Borna.docx</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 04.03.2022 bis 10.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_03_FS_Borna.docx</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Trebsen</title>
@@ -77,6 +98,16 @@ Gültig: 01.03.2022 bis 04.03.2022
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Grundschule Gröditz</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_03_Grundschule_Groeditz.docx</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 04.03.2022 bis 10.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_03_Grundschule_Groeditz.docx</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen in Meißen</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf</link>
       <description>
@@ -86,6 +117,37 @@ Gültig: 03.03.2022 bis 04.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf" length="0" type="application/pdf"/>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule Rosenthal-Bielatal</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_03_GSRosenthalBielatal.docx</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 04.03.2022 bis 10.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_03_GSRosenthalBielatal.docx</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Erich-Glowatzky-Grundschule Fraureuth</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_03_ErichGlowatzkyGS.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 04.03.2022 bis 10.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_03_ErichGlowatzkyGS.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_03_ErichGlowatzkyGS.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule Niederlungwitz in Glauchau</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_03_GSNiederlungwitz.docx</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 04.03.2022 bis 10.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_03_GSNiederlungwitz.docx</guid>
+      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
