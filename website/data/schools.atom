@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-03-04T05:22:51.993879+00:00</updated>
+  <updated>2022-03-04T06:24:35.553313+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_02_33_GS_DD.pdf</id>
     <title>33. Grundschule Dresden</title>
-    <updated>2022-03-04T05:22:51.994542+00:00</updated>
+    <updated>2022-03-04T06:24:35.553877+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 03.03.2022 bis 09.03.2022
@@ -23,7 +23,7 @@ Gültig: 03.03.2022 bis 09.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_76_Oberschule_Dresden.pdf</id>
     <title>76. Oberschule Dresden</title>
-    <updated>2022-03-04T05:22:51.994830+00:00</updated>
+    <updated>2022-03-04T06:24:35.554125+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 08.03.2022
@@ -36,7 +36,7 @@ Gültig: 02.03.2022 bis 08.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_01_International_School.pdf</id>
     <title>Internationale Schule Dresden - Dresden International School in Dresden</title>
-    <updated>2022-03-04T05:22:51.995048+00:00</updated>
+    <updated>2022-03-04T06:24:35.554308+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.03.2022 bis 08.03.2022
@@ -49,7 +49,7 @@ Gültig: 02.03.2022 bis 08.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_03_03_GSLiebertwolkwitz.pdf</id>
     <title>Schule Liebertwolkwitz – Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-03-04T05:22:51.995257+00:00</updated>
+    <updated>2022-03-04T06:24:35.554481+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.03.2022 bis 10.03.2022
@@ -62,7 +62,7 @@ Gültig: 04.03.2022 bis 10.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_02_Gerhart_Hauptmann_Oberschule_Sohland.pdf</id>
     <title>Gerhart-Hauptmann-Schule Sohland, Oberschule in Sohland an der Spree</title>
-    <updated>2022-03-04T05:22:51.995462+00:00</updated>
+    <updated>2022-03-04T06:24:35.554650+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 03.03.2022 bis 06.03.2022
@@ -75,7 +75,7 @@ Gültig: 03.03.2022 bis 06.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_03_FS_Borna.pdf</id>
     <title>Schule mit dem Förderschwerpunkt Lernen Borna</title>
-    <updated>2022-03-04T05:22:51.995664+00:00</updated>
+    <updated>2022-03-04T06:24:35.554816+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.03.2022 bis 10.03.2022
@@ -88,7 +88,7 @@ Gültig: 04.03.2022 bis 10.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_02_Grundschule_Trebsen.pdf</id>
     <title>Grundschule Trebsen</title>
-    <updated>2022-03-04T05:22:51.995868+00:00</updated>
+    <updated>2022-03-04T06:24:35.554984+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 03.03.2022 bis 09.03.2022
@@ -101,7 +101,7 @@ Gültig: 03.03.2022 bis 09.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/2022_02_28_GSPegau.pdf</id>
     <title>Grundschule „Frédéric Joliot-Curie“ Pegau</title>
-    <updated>2022-03-04T05:22:51.996071+00:00</updated>
+    <updated>2022-03-04T06:24:35.555151+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.03.2022 bis 04.03.2022
@@ -114,7 +114,7 @@ Gültig: 01.03.2022 bis 04.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_03_Grundschule_Groeditz.pdf</id>
     <title>Grundschule Gröditz</title>
-    <updated>2022-03-04T05:22:51.996267+00:00</updated>
+    <updated>2022-03-04T06:24:35.555312+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.03.2022 bis 10.03.2022
@@ -127,7 +127,7 @@ Gültig: 04.03.2022 bis 10.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_02_Kalkbergschule_Meissen.pdf</id>
     <title>Kalkbergschule – Schule mit dem Förderschwerpunkt Lernen Meißen in Meißen</title>
-    <updated>2022-03-04T05:22:51.996460+00:00</updated>
+    <updated>2022-03-04T06:24:35.555472+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 03.03.2022 bis 04.03.2022
@@ -140,7 +140,7 @@ Gültig: 03.03.2022 bis 04.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_03_GSRosenthalBielatal.pdf</id>
     <title>Grundschule Rosenthal-Bielatal</title>
-    <updated>2022-03-04T05:22:51.996664+00:00</updated>
+    <updated>2022-03-04T06:24:35.555640+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.03.2022 bis 10.03.2022
@@ -153,7 +153,7 @@ Gültig: 04.03.2022 bis 10.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_03_ErichGlowatzkyGS.pdf</id>
     <title>Erich-Glowatzky-Grundschule Fraureuth</title>
-    <updated>2022-03-04T05:22:51.996861+00:00</updated>
+    <updated>2022-03-04T06:24:35.555801+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.03.2022 bis 10.03.2022
@@ -166,7 +166,7 @@ Gültig: 04.03.2022 bis 10.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_03_GSNiederlungwitz.pdf</id>
     <title>Grundschule Niederlungwitz in Glauchau</title>
-    <updated>2022-03-04T05:22:51.997064+00:00</updated>
+    <updated>2022-03-04T06:24:35.555967+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 04.03.2022 bis 10.03.2022
