@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-03-16T14:22:33.603511+00:00</updated>
+  <updated>2022-03-16T15:24:14.063262+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   <subtitle>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</subtitle>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_16_36OSDD.pdf</id>
+    <title>36. Oberschule Dresden</title>
+    <updated>2022-03-16T15:24:14.063837+00:00</updated>
+    <content>
+Status: befristet vollständig geschlossen
+Gültig: 17.03.2022 bis 23.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_16_36OSDD.pdf" rel="alternate" title="36. Oberschule Dresden"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_16_36OSDD.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-16T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_15_Annenschule.pdf</id>
     <title>Annenschule Chemnitz Oberschule in Chemnitz</title>
-    <updated>2022-03-16T14:22:33.604062+00:00</updated>
+    <updated>2022-03-16T15:24:14.064077+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 16.03.2022 bis 22.03.2022
@@ -21,9 +34,22 @@ Gültig: 16.03.2022 bis 22.03.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_16_LandschulzentrumNeukirchen.pdf</id>
+    <title>Landschulzentrum Neukirchen</title>
+    <updated>2022-03-16T15:24:14.064255+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 17.03.2022 bis 23.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_16_LandschulzentrumNeukirchen.pdf" rel="alternate" title="Landschulzentrum Neukirchen"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_16_LandschulzentrumNeukirchen.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-16T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_15_Kompakt.pdf</id>
     <title>KOMPAKT-Schule mit Zukunft – Grundschule und Oberschule in Zwickau</title>
-    <updated>2022-03-16T14:22:33.604289+00:00</updated>
+    <updated>2022-03-16T15:24:14.064422+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 16.03.2022 bis 22.03.2022
