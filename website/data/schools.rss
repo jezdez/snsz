@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 17 Mar 2022 17:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Mar 2022 21:08:32 +0000</lastBuildDate>
     <item>
       <title>36. Oberschule Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_16_36OSDD.pdf</link>
@@ -22,6 +22,17 @@ Gültig: 17.03.2022 bis 23.03.2022
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Oberschule "Am Flughafen" in Chemnitz</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf</link>
+      <description>
+Status: befristet vollständig geschlossen
+Gültig: 18.03.2022 bis 24.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Annenschule Chemnitz Oberschule in Chemnitz</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_15_Annenschule.pdf</link>
       <description>
@@ -31,6 +42,17 @@ Gültig: 16.03.2022 bis 22.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_15_Annenschule.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_15_Annenschule.pdf" length="0" type="application/pdf"/>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>78. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 18.03.2022 bis 24.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Landschulzentrum Neukirchen</title>
