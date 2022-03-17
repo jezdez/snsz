@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-03-17T17:23:45.022546+00:00</updated>
+  <updated>2022-03-17T21:08:32.922823+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_16_36OSDD.pdf</id>
     <title>36. Oberschule Dresden</title>
-    <updated>2022-03-17T17:23:45.023065+00:00</updated>
+    <updated>2022-03-17T21:08:32.923405+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 17.03.2022 bis 23.03.2022
@@ -21,9 +21,22 @@ Gültig: 17.03.2022 bis 23.03.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf</id>
+    <title>Oberschule "Am Flughafen" in Chemnitz</title>
+    <updated>2022-03-17T21:08:32.923660+00:00</updated>
+    <content>
+Status: befristet vollständig geschlossen
+Gültig: 18.03.2022 bis 24.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf" rel="alternate" title="Oberschule &quot;Am Flughafen&quot; in Chemnitz"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-17T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_15_Annenschule.pdf</id>
     <title>Annenschule Chemnitz Oberschule in Chemnitz</title>
-    <updated>2022-03-17T17:23:45.023329+00:00</updated>
+    <updated>2022-03-17T21:08:32.923962+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 16.03.2022 bis 22.03.2022
@@ -34,9 +47,22 @@ Gültig: 16.03.2022 bis 22.03.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
+    <id>https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf</id>
+    <title>78. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
+    <updated>2022-03-17T21:08:32.924177+00:00</updated>
+    <content>
+Status: befristet teilweise geschlossen
+Gültig: 18.03.2022 bis 24.03.2022
+</content>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf" rel="alternate" title="78. Schule - Grundschule der Stadt Leipzig - in Leipzig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-03-17T00:00:00+00:00</published>
+    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
+  </entry>
+  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_16_LandschulzentrumNeukirchen.pdf</id>
     <title>Landschulzentrum Neukirchen</title>
-    <updated>2022-03-17T17:23:45.023516+00:00</updated>
+    <updated>2022-03-17T21:08:32.924443+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 17.03.2022 bis 23.03.2022
@@ -49,7 +75,7 @@ Gültig: 17.03.2022 bis 23.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_15_Kompakt.pdf</id>
     <title>KOMPAKT-Schule mit Zukunft – Grundschule und Oberschule in Zwickau</title>
-    <updated>2022-03-17T17:23:45.023689+00:00</updated>
+    <updated>2022-03-17T21:08:32.924628+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 16.03.2022 bis 22.03.2022
