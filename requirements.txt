@@ -154,7 +154,7 @@ tldextract==3.2.0
     # via scrapy
 tomli==2.0.1
     # via pep517
-tweepy==4.6.0
+tweepy==4.7.0
     # via -r requirements.in
 twisted==22.2.0
     # via scrapy
