@@ -34,7 +34,7 @@ cssselect==1.1.0
     # via
     #   parsel
     #   scrapy
-dateparser==1.1.0
+dateparser==1.1.1
     # via -r requirements.in
 diskcache==5.4.0
     # via -r requirements.in
