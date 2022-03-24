@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 24 Mar 2022 18:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 19:20:58 +0000</lastBuildDate>
     <item>
       <title>39. Grundschule Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_22_39GSDD.pdf</link>
@@ -176,7 +176,7 @@ Gültig: 23.03.2022 bis 25.03.2022
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule "Juri Gagarin" Königsbrück</title>
+      <title>Grundschule "Juri Gagarin" Königsbrück</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_21_GSKoenigsbrueck.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -185,6 +185,17 @@ Gültig: 22.03.2022 bis 25.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_21_GSKoenigsbrueck.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_21_GSKoenigsbrueck.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GLÜCK-AUF-SCHULE Hohndorf-Grundschule in Hohndorf</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_24_GSHohndorf.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 25.03.2022 bis 31.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_24_GSHohndorf.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_24_GSHohndorf.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule "Johann Wolfgang von Goethe" Zwönitz</title>
@@ -253,6 +264,17 @@ Gültig: 22.03.2022 bis 25.03.2022
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Schule "An der Nassau" Meißen, Schule mit dem Förderschwerpunkt geistige Entwicklung in Meißen</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf</link>
+      <description>
+Status: befristet vollständig geschlossen
+Gültig: 25.03.2022 bis 01.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Gymnasium "Franziskaneum" Meißen</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_23_GYMeissen.pdf</link>
       <description>
@@ -262,6 +284,39 @@ Gültig: 24.03.2022 bis 28.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_23_GYMeissen.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_23_GYMeissen.pdf" length="0" type="application/pdf"/>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule "Friedrich Kaden" Großschirma</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_24_GSGrossschirma.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 25.03.2022 bis 31.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_24_GSGrossschirma.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_24_GSGrossschirma.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kunzemannschule Döbeln – Grundschule in Döbeln</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 25.03.2022 bis 01.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seeber-Grundschule Niederwiesa</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_24_GSSeeber.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 25.03.2022 bis 28.03.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_24_GSSeeber.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_24_GSSeeber.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Halsbrücke</title>
@@ -275,7 +330,7 @@ Gültig: 24.03.2022 bis 28.03.2022
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Halsbrücke</title>
+      <title>Grundschule Halsbrücke</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_22_Halsbruecke.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -330,7 +385,7 @@ Gültig: 23.03.2022 bis 25.03.2022
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Pausa in Pausa-Mühltroff</title>
+      <title>Grundschule Pausa in Pausa-Mühltroff</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_22_GrundschulePausa.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -363,7 +418,7 @@ Gültig: 22.03.2022 bis 28.03.2022
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule „Otto Schüler“ Ellefeld</title>
+      <title>Grundschule „Otto Schüler“ Ellefeld</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_18_GSEllefeld.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
@@ -372,6 +427,17 @@ Gültig: 19.03.2022 bis 25.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_18_GSEllefeld.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_18_GSEllefeld.pdf" length="0" type="application/pdf"/>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Altstädter Schule – Grundschule in Waldenburg</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 25.03.2022 bis 01.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Langenweißbach</title>
@@ -385,7 +451,7 @@ Gültig: 23.03.2022 bis 29.03.2022
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Grundschule Thurmin Mülsen</title>
+      <title>Grundschule Thurmin Mülsen</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_21_GSThurm.pdf</link>
       <description>
 Status: befristet teilweise geschlossen
