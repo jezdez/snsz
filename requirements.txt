@@ -109,7 +109,7 @@ python-dateutil==2.8.2
     #   dateparser
     #   feedgen
     #   pandas
-python-dotenv[cli]==0.19.2
+python-dotenv[cli]==0.20.0
     # via -r requirements.in
 pytz==2021.3
     # via
