@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-03-27T05:22:20.024367+00:00</updated>
+  <updated>2022-03-27T06:24:53.363350+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_39GSDD.pdf</id>
     <title>39. Grundschule Dresden</title>
-    <updated>2022-03-27T05:22:20.025006+00:00</updated>
+    <updated>2022-03-27T06:24:53.363954+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.03.2022 bis 29.03.2022
@@ -23,7 +23,7 @@ Gültig: 23.03.2022 bis 29.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_89GSDD.pdf</id>
     <title>89. Grundschule Dresden</title>
-    <updated>2022-03-27T05:22:20.025314+00:00</updated>
+    <updated>2022-03-27T06:24:53.364296+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 23.03.2022 bis 29.03.2022
@@ -36,7 +36,7 @@ Gültig: 23.03.2022 bis 29.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_68GSDD.pdf</id>
     <title>68. Grundschule Dresden "Am Heiligen Born" in Dresden</title>
-    <updated>2022-03-27T05:22:20.025528+00:00</updated>
+    <updated>2022-03-27T06:24:53.364557+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 25.03.2022
@@ -49,7 +49,7 @@ Gültig: 22.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_FSErich.pdf</id>
     <title>Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung "Erich Kästner" in Dresden</title>
-    <updated>2022-03-27T05:22:20.025728+00:00</updated>
+    <updated>2022-03-27T06:24:53.364897+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -62,7 +62,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_120GSDD.pdf</id>
     <title>120. Grundschule Dresden "Am Geberbach" in Dresden</title>
-    <updated>2022-03-27T05:22:20.025924+00:00</updated>
+    <updated>2022-03-27T06:24:53.365155+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -75,7 +75,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_151OSDD.pdf</id>
     <title>151. Oberschule Dresden</title>
-    <updated>2022-03-27T05:22:20.026117+00:00</updated>
+    <updated>2022-03-27T06:24:53.365405+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -88,7 +88,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_16_36OSDD.pdf</id>
     <title>36. Oberschule Dresden</title>
-    <updated>2022-03-27T05:22:20.026313+00:00</updated>
+    <updated>2022-03-27T06:24:53.365639+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 17.03.2022 bis 23.03.2022
@@ -101,7 +101,7 @@ Gültig: 17.03.2022 bis 23.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_23_GSSonnenberg.pdf</id>
     <title>Grundschule Sonnenberg in Chemnitz</title>
-    <updated>2022-03-27T05:22:20.026509+00:00</updated>
+    <updated>2022-03-27T06:24:53.365865+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.03.2022 bis 30.03.2022
@@ -114,7 +114,7 @@ Gültig: 24.03.2022 bis 30.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_GSAdelsberg.pdf</id>
     <title>Grundschule Adelsberg in Chemnitz</title>
-    <updated>2022-03-27T05:22:20.026698+00:00</updated>
+    <updated>2022-03-27T06:24:53.366087+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 25.03.2022
@@ -127,7 +127,7 @@ Gültig: 22.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_GSLudwig.pdf</id>
     <title>Ludwig-Richter-Grundschule in Chemnitz</title>
-    <updated>2022-03-27T05:22:20.026886+00:00</updated>
+    <updated>2022-03-27T06:24:53.366308+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -140,7 +140,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_17_OberschuleAmFlughafen.pdf</id>
     <title>Oberschule "Am Flughafen" in Chemnitz</title>
-    <updated>2022-03-27T05:22:20.027075+00:00</updated>
+    <updated>2022-03-27T06:24:53.366530+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 18.03.2022 bis 24.03.2022
@@ -153,7 +153,7 @@ Gültig: 18.03.2022 bis 24.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_15_Annenschule.pdf</id>
     <title>Annenschule Chemnitz Oberschule in Chemnitz</title>
-    <updated>2022-03-27T05:22:20.027262+00:00</updated>
+    <updated>2022-03-27T06:24:53.366786+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 16.03.2022 bis 22.03.2022
@@ -166,7 +166,7 @@ Gültig: 16.03.2022 bis 22.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_78GSL.pdf</id>
     <title>78. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-03-27T05:22:20.027484+00:00</updated>
+    <updated>2022-03-27T06:24:53.367038+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -179,7 +179,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_17_78GSL.pdf</id>
     <title>78. Schule - Grundschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-03-27T05:22:20.027693+00:00</updated>
+    <updated>2022-03-27T06:24:53.367280+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 18.03.2022 bis 24.03.2022
@@ -192,7 +192,7 @@ Gültig: 18.03.2022 bis 24.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_GSSorb.pdf</id>
     <title>Sorbische Grundschule in Bautzen</title>
-    <updated>2022-03-27T05:22:20.027883+00:00</updated>
+    <updated>2022-03-27T06:24:53.367510+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 25.03.2022
@@ -205,7 +205,7 @@ Gültig: 23.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_GSKoenigsbrueck.pdf</id>
     <title>Grundschule "Juri Gagarin" Königsbrück</title>
-    <updated>2022-03-27T05:22:20.028067+00:00</updated>
+    <updated>2022-03-27T06:24:53.367727+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 25.03.2022
@@ -218,7 +218,7 @@ Gültig: 22.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSHohndorf.pdf</id>
     <title>GLÜCK-AUF-SCHULE Hohndorf-Grundschule in Hohndorf</title>
-    <updated>2022-03-27T05:22:20.028336+00:00</updated>
+    <updated>2022-03-27T06:24:53.368007+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.03.2022 bis 31.03.2022
@@ -231,7 +231,7 @@ Gültig: 25.03.2022 bis 31.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_23_GSZwoenitz.pdf</id>
     <title>Grundschule "Johann Wolfgang von Goethe" Zwönitz</title>
-    <updated>2022-03-27T05:22:20.028542+00:00</updated>
+    <updated>2022-03-27T06:24:53.368233+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 24.03.2022 bis 28.03.2022
@@ -244,7 +244,7 @@ Gültig: 24.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_GSPesta.pdf</id>
     <title>Pestalozzischule-Grundschule in Schneeberg</title>
-    <updated>2022-03-27T05:22:20.028746+00:00</updated>
+    <updated>2022-03-27T06:24:53.368468+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 28.03.2022
@@ -257,7 +257,7 @@ Gültig: 23.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_GSGreifensteinen.pdf</id>
     <title>Grundschule an den Greifensteinen in Ehrenfriedersdorf</title>
-    <updated>2022-03-27T05:22:20.028950+00:00</updated>
+    <updated>2022-03-27T06:24:53.368707+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -270,7 +270,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_GSElterlein.pdf</id>
     <title>Grundschule Elterlein</title>
-    <updated>2022-03-27T05:22:20.029138+00:00</updated>
+    <updated>2022-03-27T06:24:53.368948+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -283,7 +283,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_GSHohndorf.pdf</id>
     <title>GLÜCK-AUF-SCHULE Hohndorf-Grundschule in Hohndorf</title>
-    <updated>2022-03-27T05:22:20.029323+00:00</updated>
+    <updated>2022-03-27T06:24:53.369169+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -296,7 +296,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_GSALB.pdf</id>
     <title>Grundschule "Am Löbauer Berg" in Löbau</title>
-    <updated>2022-03-27T05:22:20.029516+00:00</updated>
+    <updated>2022-03-27T06:24:53.369443+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 25.03.2022
@@ -309,7 +309,7 @@ Gültig: 22.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf</id>
     <title>Schule "An der Nassau" Meißen, Schule mit dem Förderschwerpunkt geistige Entwicklung in Meißen</title>
-    <updated>2022-03-27T05:22:20.029703+00:00</updated>
+    <updated>2022-03-27T06:24:53.369704+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 25.03.2022 bis 01.04.2022
@@ -322,7 +322,7 @@ Gültig: 25.03.2022 bis 01.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_23_GYMeissen.pdf</id>
     <title>Gymnasium "Franziskaneum" Meißen</title>
-    <updated>2022-03-27T05:22:20.029889+00:00</updated>
+    <updated>2022-03-27T06:24:53.369925+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.03.2022 bis 28.03.2022
@@ -335,7 +335,7 @@ Gültig: 24.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSGrossschirma.pdf</id>
     <title>Grundschule "Friedrich Kaden" Großschirma</title>
-    <updated>2022-03-27T05:22:20.030077+00:00</updated>
+    <updated>2022-03-27T06:24:53.370143+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.03.2022 bis 31.03.2022
@@ -348,7 +348,7 @@ Gültig: 25.03.2022 bis 31.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf</id>
     <title>Kunzemannschule Döbeln – Grundschule in Döbeln</title>
-    <updated>2022-03-27T05:22:20.030273+00:00</updated>
+    <updated>2022-03-27T06:24:53.370370+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.03.2022 bis 01.04.2022
@@ -361,7 +361,7 @@ Gültig: 25.03.2022 bis 01.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSSeeber.pdf</id>
     <title>Seeber-Grundschule Niederwiesa</title>
-    <updated>2022-03-27T05:22:20.030461+00:00</updated>
+    <updated>2022-03-27T06:24:53.370590+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.03.2022 bis 28.03.2022
@@ -374,7 +374,7 @@ Gültig: 25.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_23_GSHalsbruecke.pdf</id>
     <title>Grundschule Halsbrücke</title>
-    <updated>2022-03-27T05:22:20.030646+00:00</updated>
+    <updated>2022-03-27T06:24:53.370807+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 24.03.2022 bis 28.03.2022
@@ -387,7 +387,7 @@ Gültig: 24.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_Halsbruecke.pdf</id>
     <title>Grundschule Halsbrücke</title>
-    <updated>2022-03-27T05:22:20.030829+00:00</updated>
+    <updated>2022-03-27T06:24:53.371034+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 25.03.2022
@@ -400,7 +400,7 @@ Gültig: 23.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_GSOberschoena.pdf</id>
     <title>Grundschule Oberschöna</title>
-    <updated>2022-03-27T05:22:20.031025+00:00</updated>
+    <updated>2022-03-27T06:24:53.371768+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -413,7 +413,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_HHSchuleErlau.pdf</id>
     <title>Heinrich-Hoffmann-Schule, Schule mit dem Förderschwerpunkt emotionale und soziale Entwicklung in Erlau</title>
-    <updated>2022-03-27T05:22:20.031216+00:00</updated>
+    <updated>2022-03-27T06:24:53.372029+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -426,7 +426,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_GSLoebnitz.pdf</id>
     <title>Grundschule Löbnitz</title>
-    <updated>2022-03-27T05:22:20.031402+00:00</updated>
+    <updated>2022-03-27T06:24:53.372276+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -439,7 +439,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_GrundschuleLauenstein.pdf</id>
     <title>Grundschule Lauenstein</title>
-    <updated>2022-03-27T05:22:20.031625+00:00</updated>
+    <updated>2022-03-27T06:24:53.372523+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 25.03.2022
@@ -452,7 +452,7 @@ Gültig: 23.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_GrundschulePausa.pdf</id>
     <title>Grundschule Pausa in Pausa-Mühltroff</title>
-    <updated>2022-03-27T05:22:20.031822+00:00</updated>
+    <updated>2022-03-27T06:24:53.372776+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 29.03.2022
@@ -465,7 +465,7 @@ Gültig: 23.03.2022 bis 29.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_GSWerda.pdf</id>
     <title>Grundschule Werda</title>
-    <updated>2022-03-27T05:22:20.032015+00:00</updated>
+    <updated>2022-03-27T06:24:53.373033+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 25.03.2022
@@ -478,7 +478,7 @@ Gültig: 23.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_FSSyrau.pdf</id>
     <title>Karl-Theodor-Golle-Schule Syrau, Schule mit dem Förderschwerpunkt geistige Entwicklung in Rosenbach/Vogtl.</title>
-    <updated>2022-03-27T05:22:20.032186+00:00</updated>
+    <updated>2022-03-27T06:24:53.373272+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -491,7 +491,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_GSEllefeld.pdf</id>
     <title>Grundschule „Otto Schüler“ Ellefeld</title>
-    <updated>2022-03-27T05:22:20.032363+00:00</updated>
+    <updated>2022-03-27T06:24:53.373566+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -504,7 +504,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf</id>
     <title>Altstädter Schule – Grundschule in Waldenburg</title>
-    <updated>2022-03-27T05:22:20.032546+00:00</updated>
+    <updated>2022-03-27T06:24:53.373849+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 25.03.2022 bis 01.04.2022
@@ -517,7 +517,7 @@ Gültig: 25.03.2022 bis 01.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_22_Langenweissbach.pdf</id>
     <title>Grundschule Langenweißbach</title>
-    <updated>2022-03-27T05:22:20.032718+00:00</updated>
+    <updated>2022-03-27T06:24:53.374085+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 23.03.2022 bis 29.03.2022
@@ -530,7 +530,7 @@ Gültig: 23.03.2022 bis 29.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_GSThurm.pdf</id>
     <title>Grundschule Thurmin Mülsen</title>
-    <updated>2022-03-27T05:22:20.032887+00:00</updated>
+    <updated>2022-03-27T06:24:53.374304+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -543,7 +543,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_Kompakt.pdf</id>
     <title>KOMPAKT-Schule mit Zukunft – Grundschule und Oberschule in Zwickau</title>
-    <updated>2022-03-27T05:22:20.033057+00:00</updated>
+    <updated>2022-03-27T06:24:53.374521+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -556,7 +556,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_21_NicolaischuleGS.pdf</id>
     <title>Nicolaischule-Grundschule in Zwickau</title>
-    <updated>2022-03-27T05:22:20.033239+00:00</updated>
+    <updated>2022-03-27T06:24:53.374760+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 22.03.2022 bis 28.03.2022
@@ -569,7 +569,7 @@ Gültig: 22.03.2022 bis 28.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_18_Kompakt.pdf</id>
     <title>KOMPAKT-Schule mit Zukunft – Grundschule und Oberschule in Zwickau</title>
-    <updated>2022-03-27T05:22:20.033411+00:00</updated>
+    <updated>2022-03-27T06:24:53.374983+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 19.03.2022 bis 25.03.2022
@@ -582,7 +582,7 @@ Gültig: 19.03.2022 bis 25.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_16_LandschulzentrumNeukirchen.pdf</id>
     <title>Landschulzentrum Neukirchen</title>
-    <updated>2022-03-27T05:22:20.033592+00:00</updated>
+    <updated>2022-03-27T06:24:53.375209+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 17.03.2022 bis 23.03.2022
@@ -595,7 +595,7 @@ Gültig: 17.03.2022 bis 23.03.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_15_Kompakt.pdf</id>
     <title>KOMPAKT-Schule mit Zukunft – Grundschule und Oberschule in Zwickau</title>
-    <updated>2022-03-27T05:22:20.033769+00:00</updated>
+    <updated>2022-03-27T06:24:53.375449+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 16.03.2022 bis 22.03.2022
