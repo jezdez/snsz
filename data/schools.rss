@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 28 Mar 2022 15:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 16:25:58 +0000</lastBuildDate>
     <item>
       <title>39. Grundschule Dresden</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_22_39GSDD.pdf</link>
@@ -44,6 +44,28 @@ Gültig: 22.03.2022 bis 28.03.2022
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Annenschule - Grundschule in Chemnitz</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_28_GSAnnen.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 29.03.2022 bis 01.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_28_GSAnnen.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_28_GSAnnen.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule Altendorf in Chemnitz</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_28_GSAltendorf.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 29.03.2022 bis 01.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_28_GSAltendorf.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_28_GSAltendorf.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Alexander-von-Humboldt-Oberschule Chemnitz</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_25_OSHumboldt.pdf</link>
       <description>
@@ -64,6 +86,17 @@ Gültig: 24.03.2022 bis 30.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_23_GSSonnenberg.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_23_GSSonnenberg.pdf" length="0" type="application/pdf"/>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule Lichtenberg in Lichtenberg/Erzgebirge</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_28_GSLichtenberg.pdf</link>
+      <description>
+Status: befristet vollständig geschlossen
+Gültig: 29.03.2022 bis 01.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_28_GSLichtenberg.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_28_GSLichtenberg.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pestalozzischule-Grundschule in Schneeberg</title>
@@ -196,6 +229,17 @@ Gültig: 22.03.2022 bis 28.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_21_GSLoebnitz.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_21_GSLoebnitz.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grundschule Rosenthal-Bielatal</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 29.03.2022 bis 04.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf" length="0" type="application/pdf"/>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Pausa in Pausa-Mühltroff</title>
