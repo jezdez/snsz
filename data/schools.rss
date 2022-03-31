@@ -9,7 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 31 Mar 2022 13:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2022 14:23:40 +0000</lastBuildDate>
     <item>
       <title>Johann-Friedrich-Jencke-Schule Dresden, Schule mit den Förderschwerpunkten Hören und geistige Entwicklung - Grundschulteil</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_29_FSJFJSDD.pdf</link>
@@ -97,6 +97,17 @@ Gültig: 24.03.2022 bis 30.03.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_23_GSSonnenberg.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_23_GSSonnenberg.pdf" length="0" type="application/pdf"/>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pestalozzischule-Grundschule in Schneeberg</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 01.04.2022 bis 07.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf" length="0" type="application/pdf"/>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Lichtenberg in Lichtenberg/Erzgebirge</title>
