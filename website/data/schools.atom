@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-04-04T13:26:37.571856+00:00</updated>
+  <updated>2022-04-04T14:23:32.626888+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_01_FSJFJSDD.pdf</id>
     <title>Johann-Friedrich-Jencke-Schule Dresden, Schule mit den Förderschwerpunkten Hören und geistige Entwicklung - Grundschulteil - in Dresden</title>
-    <updated>2022-04-04T13:26:37.572382+00:00</updated>
+    <updated>2022-04-04T14:23:32.627513+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.04.2022 bis 06.04.2022
@@ -21,61 +21,9 @@ Gültig: 02.04.2022 bis 06.04.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_29_FSJFJSDD.pdf</id>
-    <title>Johann-Friedrich-Jencke-Schule Dresden, Schule mit den Förderschwerpunkten Hören und geistige Entwicklung - Grundschulteil</title>
-    <updated>2022-04-04T13:26:37.572624+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 30.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_29_FSJFJSDD.pdf" rel="alternate" title="Johann-Friedrich-Jencke-Schule Dresden, Schule mit den Förderschwerpunkten Hören und geistige Entwicklung - Grundschulteil"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_29_FSJFJSDD.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-29T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_28_GSAnnen.pdf</id>
-    <title>Annenschule - Grundschule in Chemnitz</title>
-    <updated>2022-04-04T13:26:37.572799+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 29.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_28_GSAnnen.pdf" rel="alternate" title="Annenschule - Grundschule in Chemnitz"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_28_GSAnnen.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-28T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_28_GSAltendorf.pdf</id>
-    <title>Grundschule Altendorf in Chemnitz</title>
-    <updated>2022-04-04T13:26:37.572957+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 29.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_28_GSAltendorf.pdf" rel="alternate" title="Grundschule Altendorf in Chemnitz"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_28_GSAltendorf.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-28T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_25_OSHumboldt.pdf</id>
-    <title>Alexander-von-Humboldt-Oberschule Chemnitz</title>
-    <updated>2022-04-04T13:26:37.573112+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 26.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_25_OSHumboldt.pdf" rel="alternate" title="Alexander-von-Humboldt-Oberschule Chemnitz"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_25_OSHumboldt.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-25T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf</id>
     <title>Pestalozzischule-Grundschule in Schneeberg</title>
-    <updated>2022-04-04T13:26:37.573264+00:00</updated>
+    <updated>2022-04-04T14:23:32.627841+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.04.2022 bis 07.04.2022
@@ -86,61 +34,35 @@ Gültig: 01.04.2022 bis 07.04.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_28_GSLichtenberg.pdf</id>
-    <title>Grundschule Lichtenberg in Lichtenberg/Erzgebirge</title>
-    <updated>2022-04-04T13:26:37.573420+00:00</updated>
-    <content>
-Status: befristet vollständig geschlossen
-Gültig: 29.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_28_GSLichtenberg.pdf" rel="alternate" title="Grundschule Lichtenberg in Lichtenberg/Erzgebirge"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_28_GSLichtenberg.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-28T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_25_GSPesta.pdf</id>
-    <title>Pestalozzischule-Grundschule in Schneeberg</title>
-    <updated>2022-04-04T13:26:37.573571+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf</id>
+    <title>Schule "Lichtblick" Riesa mit dem Förderschwerpunkt geistige Entwicklung in Riesa</title>
+    <updated>2022-04-04T14:23:32.628039+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
-Gültig: 26.03.2022 bis 01.04.2022
+Gültig: 05.04.2022 bis 08.04.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_25_GSPesta.pdf" rel="alternate" title="Pestalozzischule-Grundschule in Schneeberg"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_25_GSPesta.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-25T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf" rel="alternate" title="Schule &quot;Lichtblick&quot; Riesa mit dem Förderschwerpunkt geistige Entwicklung in Riesa"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-04-04T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf</id>
-    <title>Schule "An der Nassau" Meißen, Schule mit dem Förderschwerpunkt geistige Entwicklung in Meißen</title>
-    <updated>2022-04-04T13:26:37.573725+00:00</updated>
-    <content>
-Status: befristet vollständig geschlossen
-Gültig: 25.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf" rel="alternate" title="Schule &quot;An der Nassau&quot; Meißen, Schule mit dem Förderschwerpunkt geistige Entwicklung in Meißen"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_24_AnderNassau.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-24T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf</id>
-    <title>Kunzemannschule Döbeln – Grundschule in Döbeln</title>
-    <updated>2022-04-04T13:26:37.573876+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf</id>
+    <title>Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten geistige Entwicklung und Lernen in Torgau</title>
+    <updated>2022-04-04T14:23:32.628218+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
-Gültig: 25.03.2022 bis 01.04.2022
+Gültig: 05.04.2022 bis 08.04.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf" rel="alternate" title="Kunzemannschule Döbeln – Grundschule in Döbeln"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_24_GSKunzemann.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-24T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf" rel="alternate" title="Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten geistige Entwicklung und Lernen in Torgau"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-04-04T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf</id>
     <title>Grundschule Rosenthal-Bielatal</title>
-    <updated>2022-04-04T13:26:37.574027+00:00</updated>
+    <updated>2022-04-04T14:23:32.628388+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.03.2022 bis 04.04.2022
@@ -153,7 +75,7 @@ Gültig: 29.03.2022 bis 04.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_01_GSJoessnitz.pdf</id>
     <title>Grundschule Jößnitz in Plauen</title>
-    <updated>2022-04-04T13:26:37.574180+00:00</updated>
+    <updated>2022-04-04T14:23:32.628557+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.04.2022 bis 08.04.2022
@@ -166,7 +88,7 @@ Gültig: 02.04.2022 bis 08.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf</id>
     <title>Grundschule Friederike-Caroline-Neuber in Reichenbach im Vogtland</title>
-    <updated>2022-04-04T13:26:37.574332+00:00</updated>
+    <updated>2022-04-04T14:23:32.628722+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.04.2022 bis 08.04.2022
@@ -174,32 +96,6 @@ Gültig: 02.04.2022 bis 08.04.2022
     <link href="https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf" rel="alternate" title="Grundschule Friederike-Caroline-Neuber in Reichenbach im Vogtland"/>
     <link href="https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf" rel="enclosure" type="application/pdf"/>
     <published>2022-04-01T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_25_GSKaethe.pdf</id>
-    <title>Grundschule "Käthe Kollwitz" in Crimmitschau</title>
-    <updated>2022-04-04T13:26:37.574483+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 26.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_25_GSKaethe.pdf" rel="alternate" title="Grundschule &quot;Käthe Kollwitz&quot; in Crimmitschau"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_25_GSKaethe.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-25T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf</id>
-    <title>Altstädter Schule – Grundschule in Waldenburg</title>
-    <updated>2022-04-04T13:26:37.574633+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 25.03.2022 bis 01.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf" rel="alternate" title="Altstädter Schule – Grundschule in Waldenburg"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_24_GSAltstaedter.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-24T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
 </feed>
