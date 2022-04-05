@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-04-05T16:25:28.925026+00:00</updated>
+  <updated>2022-04-05T17:24:18.458018+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_01_FSJFJSDD.pdf</id>
     <title>Johann-Friedrich-Jencke-Schule Dresden, Schule mit den Förderschwerpunkten Hören und geistige Entwicklung - Grundschulteil - in Dresden</title>
-    <updated>2022-04-05T16:25:28.925618+00:00</updated>
+    <updated>2022-04-05T17:24:18.458548+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.04.2022 bis 06.04.2022
@@ -23,7 +23,7 @@ Gültig: 02.04.2022 bis 06.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf</id>
     <title>Pestalozzischule-Grundschule in Schneeberg</title>
-    <updated>2022-04-05T16:25:28.925867+00:00</updated>
+    <updated>2022-04-05T17:24:18.458769+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 01.04.2022 bis 07.04.2022
@@ -36,7 +36,7 @@ Gültig: 01.04.2022 bis 07.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf</id>
     <title>Schule "Lichtblick" Riesa mit dem Förderschwerpunkt geistige Entwicklung in Riesa</title>
-    <updated>2022-04-05T16:25:28.926059+00:00</updated>
+    <updated>2022-04-05T17:24:18.458942+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 05.04.2022 bis 08.04.2022
@@ -49,7 +49,7 @@ Gültig: 05.04.2022 bis 08.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf</id>
     <title>Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten geistige Entwicklung und Lernen in Torgau</title>
-    <updated>2022-04-05T16:25:28.926234+00:00</updated>
+    <updated>2022-04-05T17:24:18.459100+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 05.04.2022 bis 08.04.2022
@@ -62,7 +62,7 @@ Gültig: 05.04.2022 bis 08.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf</id>
     <title>Grundschule Rosenthal-Bielatal</title>
-    <updated>2022-04-05T16:25:28.926404+00:00</updated>
+    <updated>2022-04-05T17:24:18.459253+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 29.03.2022 bis 04.04.2022
@@ -75,7 +75,7 @@ Gültig: 29.03.2022 bis 04.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_01_GSJoessnitz.pdf</id>
     <title>Grundschule Jößnitz in Plauen</title>
-    <updated>2022-04-05T16:25:28.926570+00:00</updated>
+    <updated>2022-04-05T17:24:18.459405+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.04.2022 bis 08.04.2022
@@ -88,7 +88,7 @@ Gültig: 02.04.2022 bis 08.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf</id>
     <title>Grundschule Friederike-Caroline-Neuber in Reichenbach im Vogtland</title>
-    <updated>2022-04-05T16:25:28.926811+00:00</updated>
+    <updated>2022-04-05T17:24:18.459558+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 02.04.2022 bis 08.04.2022
