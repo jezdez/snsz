@@ -9,18 +9,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>SNSZ</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 08 Apr 2022 13:26:49 +0000</lastBuildDate>
-    <item>
-      <title>Johann-Friedrich-Jencke-Schule Dresden, Schule mit den Förderschwerpunkten Hören und geistige Entwicklung - Grundschulteil - in Dresden</title>
-      <link>https://www.smk.sachsen.de/ppdf/22_04_01_FSJFJSDD.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 02.04.2022 bis 06.04.2022
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_04_01_FSJFJSDD.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/22_04_01_FSJFJSDD.pdf" length="0" type="application/pdf"/>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 08 Apr 2022 14:23:02 +0000</lastBuildDate>
     <item>
       <title>Pestalozzischule-Grundschule in Schneeberg</title>
       <link>https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf</link>
@@ -44,6 +33,17 @@ Gültig: 05.04.2022 bis 08.04.2022
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Grundschule "Carl Böhme" in Freiberg</title>
+      <link>https://www.smk.sachsen.de/ppdf/22_04_08_Freiberg.pdf</link>
+      <description>
+Status: befristet teilweise geschlossen
+Gültig: 09.04.2022 bis 13.04.2022
+</description>
+      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_04_08_Freiberg.pdf</guid>
+      <enclosure url="https://www.smk.sachsen.de/ppdf/22_04_08_Freiberg.pdf" length="0" type="application/pdf"/>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten geistige Entwicklung und Lernen in Torgau</title>
       <link>https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf</link>
       <description>
@@ -53,17 +53,6 @@ Gültig: 05.04.2022 bis 08.04.2022
       <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf</guid>
       <enclosure url="https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf" length="0" type="application/pdf"/>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grundschule Rosenthal-Bielatal</title>
-      <link>https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf</link>
-      <description>
-Status: befristet teilweise geschlossen
-Gültig: 29.03.2022 bis 04.04.2022
-</description>
-      <guid isPermaLink="false">https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf</guid>
-      <enclosure url="https://www.smk.sachsen.de/ppdf/22_03_28_GSRosenthal.pdf" length="0" type="application/pdf"/>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Grundschule Jößnitz in Plauen</title>
