@@ -2,41 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-04-11T17:24:40.443538+00:00</updated>
+  <updated>2022-04-11T18:25:38.766192+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   <subtitle>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</subtitle>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf</id>
-    <title>Pestalozzischule-Grundschule in Schneeberg</title>
-    <updated>2022-04-11T17:24:40.444184+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_04_11_OSFrege.pdf</id>
+    <title>Christian-Gottlob-Frege-Schule - Oberschule der Stadt Leipzig - in Leipzig</title>
+    <updated>2022-04-11T18:25:38.766785+00:00</updated>
     <content>
-Status: befristet teilweise geschlossen
-Gültig: 01.04.2022 bis 07.04.2022
+Status: befristet vollständig geschlossen
+Gültig: 12.04.2022 bis 14.04.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf" rel="alternate" title="Pestalozzischule-Grundschule in Schneeberg"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_03_31_GSPesta.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-03-31T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_11_OSFrege.pdf" rel="alternate" title="Christian-Gottlob-Frege-Schule - Oberschule der Stadt Leipzig - in Leipzig"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_11_OSFrege.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-04-11T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf</id>
-    <title>Schule "Lichtblick" Riesa mit dem Förderschwerpunkt geistige Entwicklung in Riesa</title>
-    <updated>2022-04-11T17:24:40.444461+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_04_11_GSGornsdorf.pdf</id>
+    <title>Grundschule Gornsdorf</title>
+    <updated>2022-04-11T18:25:38.767003+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
-Gültig: 05.04.2022 bis 08.04.2022
+Gültig: 12.04.2022 bis 14.04.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf" rel="alternate" title="Schule &quot;Lichtblick&quot; Riesa mit dem Förderschwerpunkt geistige Entwicklung in Riesa"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_Lichtblick.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-04-04T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_11_GSGornsdorf.pdf" rel="alternate" title="Grundschule Gornsdorf"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_11_GSGornsdorf.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-04-11T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_08_Freiberg.pdf</id>
     <title>Grundschule "Carl Böhme" in Freiberg</title>
-    <updated>2022-04-11T17:24:40.444672+00:00</updated>
+    <updated>2022-04-11T18:25:38.767175+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 09.04.2022 bis 13.04.2022
@@ -47,42 +47,16 @@ Gültig: 09.04.2022 bis 13.04.2022
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
   <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf</id>
-    <title>Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten geistige Entwicklung und Lernen in Torgau</title>
-    <updated>2022-04-11T17:24:40.444879+00:00</updated>
+    <id>https://www.smk.sachsen.de/ppdf/22_04_11_FSOschatz.pdf</id>
+    <title>Schule mit dem Förderschwerpunkt geistige Entwicklung Oschatz</title>
+    <updated>2022-04-11T18:25:38.767337+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
-Gültig: 05.04.2022 bis 08.04.2022
+Gültig: 12.04.2022 bis 14.04.2022
 </content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf" rel="alternate" title="Förderzentrum an der Promenade Torgau mit den Förderschwerpunkten geistige Entwicklung und Lernen in Torgau"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_04_FZTorgau.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-04-04T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_04_01_GSJoessnitz.pdf</id>
-    <title>Grundschule Jößnitz in Plauen</title>
-    <updated>2022-04-11T17:24:40.445076+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 02.04.2022 bis 08.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_01_GSJoessnitz.pdf" rel="alternate" title="Grundschule Jößnitz in Plauen"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_01_GSJoessnitz.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-04-01T00:00:00+00:00</published>
-    <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
-  </entry>
-  <entry>
-    <id>https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf</id>
-    <title>Grundschule Friederike-Caroline-Neuber in Reichenbach im Vogtland</title>
-    <updated>2022-04-11T17:24:40.445379+00:00</updated>
-    <content>
-Status: befristet teilweise geschlossen
-Gültig: 02.04.2022 bis 08.04.2022
-</content>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf" rel="alternate" title="Grundschule Friederike-Caroline-Neuber in Reichenbach im Vogtland"/>
-    <link href="https://www.smk.sachsen.de/ppdf/22_04_01_GSFCNeuber.pdf" rel="enclosure" type="application/pdf"/>
-    <published>2022-04-01T00:00:00+00:00</published>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_11_FSOschatz.pdf" rel="alternate" title="Schule mit dem Förderschwerpunkt geistige Entwicklung Oschatz"/>
+    <link href="https://www.smk.sachsen.de/ppdf/22_04_11_FSOschatz.pdf" rel="enclosure" type="application/pdf"/>
+    <published>2022-04-11T00:00:00+00:00</published>
     <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
   </entry>
 </feed>
