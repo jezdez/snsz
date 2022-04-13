@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://jezdez.github.io/snsz/</id>
   <title>Schulschließungen oder eingeschränktem Regelbetrieb in Sachsen</title>
-  <updated>2022-04-13T19:21:58.037392+00:00</updated>
+  <updated>2022-04-13T20:24:22.265632+00:00</updated>
   <link href="https://jezdez.github.io/snsz/" rel="self"/>
   <generator>SNSZ</generator>
   <rights>Sächsisches Staatsministerium für Kultus, https://www.smk.sachsen.de/rechtliche-hinweise.html</rights>
@@ -10,7 +10,7 @@
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_11_OSFrege.pdf</id>
     <title>Christian-Gottlob-Frege-Schule - Oberschule der Stadt Leipzig - in Leipzig</title>
-    <updated>2022-04-13T19:21:58.037966+00:00</updated>
+    <updated>2022-04-13T20:24:22.266196+00:00</updated>
     <content>
 Status: befristet vollständig geschlossen
 Gültig: 12.04.2022 bis 14.04.2022
@@ -23,7 +23,7 @@ Gültig: 12.04.2022 bis 14.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_11_GSGornsdorf.pdf</id>
     <title>Grundschule Gornsdorf</title>
-    <updated>2022-04-13T19:21:58.038209+00:00</updated>
+    <updated>2022-04-13T20:24:22.266430+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.04.2022 bis 14.04.2022
@@ -36,7 +36,7 @@ Gültig: 12.04.2022 bis 14.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_08_Freiberg.pdf</id>
     <title>Grundschule "Carl Böhme" in Freiberg</title>
-    <updated>2022-04-13T19:21:58.038399+00:00</updated>
+    <updated>2022-04-13T20:24:22.266616+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 09.04.2022 bis 13.04.2022
@@ -49,7 +49,7 @@ Gültig: 09.04.2022 bis 13.04.2022
   <entry>
     <id>https://www.smk.sachsen.de/ppdf/22_04_11_FSOschatz.pdf</id>
     <title>Schule mit dem Förderschwerpunkt geistige Entwicklung Oschatz</title>
-    <updated>2022-04-13T19:21:58.038578+00:00</updated>
+    <updated>2022-04-13T20:24:22.266821+00:00</updated>
     <content>
 Status: befristet teilweise geschlossen
 Gültig: 12.04.2022 bis 14.04.2022
