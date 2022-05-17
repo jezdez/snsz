@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at minute 15 past every hour from 6 through 24. (CET)  # FIXME: when CEST starts
-    - cron:  '15 5-23 * * *'
+    # - cron:  '15 5-23 * * *'
 
 jobs:
   build:
