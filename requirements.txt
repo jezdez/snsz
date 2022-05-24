@@ -40,7 +40,7 @@ diskcache==5.4.0
     # via -r requirements.in
 feedgen==0.9.0
     # via -r requirements.in
-feedparser==6.0.8
+feedparser==6.0.10
     # via -r requirements.in
 filelock==3.6.0
     # via tldextract
