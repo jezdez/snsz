@@ -11,6 +11,8 @@ attrs==21.4.0
     #   twisted
 automat==20.2.0
     # via twisted
+build==0.8.0
+    # via pip-tools
 certifi==2021.10.8
     # via requests
 cffi==1.15.0
@@ -76,6 +78,8 @@ oauthlib==3.2.0
     # via
     #   requests-oauthlib
     #   tweepy
+packaging==21.3
+    # via build
 pandas==1.4.2
     # via -r requirements.in
 parsel==1.6.0
@@ -83,8 +87,8 @@ parsel==1.6.0
     #   itemloaders
     #   scrapy
 pep517==0.12.0
-    # via pip-tools
-pip-tools==6.5.1
+    # via build
+pip-tools==6.7.0
     # via -r requirements.in
 protego==0.2.0
     # via scrapy
@@ -102,6 +106,8 @@ pygments==2.11.2
     # via rich
 pyopenssl==22.0.0
     # via scrapy
+pyparsing==3.0.9
+    # via packaging
 python-dateutil==2.8.2
     # via
     #   dateparser
@@ -151,7 +157,9 @@ structlog==21.5.0
 tldextract==3.2.0
     # via scrapy
 tomli==2.0.1
-    # via pep517
+    # via
+    #   build
+    #   pep517
 tweepy==4.9.0
     # via -r requirements.in
 twisted==22.4.0
