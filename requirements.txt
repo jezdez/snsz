@@ -65,7 +65,7 @@ itemloaders==1.0.4
     # via scrapy
 jmespath==0.10.0
     # via itemloaders
-lxml==4.7.1
+lxml==4.9.1
     # via
     #   feedgen
     #   parsel
