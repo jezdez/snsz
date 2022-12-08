@@ -11,7 +11,7 @@ attrs==21.4.0
     #   twisted
 automat==20.2.0
     # via twisted
-certifi==2021.10.8
+certifi==2022.12.7
     # via requests
 cffi==1.15.0
     # via cryptography
