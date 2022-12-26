@@ -169,7 +169,7 @@ w3lib==1.22.0
     #   itemloaders
     #   parsel
     #   scrapy
-wheel==0.37.1
+wheel==0.38.1
     # via pip-tools
 zope-interface==5.4.0
     # via
